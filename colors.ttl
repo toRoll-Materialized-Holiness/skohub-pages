@@ -18,3 +18,7 @@ colour:violet a skos:Concept ;
 colour:blue a skos:Concept ;
     skos:prefLabel "Blau"@de, "blue"@en ;
     skos:topConceptOf colour: .
+
+colour:green a skos:Concept ;
+    skos:prefLabel "Grün"@de, "green"@en ;
+    skos:topConceptOf colour: .
