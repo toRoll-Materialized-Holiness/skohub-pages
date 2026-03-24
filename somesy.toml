@@ -1,0 +1,100 @@
+[project]
+name = "toRoll_TOM_Vocabulary"
+version = "v1.0.0"
+description = "This vocabulary describes and establishes distinctive terms for decorated Hebrew letters in medieval Torah scrolls (tagin and otiyyot meshunnot)."
+
+keywords = ["thesaurus", "Torah", "tagin", "otiyyot meshunnot", "annotation", "SKOS"]
+license = "Apache-2.0"
+repository = "https://github.com/toRoll-Materialized-Holiness/skohub-pages/"
+
+# authors of the project:
+
+[[project.people]]
+given-names = "Laura"
+family-names = "Frank"
+orcid = "https://orcid.org/0000-0001-6286-2771"
+affiliation = "Karlsruhe Institute of Technology (KIT)"
+author = true
+maintainer = true
+
+
+[[project.people]]
+given-names = "Germaine"
+family-names = "Götzelmann"
+affiliation = "Karlsruhe Institute of Technology (KIT)"
+orcid = "https://orcid.org/0000-0003-3974-3728"
+author = true      # is a full author of the project (i.e. appears in citations)
+maintainer = true  # currently maintains the project (i.e. is a contact person)
+
+[[project.people]]
+given-names = "Christopher"
+family-names = "Raquet"
+orcid = "https://orcid.org/0009-0003-2196-9187"
+affiliation = "Karlsruhe Institute of Technology (KIT)"
+author = true
+maintainer = true
+
+[[project.people]]
+given-names = "Philipp"
+family-names = "Tögel"
+orcid = "https://orcid.org/0000-0002-1791-0268"
+affiliation = "Karlsruhe Institute of Technology (KIT)"
+author = true
+maintainer = true
+
+[[project.people]]
+given-names = "Danah"
+family-names = "Tonne"
+orcid = "https://orcid.org/0000-0001-6296-7282"
+affiliation = "Karlsruhe Institute of Technology (KIT)"
+author = true
+maintainer = true
+
+# Berlin
+
+[[project.people]]
+given-names = "Aram"
+family-names = "Abu-Saleh"
+affiliation = "Freie Universität Berlin (FU)"
+publication_author = true
+
+[[project.people]]
+given-names = "Anne May"
+family-names = "Dallendörfer"
+affiliation = "Freie Universität Berlin (FU)"
+publication_author = true
+
+[[project.people]]
+given-names = "Dana"
+family-names = "Eichhorst"
+affiliation = "Freie Universität Berlin (FU)"
+publication_author = true
+
+
+[[project.people]]
+given-names = "Emese"
+family-names = "Kozma"
+publication_author = true
+
+[[project.people]]
+given-names = "Annett"
+family-names = "Martini"
+affiliation = "Freie Universität Berlin (FU)"
+publication_author = true
+
+[[project.people]]
+given-names = "Katharina Haddasah"
+family-names = "Wendl"
+affiliation = "Freie Universität Berlin (FU)"
+publication_author = true
+
+[[project.people]]
+given-names = "Juan"
+family-names = "Mora Zepeda"
+affiliation = "Universität Heidelberg"
+publication_author = true
+
+
+
+[config]
+verbose = true
