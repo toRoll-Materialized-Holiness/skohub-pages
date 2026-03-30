@@ -42,4 +42,8 @@ ui:
         url: "https://www.geschkult.fu-berlin.de/en/e/materialisierte-heiligkeit/index.html"
         target: "_blank"
         rel: "noopener noreferrer"
+      - title: "© SkoHub"
+        url: "https://skohub.io"
+        target: "_blank"
+        rel: "noopener noreferrer"        
 
