@@ -37,5 +37,9 @@ ui:
       font_weight: 700
       name: "ubuntu-v20-latin-700"
   footer:
-    links: []
+    links:
+      - title: "Project"
+        url: "https://www.geschkult.fu-berlin.de/en/e/materialisierte-heiligkeit/index.html"
+        target: "_blank"
+        rel: "noopener noreferrer"
 
