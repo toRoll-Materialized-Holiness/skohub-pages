@@ -1,9 +1,9 @@
 {
-  "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1pb",
+  "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1bp",
   "type": "Concept",
   "prefLabel": {
-    "en": "vav_e1pb",
-    "de": "vav_e1pb"
+    "en": "vav_e1bp",
+    "de": "vav_e1bp"
   },
   "hiddenLabel": {
     "en": [
@@ -20,15 +20,15 @@
     ]
   },
   "definition": {
-    "en": "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one bow at the third position.",
-    "de": "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Bogen an der dritten Position."
+    "en": "Elongated variant of the Vav with one tag at the first position, one bow at the second position, and one pretzel at the third position.",
+    "de": "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Kringel an der dritten Position."
   },
   "scopeNote": {
     "en": [
-      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1pb"
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1bp"
     ],
     "de": [
-      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1pb"
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1bp"
     ]
   },
   "broader": {
