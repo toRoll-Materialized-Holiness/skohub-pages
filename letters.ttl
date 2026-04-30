@@ -8118,18 +8118,18 @@ tom:vav_e100
       "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e100"@de ,
       "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e100"@en .
 
-tom:vav_e1pb
+tom:vav_e1bp
   a skos:Concept ;
   skos:inScheme tom: ;
   skos:broader tom:vav ;
-  skos:prefLabel "vav_e1pb"@de , "vav_e1pb"@en ;
+  skos:prefLabel "vav_e1bp"@de , "vav_e1bp"@en ;
     skos:hiddenLabel
         "1Tag"@de, "verlängert"@de, "Kringel"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "pretzel"@en, "bow"@en ;
-  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Bogen an der dritten Position."@de ,
-                  "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one bow at the third position."@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Kringel an der dritten Position."@de ,
+                  "Elongated variant of the Vav with one tag at the first position, one bow at the second position, and one pretzel at the third position."@en ;
   skos:scopeNote
-      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1pb"@de ,
-      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1pb"@en .
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1bp"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1bp"@en .
 
 tom:vav_e1p0
   a skos:Concept ;
