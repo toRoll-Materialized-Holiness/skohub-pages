@@ -1711,6 +1711,20 @@ tom:dalet_1112
         "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1112"@de ,
         "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1112"@en .
 
+tom:dalet_1201
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1201"@de , "dalet_1201"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position, two tagin at the second position, and one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1201"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1201"@en .
+
 tom:dalet_1210
     a skos:Concept ;
     skos:inScheme tom: ;
@@ -2195,6 +2209,21 @@ tom:he_2300
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2300"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2300"@en .
 
+tom:he_3000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_3000"@de , "he_3000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with three tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-3000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3000"@en .
+
+
 tom:he_3001
     a skos:Concept ;
     skos:inScheme tom: ;
@@ -2507,6 +2536,20 @@ tom:het_11000
         "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-11000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/het.html#variante-11000"@en .
 
+tom:het_11001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_11001"@de , "het_11001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position, on tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-11001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-11001"@en .
+
 tom:het_110bb
     a skos:Concept ;
     skos:inScheme tom: ;
@@ -2576,6 +2619,20 @@ tom:het_21000
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-21000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/het.html#variante-21000"@en .
+
+tom:het_30000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_30000"@de , "het_30000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+    skos:definition
+        "Variante des Het mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with three tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-30000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-30000"@en .
 
 tom:het_c00000
     a skos:Concept ;
@@ -2674,6 +2731,20 @@ tom:het_e10000
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e10000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e10000"@en .
+
+tom:het_e1000b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e1000b"@de , "het_e1000b"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "bow"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e1000b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e1000b"@en .
 
 tom:het_e100bb
     a skos:Concept ;
@@ -3523,6 +3594,20 @@ tom:kafsofit_12001
         "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-12001"@de ,
         "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-12001"@en .
 
+tom:kafsofit_120p1
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_120p1"@de , "kafsofit_120p1"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "Kringel"@de, "4tagin"@en, "pretzel"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Kringel an der vierten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position, two tagin at the second position, a pretzel at the fourth position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-120p1"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-120p1"@en .
+
 tom:kafsofit_12100
     a skos:Concept ;
     skos:inScheme tom: ;
@@ -3768,6 +3853,20 @@ tom:lamed_p00
 ############################################################
 # Block 11: variants of mem
 ############################################################
+
+tom:mem_000p0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_000p0"@de , "mem_000p0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
+    skos:definition
+        "Variante des Mem mit einem Kringel an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with a pretzel at the fourth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-000p0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-000p0"@en .
 
 tom:mem_00200
     a skos:Concept ;
@@ -5131,6 +5230,18 @@ tom:pe_2100001
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2100001"@de ,
   "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-2100001"@en .
 
+tom:pe_3000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_3000000"@de , "pe_3000000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+  skos:definition "Variante des Pe mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-3000000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-3000000"@en .
+
 tom:pe_w0000000
   a skos:Concept ;
   skos:inScheme tom: ;
@@ -5382,6 +5493,19 @@ tom:pesofit_10002
   skos:scopeNote
       "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10002"@de ,
       "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10002"@en .
+
+tom:pesofit_10021
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10021"@de , "pesofit_10021"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, zwei Tagin an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, two tagin at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10021"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10021"@en .
 
 tom:pesofit_100p0
   a skos:Concept ;
@@ -6054,6 +6178,19 @@ tom:resh_1100
       "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1100"@de ,
       "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1100"@en .
 
+tom:resh_1101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1101"@de , "resh_1101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1101"@en .
+
 tom:resh_1110
   a skos:Concept ;
   skos:inScheme tom: ;
@@ -6383,6 +6520,19 @@ tom:samekh_130000
       "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-130000"@de ,
       "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-130000"@en .
 
+tom:samekh_210001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_210001"@de , "samekh_210001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the first position, one tag at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-210001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-210001"@en .
+
 tom:samekh_210010
   a skos:Concept ;
   skos:inScheme tom: ;
@@ -6395,6 +6545,19 @@ tom:samekh_210010
   skos:scopeNote
       "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-210010"@de ,
       "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-210010"@en .
+
+tom:samekh_220000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_220000"@de , "samekh_220000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-220000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-220000"@en .
 
 tom:samekh_300000
   a skos:Concept ;
@@ -7626,6 +7789,19 @@ tom:tsadesofit_1120
       "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-1120"@de ,
       "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-1120"@en .
 
+tom:tsadesofit_1200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_1200"@de , "tsadesofit_1200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
+  skos:definition "Variante des Tsadesofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-1200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-1200"@en .
+
 tom:tsadesofit_2000
   a skos:Concept ;
   skos:inScheme tom: ;
@@ -7954,6 +8130,19 @@ tom:vav_e1pb
   skos:scopeNote
       "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1pb"@de ,
       "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1pb"@en .
+
+tom:vav_e1p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e1p0"@de , "vav_e1p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Kringel"@de, "1tag"@en, "elongated"@en, "pretzel"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und ohne Tagin an der dritten Position."@de ,
+                  "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and no tagin at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1p0"@en .
 
 tom:vav_e1pp
   a skos:Concept ;
