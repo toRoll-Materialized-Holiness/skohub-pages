@@ -77,6 +77,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1201",
+      "prefLabel": {
+        "en": "dalet_1201",
+        "de": "dalet_1201"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1210",
       "prefLabel": {
         "en": "dalet_1210",

@@ -119,6 +119,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_11001",
+      "prefLabel": {
+        "en": "het_11001",
+        "de": "het_11001"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/het_110bb",
       "prefLabel": {
         "en": "het_110bb",
@@ -151,6 +158,13 @@
       "prefLabel": {
         "en": "het_21000",
         "de": "het_21000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_30000",
+      "prefLabel": {
+        "en": "het_30000",
+        "de": "het_30000"
       }
     },
     {
@@ -200,6 +214,13 @@
       "prefLabel": {
         "en": "het_e10000",
         "de": "het_e10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e1000b",
+      "prefLabel": {
+        "en": "het_e1000b",
+        "de": "het_e1000b"
       }
     },
     {

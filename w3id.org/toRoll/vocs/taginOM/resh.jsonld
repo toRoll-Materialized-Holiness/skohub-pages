@@ -91,6 +91,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1101",
+      "prefLabel": {
+        "en": "resh_1101",
+        "de": "resh_1101"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1110",
       "prefLabel": {
         "en": "resh_1110",

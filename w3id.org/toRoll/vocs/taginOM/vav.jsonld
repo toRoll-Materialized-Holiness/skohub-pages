@@ -140,6 +140,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1p0",
+      "prefLabel": {
+        "en": "vav_e1p0",
+        "de": "vav_e1p0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1pp",
       "prefLabel": {
         "en": "vav_e1pp",

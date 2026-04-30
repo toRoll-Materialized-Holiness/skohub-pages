@@ -7,6 +7,13 @@
   },
   "narrower": [
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_000p0",
+      "prefLabel": {
+        "en": "mem_000p0",
+        "de": "mem_000p0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/mem_00200",
       "prefLabel": {
         "en": "mem_00200",

@@ -238,6 +238,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_3000000",
+      "prefLabel": {
+        "en": "pe_3000000",
+        "de": "pe_3000000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/pe_w0000000",
       "prefLabel": {
         "en": "pe_w0000000",

@@ -21,6 +21,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit_1200",
+      "prefLabel": {
+        "en": "tsadesofit_1200",
+        "de": "tsadesofit_1200"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit_2000",
       "prefLabel": {
         "en": "tsadesofit_2000",

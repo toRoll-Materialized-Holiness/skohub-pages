@@ -63,6 +63,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit_10021",
+      "prefLabel": {
+        "en": "pesofit_10021",
+        "de": "pesofit_10021"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit_100p0",
       "prefLabel": {
         "en": "pesofit_100p0",

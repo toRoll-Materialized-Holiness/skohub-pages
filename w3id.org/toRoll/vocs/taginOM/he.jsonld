@@ -210,6 +210,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_3000",
+      "prefLabel": {
+        "en": "he_3000",
+        "de": "he_3000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_3001",
       "prefLabel": {
         "en": "he_3001",

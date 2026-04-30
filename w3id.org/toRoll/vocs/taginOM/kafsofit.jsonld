@@ -147,6 +147,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_120p1",
+      "prefLabel": {
+        "en": "kafsofit_120p1",
+        "de": "kafsofit_120p1"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_12100",
       "prefLabel": {
         "en": "kafsofit_12100",

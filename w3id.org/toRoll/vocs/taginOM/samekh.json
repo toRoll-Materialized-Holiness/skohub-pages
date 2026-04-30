@@ -154,10 +154,24 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_210001",
+      "prefLabel": {
+        "en": "samekh_210001",
+        "de": "samekh_210001"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_210010",
       "prefLabel": {
         "en": "samekh_210010",
         "de": "samekh_210010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_220000",
+      "prefLabel": {
+        "en": "samekh_220000",
+        "de": "samekh_220000"
       }
     },
     {
