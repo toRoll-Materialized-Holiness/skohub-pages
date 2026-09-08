@@ -1313,3 +1313,1520 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
   </tr>
 
 </table>
+
+## He
+The naming scheme consists of:
+* letter with separator: `he_`
+* global prefix: optional, possible value `e`
+* position-bound phenomena: optional, possible value `f`
+* four-digit number: e.g. `0001`
+He has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. A position-bound phenomenon may be a flag. The flag is denoted by `f` for *flag*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0001.svg" width="160" alt="he_0001">
+    </td>
+    <td>
+      <a name="he_0001"></a>
+      <strong>he_0001</strong><br>
+      Variant of the He with one tag at the fourth position and no tagin at the first three positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0010.svg" width="160" alt="he_0010">
+    </td>
+    <td>
+      <a name="he_0010"></a>
+      <strong>he_0010</strong><br>
+      Variant of the He with one tag at the third position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0020.svg" width="160" alt="he_0020">
+    </td>
+    <td>
+      <a name="he_0020"></a>
+      <strong>he_0020</strong><br>
+      Variant of the He with two tagin at the third position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0100.svg" width="160" alt="he_0100">
+    </td>
+    <td>
+      <a name="he_0100"></a>
+      <strong>he_0100</strong><br>
+      Variant of the He with one tag at the second position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0110.svg" width="160" alt="he_0110">
+    </td>
+    <td>
+      <a name="he_0110"></a>
+      <strong>he_0110</strong><br>
+      Variant of the He with one tag at the second position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0120.svg" width="160" alt="he_0120">
+    </td>
+    <td>
+      <a name="he_0120"></a>
+      <strong>he_0120</strong><br>
+      Variant of the He with one tag at the second position, two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0200.svg" width="160" alt="he_0200">
+    </td>
+    <td>
+      <a name="he_0200"></a>
+      <strong>he_0200</strong><br>
+      Variant of the He with two tagin at the second position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0201.svg" width="160" alt="he_0201">
+    </td>
+    <td>
+      <a name="he_0201"></a>
+      <strong>he_0201</strong><br>
+      Variant of the He with two tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0210.svg" width="160" alt="he_0210">
+    </td>
+    <td>
+      <a name="he_0210"></a>
+      <strong>he_0210</strong><br>
+      Variant of the He with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0300.svg" width="160" alt="he_0300">
+    </td>
+    <td>
+      <a name="he_0300"></a>
+      <strong>he_0300</strong><br>
+      Variant of the He with three tagin at the second position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0301.svg" width="160" alt="he_0301">
+    </td>
+    <td>
+      <a name="he_0301"></a>
+      <strong>he_0301</strong><br>
+      Variant of the He with three tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1000.svg" width="160" alt="he_1000">
+    </td>
+    <td>
+      <a name="he_1000"></a>
+      <strong>he_1000</strong><br>
+      Variant of the He with one tag at the first position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1001.svg" width="160" alt="he_1001">
+    </td>
+    <td>
+      <a name="he_1001"></a>
+      <strong>he_1001</strong><br>
+      Variant of the He with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1010.svg" width="160" alt="he_1010">
+    </td>
+    <td>
+      <a name="he_1010"></a>
+      <strong>he_1010</strong><br>
+      Variant of the He with one tag at the first position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1011.svg" width="160" alt="he_1011">
+    </td>
+    <td>
+      <a name="he_1011"></a>
+      <strong>he_1011</strong><br>
+      Variant of the He with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the second position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1020.svg" width="160" alt="he_1020">
+    </td>
+    <td>
+      <a name="he_1020"></a>
+      <strong>he_1020</strong><br>
+      Variant of the He with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1100.svg" width="160" alt="he_1100">
+    </td>
+    <td>
+      <a name="he_1100"></a>
+      <strong>he_1100</strong><br>
+      Variant of the He with one tag at the first position, one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1110.svg" width="160" alt="he_1110">
+    </td>
+    <td>
+      <a name="he_1110"></a>
+      <strong>he_1110</strong><br>
+      Variant of the He with three tagin: one tag at the first, second and third position, and no tagin at the fourth position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1111.svg" width="160" alt="he_1111">
+    </td>
+    <td>
+      <a name="he_1111"></a>
+      <strong>he_1111</strong><br>
+      Variant of the He with four tagin: one tag at the first, second, third and fourth position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1120.svg" width="160" alt="he_1120">
+    </td>
+    <td>
+      <a name="he_1120"></a>
+      <strong>he_1120</strong><br>
+      Variant of the He with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the fourth position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1200.svg" width="160" alt="he_1200">
+    </td>
+    <td>
+      <a name="he_1200"></a>
+      <strong>he_1200</strong><br>
+      Variant of the He with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1201.svg" width="160" alt="he_1201">
+    </td>
+    <td>
+      <a name="he_1201"></a>
+      <strong>he_1201</strong><br>
+      Variant of the He with one tag at the first position, two tagin at the second position, one tag at the fourth position, and no tagin at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1210.svg" width="160" alt="he_1210">
+    </td>
+    <td>
+      <a name="he_1210"></a>
+      <strong>he_1210</strong><br>
+      Variant of the He with one tag at the first position, two tagin at the second position, one tag at the third position, and no tagin at the fourth position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2000.svg" width="160" alt="he_2000">
+    </td>
+    <td>
+      <a name="he_2000"></a>
+      <strong>he_2000</strong><br>
+      Variant of the He with two tagin at the first position and no tagin at the other positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2001.svg" width="160" alt="he_2001">
+    </td>
+    <td>
+      <a name="he_2001"></a>
+      <strong>he_2001</strong><br>
+      Variant of the He with two tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2010.svg" width="160" alt="he_2010">
+    </td>
+    <td>
+      <a name="he_2010"></a>
+      <strong>he_2010</strong><br>
+      Variant of the He with two tagin at the first position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2020.svg" width="160" alt="he_2020">
+    </td>
+    <td>
+      <a name="he_2020"></a>
+      <strong>he_2020</strong><br>
+      Variant of the He with two tagin at the first position, two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2100.svg" width="160" alt="he_2100">
+    </td>
+    <td>
+      <a name="he_2100"></a>
+      <strong>he_2100</strong><br>
+      Variant of the He with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2300.svg" width="160" alt="he_2300">
+    </td>
+    <td>
+      <a name="he_2300"></a>
+      <strong>he_2300</strong><br>
+      Variant of the He with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3000.svg" width="160" alt="he_3000">
+    </td>
+    <td>
+      <a name="he_3000"></a>
+      <strong>he_3000</strong><br>
+      Variant of the He with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3001.svg" width="160" alt="he_3001">
+    </td>
+    <td>
+      <a name="he_3001"></a>
+      <strong>he_3001</strong><br>
+      Variant of the He with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3021.svg" width="160" alt="he_3021">
+    </td>
+    <td>
+      <a name="he_3021"></a>
+      <strong>he_3021</strong><br>
+      Variant of the He with three tagin at the first position, two tagin at the third position, one tag at the fourth position, and no tagin at the second position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_b000.svg" width="160" alt="he_b000">
+    </td>
+    <td>
+      <a name="he_b000"></a>
+      <strong>he_b000</strong><br>
+      Variant of the He with one bow at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_e0000.svg" width="160" alt="he_e0000">
+    </td>
+    <td>
+      <a name="he_e0000"></a>
+      <strong>he_e0000</strong><br>
+      Elongated variant of the He with no tagin at any of the four positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_f000.svg" width="160" alt="he_f000">
+    </td>
+    <td>
+      <a name="he_f000"></a>
+      <strong>he_f000</strong><br>
+      Variant of the He with one flag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_f001.svg" width="160" alt="he_f001">
+    </td>
+    <td>
+      <a name="he_f001"></a>
+      <strong>he_f001</strong><br>
+      Variant of the He with one flag at the first position, no tagin at the second and third positions, and one tag at the fourth position.
+    </td>
+  </tr>
+
+</table>
+
+## Het
+The naming scheme consists of:
+* letter with separator: `het_`
+* global prefixes: optional, possible values `e`, `r`, `c`, `s`
+* position-bound phenomena: optional, possible values `b`, `f`, `p`
+* five-digit number: e.g. `01000`
+Het has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. If the letter has a roof instead of the horizontal stroke, an `r` for *roof* is used as the next entry. Further global phenomena may include a distorted letter, `c` for *crooked*, or a struck-through letter, `s` for *struckthrough*. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0000b.svg" width="160" alt="het_0000b">
+    </td>
+    <td>
+      <a name="het_0000b"></a>
+      <strong>het_0000b</strong><br>
+      Variant of the Het with one bow at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_000bb.svg" width="160" alt="het_000bb">
+    </td>
+    <td>
+      <a name="het_000bb"></a>
+      <strong>het_000bb</strong><br>
+      Variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_01000.svg" width="160" alt="het_01000">
+    </td>
+    <td>
+      <a name="het_01000"></a>
+      <strong>het_01000</strong><br>
+      Variant of the Het with one tag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0100b.svg" width="160" alt="het_0100b">
+    </td>
+    <td>
+      <a name="het_0100b"></a>
+      <strong>het_0100b</strong><br>
+      Variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_010bb.svg" width="160" alt="het_010bb">
+    </td>
+    <td>
+      <a name="het_010bb"></a>
+      <strong>het_010bb</strong><br>
+      Variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_01100.svg" width="160" alt="het_01100">
+    </td>
+    <td>
+      <a name="het_01100"></a>
+      <strong>het_01100</strong><br>
+      Variant of the Het with one tag at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0110b.svg" width="160" alt="het_0110b">
+    </td>
+    <td>
+      <a name="het_0110b"></a>
+      <strong>het_0110b</strong><br>
+      Variant of the Het with one tag at the second position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_02000.svg" width="160" alt="het_02000">
+    </td>
+    <td>
+      <a name="het_02000"></a>
+      <strong>het_02000</strong><br>
+      Variant of the Het with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0f000.svg" width="160" alt="het_0f000">
+    </td>
+    <td>
+      <a name="het_0f000"></a>
+      <strong>het_0f000</strong><br>
+      Variant of the Het with one flag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10000.svg" width="160" alt="het_10000">
+    </td>
+    <td>
+      <a name="het_10000"></a>
+      <strong>het_10000</strong><br>
+      Variant of the Het with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_1000b.svg" width="160" alt="het_1000b">
+    </td>
+    <td>
+      <a name="het_1000b"></a>
+      <strong>het_1000b</strong><br>
+      Variant of the Het with one tag at the first position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10100.svg" width="160" alt="het_10100">
+    </td>
+    <td>
+      <a name="het_10100"></a>
+      <strong>het_10100</strong><br>
+      Variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_1010b.svg" width="160" alt="het_1010b">
+    </td>
+    <td>
+      <a name="het_1010b"></a>
+      <strong>het_1010b</strong><br>
+      Variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_101bb.svg" width="160" alt="het_101bb">
+    </td>
+    <td>
+      <a name="het_101bb"></a>
+      <strong>het_101bb</strong><br>
+      Variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10200.svg" width="160" alt="het_10200">
+    </td>
+    <td>
+      <a name="het_10200"></a>
+      <strong>het_10200</strong><br>
+      Variant of the Het with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11000.svg" width="160" alt="het_11000">
+    </td>
+    <td>
+      <a name="het_11000"></a>
+      <strong>het_11000</strong><br>
+      Variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11001.svg" width="160" alt="het_11001">
+    </td>
+    <td>
+      <a name="het_11001"></a>
+      <strong>het_11001</strong><br>
+      Variant of the Het with one tag at the first position, on tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_110bb.svg" width="160" alt="het_110bb">
+    </td>
+    <td>
+      <a name="het_110bb"></a>
+      <strong>het_110bb</strong><br>
+      Variant of the Het with one tag at the first position, one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11100.svg" width="160" alt="het_11100">
+    </td>
+    <td>
+      <a name="het_11100"></a>
+      <strong>het_11100</strong><br>
+      Variant of the Het with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_12000.svg" width="160" alt="het_12000">
+    </td>
+    <td>
+      <a name="het_12000"></a>
+      <strong>het_12000</strong><br>
+      Variant of the Het with one tag at the first position and two tagin at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_20001.svg" width="160" alt="het_20001">
+    </td>
+    <td>
+      <a name="het_20001"></a>
+      <strong>het_20001</strong><br>
+      Variant of the Het with two tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_21000.svg" width="160" alt="het_21000">
+    </td>
+    <td>
+      <a name="het_21000"></a>
+      <strong>het_21000</strong><br>
+      Variant of the Het with two tagin at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_30000.svg" width="160" alt="het_30000">
+    </td>
+    <td>
+      <a name="het_30000"></a>
+      <strong>het_30000</strong><br>
+      Variant of the Het with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_c00000.svg" width="160" alt="het_c00000">
+    </td>
+    <td>
+      <a name="het_c00000"></a>
+      <strong>het_c00000</strong><br>
+      Crooked variant of the Het with no tagin at any of the five positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e0100b.svg" width="160" alt="het_e0100b">
+    </td>
+    <td>
+      <a name="het_e0100b"></a>
+      <strong>het_e0100b</strong><br>
+      Elongated variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e010bb.svg" width="160" alt="het_e010bb">
+    </td>
+    <td>
+      <a name="het_e010bb"></a>
+      <strong>het_e010bb</strong><br>
+      Elongated variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e010pp.svg" width="160" alt="het_e010pp">
+    </td>
+    <td>
+      <a name="het_e010pp"></a>
+      <strong>het_e010pp</strong><br>
+      Elongated variant of the Het with one tag at the second position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e011bb.svg" width="160" alt="het_e011bb">
+    </td>
+    <td>
+      <a name="het_e011bb"></a>
+      <strong>het_e011bb</strong><br>
+      Elongated variant of the Het with one tag at the second position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e02000.svg" width="160" alt="het_e02000">
+    </td>
+    <td>
+      <a name="het_e02000"></a>
+      <strong>het_e02000</strong><br>
+      Elongated variant of the Het with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e10000.svg" width="160" alt="het_e10000">
+    </td>
+    <td>
+      <a name="het_e10000"></a>
+      <strong>het_e10000</strong><br>
+      Elongated variant of the Het with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e1000b.svg" width="160" alt="het_e1000b">
+    </td>
+    <td>
+      <a name="het_e1000b"></a>
+      <strong>het_e1000b</strong><br>
+      Elongated variant of the Het with one tag at the first position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e100bb.svg" width="160" alt="het_e100bb">
+    </td>
+    <td>
+      <a name="het_e100bb"></a>
+      <strong>het_e100bb</strong><br>
+      Elongated variant of the Het with one tag at the first position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e10100.svg" width="160" alt="het_e10100">
+    </td>
+    <td>
+      <a name="het_e10100"></a>
+      <strong>het_e10100</strong><br>
+      Elongated variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e1010b.svg" width="160" alt="het_e1010b">
+    </td>
+    <td>
+      <a name="het_e1010b"></a>
+      <strong>het_e1010b</strong><br>
+      Elongated variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e11000.svg" width="160" alt="het_e11000">
+    </td>
+    <td>
+      <a name="het_e11000"></a>
+      <strong>het_e11000</strong><br>
+      Elongated variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_eb000b.svg" width="160" alt="het_eb000b">
+    </td>
+    <td>
+      <a name="het_eb000b"></a>
+      <strong>het_eb000b</strong><br>
+      Elongated variant of the Het with one bow at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er00000.svg" width="160" alt="het_er00000">
+    </td>
+    <td>
+      <a name="het_er00000"></a>
+      <strong>het_er00000</strong><br>
+      Elongated roof variant of the Het with no tagin at any of the five positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er0000p.svg" width="160" alt="het_er0000p">
+    </td>
+    <td>
+      <a name="het_er0000p"></a>
+      <strong>het_er0000p</strong><br>
+      Elongated roof variant of the Het with one pretzel at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er000bb.svg" width="160" alt="het_er000bb">
+    </td>
+    <td>
+      <a name="het_er000bb"></a>
+      <strong>het_er000bb</strong><br>
+      Elongated roof variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er000pp.svg" width="160" alt="het_er000pp">
+    </td>
+    <td>
+      <a name="het_er000pp"></a>
+      <strong>het_er000pp</strong><br>
+      Elongated roof variant of the Het with one pretzel at the fourth position and one pretzel at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er10000.svg" width="160" alt="het_er10000">
+    </td>
+    <td>
+      <a name="het_er10000"></a>
+      <strong>het_er10000</strong><br>
+      Elongated roof variant of the Het with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er10100.svg" width="160" alt="het_er10100">
+    </td>
+    <td>
+      <a name="het_er10100"></a>
+      <strong>het_er10100</strong><br>
+      Elongated roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er20000.svg" width="160" alt="het_er20000">
+    </td>
+    <td>
+      <a name="het_er20000"></a>
+      <strong>het_er20000</strong><br>
+      Elongated roof variant of the Het with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r00000.svg" width="160" alt="het_r00000">
+    </td>
+    <td>
+      <a name="het_r00000"></a>
+      <strong>het_r00000</strong><br>
+      Roof variant of the Het with no tagin at any of the five positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r10000.svg" width="160" alt="het_r10000">
+    </td>
+    <td>
+      <a name="het_r10000"></a>
+      <strong>het_r10000</strong><br>
+      Roof variant of the Het with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r10100.svg" width="160" alt="het_r10100">
+    </td>
+    <td>
+      <a name="het_r10100"></a>
+      <strong>het_r10100</strong><br>
+      Roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r1010b.svg" width="160" alt="het_r1010b">
+    </td>
+    <td>
+      <a name="het_r1010b"></a>
+      <strong>het_r1010b</strong><br>
+      Roof variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions。
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r101bb.svg" width="160" alt="het_r101bb">
+    </td>
+    <td>
+      <a name="het_r101bb"></a>
+      <strong>het_r101bb</strong><br>
+      Roof variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r101pp.svg" width="160" alt="het_r101pp">
+    </td>
+    <td>
+      <a name="het_r101pp"></a>
+      <strong>het_r101pp</strong><br>
+      Roof variant of the Het with one tag at the first position, one tag at the third position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_rb020b.svg" width="160" alt="het_rb020b">
+    </td>
+    <td>
+      <a name="het_rb020b"></a>
+      <strong>het_rb020b</strong><br>
+      Roof variant of the Het with one bow at the second position, two tagin at the third position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_s00000.svg" width="160" alt="het_s00000">
+    </td>
+    <td>
+      <a name="het_s00000"></a>
+      <strong>het_s00000</strong><br>
+      Struckthrough variant of the Het with no tagin at any of the five positions.
+    </td>
+  </tr>
+
+</table>
+
+## Kaf
+The naming scheme consists of:
+* letter with separator: `kaf_`
+* position-bound phenomena: optional, possible value `b`
+* six-digit number: e.g. `000010`
+Kaf has six possible positions for decorations. The tagin are counted per position and written in ascending positional order. A position-bound phenomenon may be a bow. The bow is denoted by `b` for *bow*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_000010.svg" width="160" alt="kaf_000010">
+    </td>
+    <td>
+      <a name="kaf_000010"></a>
+      <strong>kaf_000010</strong><br>
+      Variant of the Kaf with one tag at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_0000b0.svg" width="160" alt="kaf_0000b0">
+    </td>
+    <td>
+      <a name="kaf_0000b0"></a>
+      <strong>kaf_0000b0</strong><br>
+      Variant of the Kaf with one bow at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_002000.svg" width="160" alt="kaf_002000">
+    </td>
+    <td>
+      <a name="kaf_002000"></a>
+      <strong>kaf_002000</strong><br>
+      Variant of the Kaf with two tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_010000.svg" width="160" alt="kaf_010000">
+    </td>
+    <td>
+      <a name="kaf_010000"></a>
+      <strong>kaf_010000</strong><br>
+      Variant of the Kaf with one tag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_011000.svg" width="160" alt="kaf_011000">
+    </td>
+    <td>
+      <a name="kaf_011000"></a>
+      <strong>kaf_011000</strong><br>
+      Variant of the Kaf with one tag at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_011010.svg" width="160" alt="kaf_011010">
+    </td>
+    <td>
+      <a name="kaf_011010"></a>
+      <strong>kaf_011010</strong><br>
+      Variant of the Kaf with one tag at the second position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_020000.svg" width="160" alt="kaf_020000">
+    </td>
+    <td>
+      <a name="kaf_020000"></a>
+      <strong>kaf_020000</strong><br>
+      Variant of the Kaf with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_030000.svg" width="160" alt="kaf_030000">
+    </td>
+    <td>
+      <a name="kaf_030000"></a>
+      <strong>kaf_030000</strong><br>
+      Variant of the Kaf with three tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_100000.svg" width="160" alt="kaf_100000">
+    </td>
+    <td>
+      <a name="kaf_100000"></a>
+      <strong>kaf_100000</strong><br>
+      Variant of the Kaf with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101000.svg" width="160" alt="kaf_101000">
+    </td>
+    <td>
+      <a name="kaf_101000"></a>
+      <strong>kaf_101000</strong><br>
+      Variant of the Kaf with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101001.svg" width="160" alt="kaf_101001">
+    </td>
+    <td>
+      <a name="kaf_101001"></a>
+      <strong>kaf_101001</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101010.svg" width="160" alt="kaf_101010">
+    </td>
+    <td>
+      <a name="kaf_101010"></a>
+      <strong>kaf_101010</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_1010b0.svg" width="160" alt="kaf_1010b0">
+    </td>
+    <td>
+      <a name="kaf_1010b0"></a>
+      <strong>kaf_1010b0</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101b00.svg" width="160" alt="kaf_101b00">
+    </td>
+    <td>
+      <a name="kaf_101b00"></a>
+      <strong>kaf_101b00</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_110000.svg" width="160" alt="kaf_110000">
+    </td>
+    <td>
+      <a name="kaf_110000"></a>
+      <strong>kaf_110000</strong><br>
+      Variant of the Kaf with one tag at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_110001.svg" width="160" alt="kaf_110001">
+    </td>
+    <td>
+      <a name="kaf_110001"></a>
+      <strong>kaf_110001</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_111000.svg" width="160" alt="kaf_111000">
+    </td>
+    <td>
+      <a name="kaf_111000"></a>
+      <strong>kaf_111000</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_11100b.svg" width="160" alt="kaf_11100b">
+    </td>
+    <td>
+      <a name="kaf_11100b"></a>
+      <strong>kaf_11100b</strong><br>
+      Variant of the Kaf with one tag at the first position, one tag at the second position, one tag at the third position, and one bow at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_200001.svg" width="160" alt="kaf_200001">
+    </td>
+    <td>
+      <a name="kaf_200001"></a>
+      <strong>kaf_200001</strong><br>
+      Variant of the Kaf with two tagin at the first position and one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_b00000.svg" width="160" alt="kaf_b00000">
+    </td>
+    <td>
+      <a name="kaf_b00000"></a>
+      <strong>kaf_b00000</strong><br>
+      Variant of the Kaf with one bow at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
+
+## Kaf sofit
+The naming scheme consists of:
+* letter with separator: `kafsofit_`
+* global prefix: optional, possible value `e`
+* position-bound phenomena: optional, possible values `f`, `p`, `z`
+* five-digit number: e.g. `00100`
+Kaf sofit has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a flag, a pretzel, or a zigzag. The flag is denoted by `f` for *flag*, the pretzel by `p` for *pretzel*, and the zigzag by `z` for *zigzag*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_0000p.svg" width="160" alt="kafsofit_0000p">
+    </td>
+    <td>
+      <a name="kafsofit_0000p"></a>
+      <strong>kafsofit_0000p</strong><br>
+      Variant of the Kafsofit with one pretzel at the fifth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_00100.svg" width="160" alt="kafsofit_00100">
+    </td>
+    <td>
+      <a name="kafsofit_00100"></a>
+      <strong>kafsofit_00100</strong><br>
+      Variant of the Kafsofit with one tag at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_00200.svg" width="160" alt="kafsofit_00200">
+    </td>
+    <td>
+      <a name="kafsofit_00200"></a>
+      <strong>kafsofit_00200</strong><br>
+      Variant of the Kafsofit with two tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_01000.svg" width="160" alt="kafsofit_01000">
+    </td>
+    <td>
+      <a name="kafsofit_01000"></a>
+      <strong>kafsofit_01000</strong><br>
+      Variant of the Kafsofit with one tag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_010p0.svg" width="160" alt="kafsofit_010p0">
+    </td>
+    <td>
+      <a name="kafsofit_010p0"></a>
+      <strong>kafsofit_010p0</strong><br>
+      Variant of the Kafsofit with one tag at the second position and one pretzel at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_01100.svg" width="160" alt="kafsofit_01100">
+    </td>
+    <td>
+      <a name="kafsofit_01100"></a>
+      <strong>kafsofit_01100</strong><br>
+      Variant of the Kafsofit with one tag at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02000.svg" width="160" alt="kafsofit_02000">
+    </td>
+    <td>
+      <a name="kafsofit_02000"></a>
+      <strong>kafsofit_02000</strong><br>
+      Variant of the Kafsofit with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02001.svg" width="160" alt="kafsofit_02001">
+    </td>
+    <td>
+      <a name="kafsofit_02001"></a>
+      <strong>kafsofit_02001</strong><br>
+      Variant of the Kafsofit with two tagin at the second position and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_0200p.svg" width="160" alt="kafsofit_0200p">
+    </td>
+    <td>
+      <a name="kafsofit_0200p"></a>
+      <strong>kafsofit_0200p</strong><br>
+      Variant of the Kafsofit with two tagin at the second position and one pretzel at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_020p0.svg" width="160" alt="kafsofit_020p0">
+    </td>
+    <td>
+      <a name="kafsofit_020p0"></a>
+      <strong>kafsofit_020p0</strong><br>
+      Variant of the Kafsofit with two tagin at the second position and one pretzel at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02100.svg" width="160" alt="kafsofit_02100">
+    </td>
+    <td>
+      <a name="kafsofit_02100"></a>
+      <strong>kafsofit_02100</strong><br>
+      Variant of the Kafsofit with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10000.svg" width="160" alt="kafsofit_10000">
+    </td>
+    <td>
+      <a name="kafsofit_10000"></a>
+      <strong>kafsofit_10000</strong><br>
+      Variant of the Kafsofit with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10100.svg" width="160" alt="kafsofit_10100">
+    </td>
+    <td>
+      <a name="kafsofit_10100"></a>
+      <strong>kafsofit_10100</strong><br>
+      Variant of the Kafsofit with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10101.svg" width="160" alt="kafsofit_10101">
+    </td>
+    <td>
+      <a name="kafsofit_10101"></a>
+      <strong>kafsofit_10101</strong><br>
+      Variant of the Kafsofit with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10200.svg" width="160" alt="kafsofit_10200">
+    </td>
+    <td>
+      <a name="kafsofit_10200"></a>
+      <strong>kafsofit_10200</strong><br>
+      Variant of the Kafsofit with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11000.svg" width="160" alt="kafsofit_11000">
+    </td>
+    <td>
+      <a name="kafsofit_11000"></a>
+      <strong>kafsofit_11000</strong><br>
+      Variant of the Kafsofit with one tag at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11100.svg" width="160" alt="kafsofit_11100">
+    </td>
+    <td>
+      <a name="kafsofit_11100"></a>
+      <strong>kafsofit_11100</strong><br>
+      Variant of the Kafsofit with one tag at the first, second, and third positions, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11101.svg" width="160" alt="kafsofit_11101">
+    </td>
+    <td>
+      <a name="kafsofit_11101"></a>
+      <strong>kafsofit_11101</strong><br>
+      Variant of the Kafsofit with one tag at the first, second, third, and fifth positions, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_1110p.svg" width="160" alt="kafsofit_1110p">
+    </td>
+    <td>
+      <a name="kafsofit_1110p"></a>
+      <strong>kafsofit_1110p</strong><br>
+      Variant of the Kafsofit with one tag at the first, second, and third positions and one pretzel at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_12001.svg" width="160" alt="kafsofit_12001">
+    </td>
+    <td>
+      <a name="kafsofit_12001"></a>
+      <strong>kafsofit_12001</strong><br>
+      Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_120p1.svg" width="160" alt="kafsofit_120p1">
+    </td>
+    <td>
+      <a name="kafsofit_120p1"></a>
+      <strong>kafsofit_120p1</strong><br>
+      Variant of the Kafsofit with one tag at the first position, two tagin at the second position, a pretzel at the fourth position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_12100.svg" width="160" alt="kafsofit_12100">
+    </td>
+    <td>
+      <a name="kafsofit_12100"></a>
+      <strong>kafsofit_12100</strong><br>
+      Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_130z1.svg" width="160" alt="kafsofit_130z1">
+    </td>
+    <td>
+      <a name="kafsofit_130z1"></a>
+      <strong>kafsofit_130z1</strong><br>
+      Variant of the Kafsofit with one tag at the first position, three tagin at the second position, one zigzag at the fourth position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_20200.svg" width="160" alt="kafsofit_20200">
+    </td>
+    <td>
+      <a name="kafsofit_20200"></a>
+      <strong>kafsofit_20200</strong><br>
+      Variant of the Kafsofit with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_21001.svg" width="160" alt="kafsofit_21001">
+    </td>
+    <td>
+      <a name="kafsofit_21001"></a>
+      <strong>kafsofit_21001</strong><br>
+      Variant of the Kafsofit with two tagin at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_30001.svg" width="160" alt="kafsofit_30001">
+    </td>
+    <td>
+      <a name="kafsofit_30001"></a>
+      <strong>kafsofit_30001</strong><br>
+      Variant of the Kafsofit with three tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_e0200f.svg" width="160" alt="kafsofit_e0200f">
+    </td>
+    <td>
+      <a name="kafsofit_e0200f"></a>
+      <strong>kafsofit_e0200f</strong><br>
+      Elongated variant of the Kafsofit with two tagin at the second position and one flag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
