@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     transform="matrix(0.856821,0,0,-0.856821,304.645,674.363)"
+     id="g1">
+    <path
+       d="m 360,-240 v 513 q 0,52 5,88 5,36 17,68 v 2 H 81 Q 44,431 26.5,451.5 9,472 9,520 q 0,19 2,36 2,17 6.5,38.5 Q 22,616 29,647 h 35 v -14 q 0,-19 12,-30 12,-11 36,-11 h 300 q 19,0 27,-8.5 8,-8.5 8,-30.5 v -98 q -11,-20 -16.5,-39 -5.5,-19 -7,-44 -1.5,-25 -0.5,-65 l 11,-508 Q 421,-216 408.5,-224.5 396,-233 379,-240 Z"
+       fill="#000000"
+       id="path1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="312.53125"
+     y="100.98438"
+     id="text1"><tspan
+       id="tspan1"
+       x="312.53125"
+       y="100.98438"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="462.32812"
+     y="147.15625"
+     id="text3"><tspan
+       id="tspan3"
+       x="462.32812"
+       y="147.15625"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="260.0625"
+     y="372.79688"
+     id="text4"><tspan
+       id="tspan4"
+       x="260.0625"
+       y="372.79688"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="619.4375"
+     y="147.25"
+     id="text2"><tspan
+       id="tspan2"
+       x="619.4375"
+       y="147.25"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">3</tspan></text>
+</svg>
