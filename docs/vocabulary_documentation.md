@@ -1,4 +1,6 @@
 ## Alef
+<img align="left" src="alef_positions.svg" alt="Alef Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `alef_`
 * global prefix: optional, possible value `e`
@@ -384,11 +386,14 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 </table>
   
 ## Ayin
+<img align="left" src="ayin_positions.svg" alt="Ayin Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `ayin_`
 * global prefixes: optional, possible values `e`, `w`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * four-digit number: e.g. `1000`
+
 Ayin has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. If the letter is wrapped, an additional `w` for *wrapped* is inserted. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -912,10 +917,13 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## Beit
+<img align="left" src="beit_positions.svg" alt="Beit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `beit_`
 * position-bound phenomena: optional, possible values `b`, `f`
 * seven-digit number: e.g. `0000010`
+
 Beit has seven possible positions for decorations. The tagin are counted per position and written in ascending positional order. Position-bound phenomena may include a bow or a flag. The bow is denoted by `b` for *bow* and the flag by `f` for *flag*.
 
 <table>
@@ -1120,9 +1128,12 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 </table>
 
 ## Dalet
+<img align="left" src="dalet_positions.svg" alt="Dalet Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `dalet_`
 * four-digit number: e.g. `0001`
+  
 Dalet has four possible positions for decorations. The tagin are counted per position and written in ascending positional order.
 
 <table>
@@ -1261,10 +1272,13 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 </table>
 
 ## Gimel
+<img align="left" src="gimel_positions.svg" alt="Gimel Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `gimel_`
 * position-bound phenomena: optional, possible value `b`
 * two-digit number: e.g. `20`
+  
 Gimel has two possible positions for decorations. The tagin are counted per position and written in ascending positional order. A position-bound phenomenon may be a bow. The bow is denoted by `b` for *bow*.
 
 <table>
@@ -1315,11 +1329,14 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## He
+<img align="left" src="he_positions.svg" alt="He Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `he_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible value `f`
 * four-digit number: e.g. `0001`
+  
 He has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. A position-bound phenomenon may be a flag. The flag is denoted by `f` for *flag*.
 
 <table>
@@ -1722,11 +1739,14 @@ He has four possible positions for decorations. The tagin are counted per positi
 </table>
 
 ## Het
+<img align="left" src="het_positions.svg" alt="Het Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `het_`
 * global prefixes: optional, possible values `e`, `r`, `c`, `s`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * five-digit number: e.g. `01000`
+
 Het has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. If the letter has a roof instead of the horizontal stroke, an `r` for *roof* is used as the next entry. Further global phenomena may include a distorted letter, `c` for *crooked*, or a struck-through letter, `s` for *struckthrough*. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -2294,10 +2314,13 @@ Het has five possible positions for decorations. The tagin are counted per posit
 </table>
 
 ## Kaf
+<img align="left" src="kaf_positions.svg" alt="Kaf Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `kaf_`
 * position-bound phenomena: optional, possible value `b`
 * six-digit number: e.g. `000010`
+
 Kaf has six possible positions for decorations. The tagin are counted per position and written in ascending positional order. A position-bound phenomenon may be a bow. The bow is denoted by `b` for *bow*.
 
 <table>
@@ -2524,11 +2547,14 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 </table>
 
 ## Kaf sofit
+<img align="left" src="kaf_sofit_positions.svg" alt="Kaf Sofit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `kafsofit_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible values `f`, `p`, `z`
 * five-digit number: e.g. `00100`
+
 Kaf sofit has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a flag, a pretzel, or a zigzag. The flag is denoted by `f` for *flag*, the pretzel by `p` for *pretzel*, and the zigzag by `z` for *zigzag*.
 
 <table>
@@ -2832,10 +2858,13 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 </table>
 
 ## Lamed
+<img align="left" src="lamed_positions.svg" alt="Lamed Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `lamed_`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * three-digit number: e.g. `002`
+
 Lamed has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -2963,11 +2992,14 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 </table>
 
 ## Mem
+<img align="left" src="mem_positions.svg" alt="Mem Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `mem_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible values `b`, `p`
 * five-digit number: e.g. `00200`
+
 Mem has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -3194,9 +3226,12 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 </table>
 
 ## Mem sofit
+<img align="left" src="mem_sofit_positions.svg" alt="Mem Sofit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `memsofit_`
 * six-digit number: e.g. `000001`
+
 Mem sofit has six possible positions for decorations. The tagin are counted per position and written in ascending positional order.
 
 <table>
@@ -3500,11 +3535,14 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 </table>
 
 ## Nun
+<img align="left" src="nun_positions.svg" alt="Nun Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `nun_`
 * global prefixes: optional, possible values `e`, `i`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * three-digit number: e.g. `200`
+
 Nun has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. For inverted letters, `i` for *inverted* is used. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -3676,11 +3714,14 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## Nun sofit
+<img align="left" src="nun_sofit_positions.svg" alt="Nun Sofit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `nunsofit_`
 * global prefixes: optional, possible values `e`, `w`
 * position-bound phenomena: optional, possible values `b`, `p`
 * three-digit number: e.g. `100`
+
 Nun sofit has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. If the letter is wrapped, an additional `w` for *wrapped* is inserted. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -3841,11 +3882,14 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 </table>
 
 ## Pe
+<img align="left" src="pe_positions.svg" alt="Pe Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `pe_`
 * global prefix: optional, possible value `w`
 * position-bound phenomena: optional, possible value `b`
 * seven-digit number: e.g. `0000010`
+
 Pe has seven possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is wrapped, an additional `w` for *wrapped* is inserted. A position-bound phenomenon may be a bow. The bow is denoted by `b` for *bow*.
 
 <table>
@@ -4358,11 +4402,14 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 </table>
 
 ## Pe sofit
+<img align="left" src="pe_sofit_positions.svg" alt="Pe Sofit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `pesofit_`
 * global prefix: optional, possible value `w`
 * position-bound phenomena: optional, possible value `p`
 * five-digit number: e.g. `00001`
+
 Pe sofit has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is wrapped, an additional `w` for *wrapped* is inserted. A position-bound phenomenon may be a pretzel, denoted by `p` for *pretzel*.
 
 <table>
@@ -4622,11 +4669,14 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 </table>
 
 ## Qof
+<img align="left" src="qof_positions.svg" alt="Qof Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `qof_`
 * global prefix: optional, possible value `c`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * five-digit number: e.g. `00100`
+
 Qof has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. As a further global phenomenon, the letter may be distorted, denoted by `c` for *crooked*. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -4908,11 +4958,14 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 </table>
 
 ## Resh
+<img align="left" src="resh_positions.svg" alt="Resh Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `resh_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible value `b`
 * four-digit number: e.g. `0001`
+
 Resh has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. A position-bound phenomenon may be a bow. The bow is denoted by `b` for *bow*.
 
 <table>
@@ -5106,10 +5159,13 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## Samekh
+<img align="left" src="samekh_positions.svg" alt="Samekh Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `samekh_`
 * position-bound phenomena: optional, possible value `f`
 * six-digit number: e.g. `000010`
+
 Samekh has six possible positions for decorations. The tagin are counted per position and written in ascending positional order. A position-bound phenomenon may be a flag. The flag is denoted by `f` for *flag*.
 
 <table>
@@ -5413,10 +5469,13 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 </table>
 
 ## Shin
+<img align="left" src="shin_positions.svg" alt="Shin Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `shin_`
 * global prefix: optional, possible value `e`
 * four-digit number: e.g. `0010`
+
 Shin has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted.
 
 <table>
@@ -5764,11 +5823,14 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## Tav
+<img align="left" src="tav_positions.svg" alt="Tav Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `tav_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible values `b`, `f`, `p`
 * six-digit number: e.g. `000010`
+
 Tav has six possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -5951,10 +6013,13 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 </table>
 
 ## Teth
+<img align="left" src="teth_positions.svg" alt="Teth Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `teth_`
 * global prefix: optional, possible values `e`, `w`
 * two-digit number: e.g. `02`
+
 Teth has two possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. If the letter is wrapped, an additional `w` for *wrapped* is inserted.
 
 <table>
@@ -6203,11 +6268,14 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 </table>
 
 ## Tsade
+<img align="left" src="tsade_positions.svg" alt="Tsade Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `tsade_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible values `b`, `p`
 * three-digit number: e.g. `020`
+
 Tsade has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -6423,10 +6491,13 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 </table>
 
 ## Tsade sofit
+<img align="left" src="tsade_sofit_positions.svg" alt="Tsade Sofit Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `tsadesofit_`
 * global prefix: optional, possible value `e`
 * four-digit number: e.g. `0100`
+
 Tsade sofit has four possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted.
 
 <table>
@@ -6532,11 +6603,14 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 </table>
 
 ## Vav
+<img align="left" src="vav_positions.svg" alt="Vav Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `vav_`
 * global prefix: optional, possible value `e`
 * position-bound phenomena: optional, possible values `b`, `p`
 * three-digit number: e.g. `001`
+
 Vav has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
 
 <table>
@@ -6774,11 +6848,14 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 </table>
 
 ## Yod
+<img align="left" src="yod_positions.svg" alt="Yod Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `yod_`
 * global prefixes: optional, possible values `e`, `s`
 * position-bound phenomena: optional, possible value `p`
 * two-digit number: e.g. `01`
+
 Yod has two possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. If the letter is struck through, `s` for *struckthrough* is used. A position-bound phenomenon may be a pretzel, denoted by `p` for *pretzel*.
 
 <table>
@@ -6895,11 +6972,14 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 </table>
 
 ## Zayin
+<img align="left" src="zayin_positions.svg" alt="Zayin Naming Scheme" width="200"/>
+
 The naming scheme consists of:
 * letter with separator: `zayin_`
 * global prefix: optional, possible value `w`
 * position-bound phenomena: optional, possible values `b`, `p`
 * three-digit number: e.g. `100`
+
 Zayin has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is wrapped, an additional `w` for *wrapped* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
 
 <table>
