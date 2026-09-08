@@ -2830,3 +2830,1024 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
   </tr>
 
 </table>
+
+## Lamed
+The naming scheme consists of:
+* letter with separator: `lamed_`
+* position-bound phenomena: optional, possible values `b`, `f`, `p`
+* three-digit number: e.g. `002`
+Lamed has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_002.svg" width="160" alt="lamed_002">
+    </td>
+    <td>
+      <a name="lamed_002"></a>
+      <strong>lamed_002</strong><br>
+      Variant of the Lamed with two tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_00p.svg" width="160" alt="lamed_00p">
+    </td>
+    <td>
+      <a name="lamed_00p"></a>
+      <strong>lamed_00p</strong><br>
+      Variant of the Lamed with one pretzel at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_010.svg" width="160" alt="lamed_010">
+    </td>
+    <td>
+      <a name="lamed_010"></a>
+      <strong>lamed_010</strong><br>
+      Variant of the Lamed with one tag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_0f0.svg" width="160" alt="lamed_0f0">
+    </td>
+    <td>
+      <a name="lamed_0f0"></a>
+      <strong>lamed_0f0</strong><br>
+      Variant of the Lamed with one flag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_1f0.svg" width="160" alt="lamed_1f0">
+    </td>
+    <td>
+      <a name="lamed_1f0"></a>
+      <strong>lamed_1f0</strong><br>
+      Variant of the Lamed with one tag at the first position and one flag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_2f0.svg" width="160" alt="lamed_2f0">
+    </td>
+    <td>
+      <a name="lamed_2f0"></a>
+      <strong>lamed_2f0</strong><br>
+      Variant of the Lamed with two tagin at the first position and one flag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_b00.svg" width="160" alt="lamed_b00">
+    </td>
+    <td>
+      <a name="lamed_b00"></a>
+      <strong>lamed_b00</strong><br>
+      Variant of the Lamed with one bow at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_b02.svg" width="160" alt="lamed_b02">
+    </td>
+    <td>
+      <a name="lamed_b02"></a>
+      <strong>lamed_b02</strong><br>
+      Variant of the Lamed with one bow at the first position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_f00.svg" width="160" alt="lamed_f00">
+    </td>
+    <td>
+      <a name="lamed_f00"></a>
+      <strong>lamed_f00</strong><br>
+      Variant of the Lamed with one flag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_f20.svg" width="160" alt="lamed_f20">
+    </td>
+    <td>
+      <a name="lamed_f20"></a>
+      <strong>lamed_f20</strong><br>
+      Variant of the Lamed with one flag at the first position and two tagin at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_p00.svg" width="160" alt="lamed_p00">
+    </td>
+    <td>
+      <a name="lamed_p00"></a>
+      <strong>lamed_p00</strong><br>
+      Variant of the Lamed with one pretzel at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
+
+## Mem
+The naming scheme consists of:
+* letter with separator: `mem_`
+* global prefix: optional, possible value `e`
+* position-bound phenomena: optional, possible values `b`, `p`
+* five-digit number: e.g. `00200`
+Mem has five possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_000p0.svg" width="160" alt="mem_000p0">
+    </td>
+    <td>
+      <a name="mem_000p0"></a>
+      <strong>mem_000p0</strong><br>
+      Variant of the Mem with a pretzel at the fourth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_00200.svg" width="160" alt="mem_00200">
+    </td>
+    <td>
+      <a name="mem_00200"></a>
+      <strong>mem_00200</strong><br>
+      Variant of the Mem with two tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01000.svg" width="160" alt="mem_01000">
+    </td>
+    <td>
+      <a name="mem_01000"></a>
+      <strong>mem_01000</strong><br>
+      Variant of the Mem with one tag at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01100.svg" width="160" alt="mem_01100">
+    </td>
+    <td>
+      <a name="mem_01100"></a>
+      <strong>mem_01100</strong><br>
+      Variant of the Mem with one tag at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01200.svg" width="160" alt="mem_01200">
+    </td>
+    <td>
+      <a name="mem_01200"></a>
+      <strong>mem_01200</strong><br>
+      Variant of the Mem with one tag at the second position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_02000.svg" width="160" alt="mem_02000">
+    </td>
+    <td>
+      <a name="mem_02000"></a>
+      <strong>mem_02000</strong><br>
+      Variant of the Mem with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_02100.svg" width="160" alt="mem_02100">
+    </td>
+    <td>
+      <a name="mem_02100"></a>
+      <strong>mem_02100</strong><br>
+      Variant of the Mem with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_03000.svg" width="160" alt="mem_03000">
+    </td>
+    <td>
+      <a name="mem_03000"></a>
+      <strong>mem_03000</strong><br>
+      Variant of the Mem with three tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10000.svg" width="160" alt="mem_10000">
+    </td>
+    <td>
+      <a name="mem_10000"></a>
+      <strong>mem_10000</strong><br>
+      Variant of the Mem with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10100.svg" width="160" alt="mem_10100">
+    </td>
+    <td>
+      <a name="mem_10100"></a>
+      <strong>mem_10100</strong><br>
+      Variant of the Mem with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10101.svg" width="160" alt="mem_10101">
+    </td>
+    <td>
+      <a name="mem_10101"></a>
+      <strong>mem_10101</strong><br>
+      Variant of the Mem with one tag at the first, third, and fifth positions, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11000.svg" width="160" alt="mem_11000">
+    </td>
+    <td>
+      <a name="mem_11000"></a>
+      <strong>mem_11000</strong><br>
+      Variant of the Mem with one tag at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11001.svg" width="160" alt="mem_11001">
+    </td>
+    <td>
+      <a name="mem_11001"></a>
+      <strong>mem_11001</strong><br>
+      Variant of the Mem with one tag at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11100.svg" width="160" alt="mem_11100">
+    </td>
+    <td>
+      <a name="mem_11100"></a>
+      <strong>mem_11100</strong><br>
+      Variant of the Mem with one tag at the first, second, and third positions, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_12100.svg" width="160" alt="mem_12100">
+    </td>
+    <td>
+      <a name="mem_12100"></a>
+      <strong>mem_12100</strong><br>
+      Variant of the Mem with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_20100.svg" width="160" alt="mem_20100">
+    </td>
+    <td>
+      <a name="mem_20100"></a>
+      <strong>mem_20100</strong><br>
+      Variant of the Mem with two tagin at the first position and one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_20200.svg" width="160" alt="mem_20200">
+    </td>
+    <td>
+      <a name="mem_20200"></a>
+      <strong>mem_20200</strong><br>
+      Variant of the Mem with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_31000.svg" width="160" alt="mem_31000">
+    </td>
+    <td>
+      <a name="mem_31000"></a>
+      <strong>mem_31000</strong><br>
+      Variant of the Mem with three tagin at the first position and one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_b0000.svg" width="160" alt="mem_b0000">
+    </td>
+    <td>
+      <a name="mem_b0000"></a>
+      <strong>mem_b0000</strong><br>
+      Variant of the Mem with one bow at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_e00000.svg" width="160" alt="mem_e00000">
+    </td>
+    <td>
+      <a name="mem_e00000"></a>
+      <strong>mem_e00000</strong><br>
+      Elongated variant of the Mem with no tagin at any of the five positions.
+    </td>
+  </tr>
+
+</table>
+
+## Mem sofit
+The naming scheme consists of:
+* letter with separator: `memsofit_`
+* six-digit number: e.g. `000001`
+Mem sofit has six possible positions for decorations. The tagin are counted per position and written in ascending positional order.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_000001.svg" width="160" alt="memsofit_000001">
+    </td>
+    <td>
+      <a name="memsofit_000001"></a>
+      <strong>memsofit_000001</strong><br>
+      Variant of the Memsofit with one tag at the sixth position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_002000.svg" width="160" alt="memsofit_002000">
+    </td>
+    <td>
+      <a name="memsofit_002000"></a>
+      <strong>memsofit_002000</strong><br>
+      Variant of the Memsofit with two tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_003000.svg" width="160" alt="memsofit_003000">
+    </td>
+    <td>
+      <a name="memsofit_003000"></a>
+      <strong>memsofit_003000</strong><br>
+      Variant of the Memsofit with three tagin at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_011000.svg" width="160" alt="memsofit_011000">
+    </td>
+    <td>
+      <a name="memsofit_011000"></a>
+      <strong>memsofit_011000</strong><br>
+      Variant of the Memsofit with one tag at the second position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_011001.svg" width="160" alt="memsofit_011001">
+    </td>
+    <td>
+      <a name="memsofit_011001"></a>
+      <strong>memsofit_011001</strong><br>
+      Variant of the Memsofit with one tag at the second position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_020000.svg" width="160" alt="memsofit_020000">
+    </td>
+    <td>
+      <a name="memsofit_020000"></a>
+      <strong>memsofit_020000</strong><br>
+      Variant of the Memsofit with two tagin at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_100000.svg" width="160" alt="memsofit_100000">
+    </td>
+    <td>
+      <a name="memsofit_100000"></a>
+      <strong>memsofit_100000</strong><br>
+      Variant of the Memsofit with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_100001.svg" width="160" alt="memsofit_100001">
+    </td>
+    <td>
+      <a name="memsofit_100001"></a>
+      <strong>memsofit_100001</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101000.svg" width="160" alt="memsofit_101000">
+    </td>
+    <td>
+      <a name="memsofit_101000"></a>
+      <strong>memsofit_101000</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101001.svg" width="160" alt="memsofit_101001">
+    </td>
+    <td>
+      <a name="memsofit_101001"></a>
+      <strong>memsofit_101001</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101010.svg" width="160" alt="memsofit_101010">
+    </td>
+    <td>
+      <a name="memsofit_101010"></a>
+      <strong>memsofit_101010</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101011.svg" width="160" alt="memsofit_101011">
+    </td>
+    <td>
+      <a name="memsofit_101011"></a>
+      <strong>memsofit_101011</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101100.svg" width="160" alt="memsofit_101100">
+    </td>
+    <td>
+      <a name="memsofit_101100"></a>
+      <strong>memsofit_101100</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101110.svg" width="160" alt="memsofit_101110">
+    </td>
+    <td>
+      <a name="memsofit_101110"></a>
+      <strong>memsofit_101110</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102000.svg" width="160" alt="memsofit_102000">
+    </td>
+    <td>
+      <a name="memsofit_102000"></a>
+      <strong>memsofit_102000</strong><br>
+      Variant of the Memsofit with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102001.svg" width="160" alt="memsofit_102001">
+    </td>
+    <td>
+      <a name="memsofit_102001"></a>
+      <strong>memsofit_102001</strong><br>
+      Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102110.svg" width="160" alt="memsofit_102110">
+    </td>
+    <td>
+      <a name="memsofit_102110"></a>
+      <strong>memsofit_102110</strong><br>
+      Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_110000.svg" width="160" alt="memsofit_110000">
+    </td>
+    <td>
+      <a name="memsofit_110000"></a>
+      <strong>memsofit_110000</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_110001.svg" width="160" alt="memsofit_110001">
+    </td>
+    <td>
+      <a name="memsofit_110001"></a>
+      <strong>memsofit_110001</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_111000.svg" width="160" alt="memsofit_111000">
+    </td>
+    <td>
+      <a name="memsofit_111000"></a>
+      <strong>memsofit_111000</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_112000.svg" width="160" alt="memsofit_112000">
+    </td>
+    <td>
+      <a name="memsofit_112000"></a>
+      <strong>memsofit_112000</strong><br>
+      Variant of the Memsofit with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_120001.svg" width="160" alt="memsofit_120001">
+    </td>
+    <td>
+      <a name="memsofit_120001"></a>
+      <strong>memsofit_120001</strong><br>
+      Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_121111.svg" width="160" alt="memsofit_121111">
+    </td>
+    <td>
+      <a name="memsofit_121111"></a>
+      <strong>memsofit_121111</strong><br>
+      Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_200000.svg" width="160" alt="memsofit_200000">
+    </td>
+    <td>
+      <a name="memsofit_200000"></a>
+      <strong>memsofit_200000</strong><br>
+      Variant of the Memsofit with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_200001.svg" width="160" alt="memsofit_200001">
+    </td>
+    <td>
+      <a name="memsofit_200001"></a>
+      <strong>memsofit_200001</strong><br>
+      Variant of the Memsofit with two tagin at the first position, one tag at the sixth position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_210000.svg" width="160" alt="memsofit_210000">
+    </td>
+    <td>
+      <a name="memsofit_210000"></a>
+      <strong>memsofit_210000</strong><br>
+      Variant of the Memsofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_300000.svg" width="160" alt="memsofit_300000">
+    </td>
+    <td>
+      <a name="memsofit_300000"></a>
+      <strong>memsofit_300000</strong><br>
+      Variant of the Memsofit with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
+
+## Nun
+The naming scheme consists of:
+* letter with separator: `nun_`
+* global prefixes: optional, possible values `e`, `i`
+* position-bound phenomena: optional, possible values `b`, `f`, `p`
+* three-digit number: e.g. `200`
+Nun has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. For inverted letters, `i` for *inverted* is used. Position-bound phenomena may include a bow, a flag, or a pretzel. The bow is denoted by `b` for *bow*, the flag by `f` for *flag*, and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_00b.svg" width="160" alt="nun_00b">
+    </td>
+    <td>
+      <a name="nun_00b"></a>
+      <strong>nun_00b</strong><br>
+      Variant of the Nun with one bow at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_00p.svg" width="160" alt="nun_00p">
+    </td>
+    <td>
+      <a name="nun_00p"></a>
+      <strong>nun_00p</strong><br>
+      Variant of the Nun with one pretzel at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_10b.svg" width="160" alt="nun_10b">
+    </td>
+    <td>
+      <a name="nun_10b"></a>
+      <strong>nun_10b</strong><br>
+      Variant of the Nun with one tag at the first position, one bow at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_10p.svg" width="160" alt="nun_10p">
+    </td>
+    <td>
+      <a name="nun_10p"></a>
+      <strong>nun_10p</strong><br>
+      Variant of the Nun with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_200.svg" width="160" alt="nun_200">
+    </td>
+    <td>
+      <a name="nun_200"></a>
+      <strong>nun_200</strong><br>
+      Variant of the Nun with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30b.svg" width="160" alt="nun_30b">
+    </td>
+    <td>
+      <a name="nun_30b"></a>
+      <strong>nun_30b</strong><br>
+      Variant of the Nun with three tagin at the first position, one bow at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30f.svg" width="160" alt="nun_30f">
+    </td>
+    <td>
+      <a name="nun_30f"></a>
+      <strong>nun_30f</strong><br>
+      Variant of the Nun with three tagin at the first position, one flag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30p.svg" width="160" alt="nun_30p">
+    </td>
+    <td>
+      <a name="nun_30p"></a>
+      <strong>nun_30p</strong><br>
+      Variant of the Nun with three tagin at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3b0.svg" width="160" alt="nun_3b0">
+    </td>
+    <td>
+      <a name="nun_3b0"></a>
+      <strong>nun_3b0</strong><br>
+      Variant of the Nun with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3p0.svg" width="160" alt="nun_3p0">
+    </td>
+    <td>
+      <a name="nun_3p0"></a>
+      <strong>nun_3p0</strong><br>
+      Variant of the Nun with three tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3pp.svg" width="160" alt="nun_3pp">
+    </td>
+    <td>
+      <a name="nun_3pp"></a>
+      <strong>nun_3pp</strong><br>
+      Variant of the Nun with three tagin at the first position, one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_e300.svg" width="160" alt="nun_e300">
+    </td>
+    <td>
+      <a name="nun_e300"></a>
+      <strong>nun_e300</strong><br>
+      Elongated variant of the Nun with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_i000.svg" width="160" alt="nun_i000">
+    </td>
+    <td>
+      <a name="nun_i000"></a>
+      <strong>nun_i000</strong><br>
+      Inverse variant of the Nun with no tagin at any of the positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_i300.svg" width="160" alt="nun_i300">
+    </td>
+    <td>
+      <a name="nun_i300"></a>
+      <strong>nun_i300</strong><br>
+      Inverse variant of the Nun with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_p0p.svg" width="160" alt="nun_p0p">
+    </td>
+    <td>
+      <a name="nun_p0p"></a>
+      <strong>nun_p0p</strong><br>
+      Variant of the Nun with one pretzel at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
+
+## Nun sofit
+The naming scheme consists of:
+* letter with separator: `nunsofit_`
+* global prefixes: optional, possible values `e`, `w`
+* position-bound phenomena: optional, possible values `b`, `p`
+* three-digit number: e.g. `100`
+Nun sofit has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted. If the letter is wrapped, an additional `w` for *wrapped* is inserted. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_00p.svg" width="160" alt="nunsofit_00p">
+    </td>
+    <td>
+      <a name="nunsofit_00p"></a>
+      <strong>nunsofit_00p</strong><br>
+      Variant of the Nunsofit with one pretzel at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_0b0.svg" width="160" alt="nunsofit_0b0">
+    </td>
+    <td>
+      <a name="nunsofit_0b0"></a>
+      <strong>nunsofit_0b0</strong><br>
+      Variant of the Nunsofit with one bow at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_0p0.svg" width="160" alt="nunsofit_0p0">
+    </td>
+    <td>
+      <a name="nunsofit_0p0"></a>
+      <strong>nunsofit_0p0</strong><br>
+      Variant of the Nunsofit with one pretzel at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_100.svg" width="160" alt="nunsofit_100">
+    </td>
+    <td>
+      <a name="nunsofit_100"></a>
+      <strong>nunsofit_100</strong><br>
+      Variant of the Nunsofit with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_10p.svg" width="160" alt="nunsofit_10p">
+    </td>
+    <td>
+      <a name="nunsofit_10p"></a>
+      <strong>nunsofit_10p</strong><br>
+      Variant of the Nunsofit with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_110.svg" width="160" alt="nunsofit_110">
+    </td>
+    <td>
+      <a name="nunsofit_110"></a>
+      <strong>nunsofit_110</strong><br>
+      Variant of the Nunsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_1p0.svg" width="160" alt="nunsofit_1p0">
+    </td>
+    <td>
+      <a name="nunsofit_1p0"></a>
+      <strong>nunsofit_1p0</strong><br>
+      Variant of the Nunsofit with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_200.svg" width="160" alt="nunsofit_200">
+    </td>
+    <td>
+      <a name="nunsofit_200"></a>
+      <strong>nunsofit_200</strong><br>
+      Variant of the Nunsofit with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_300.svg" width="160" alt="nunsofit_300">
+    </td>
+    <td>
+      <a name="nunsofit_300"></a>
+      <strong>nunsofit_300</strong><br>
+      Variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_3b0.svg" width="160" alt="nunsofit_3b0">
+    </td>
+    <td>
+      <a name="nunsofit_3b0"></a>
+      <strong>nunsofit_3b0</strong><br>
+      Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_3bp.svg" width="160" alt="nunsofit_3bp">
+    </td>
+    <td>
+      <a name="nunsofit_3bp"></a>
+      <strong>nunsofit_3bp</strong><br>
+      Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and one pretzel at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_4b0.svg" width="160" alt="nunsofit_4b0">
+    </td>
+    <td>
+      <a name="nunsofit_4b0"></a>
+      <strong>nunsofit_4b0</strong><br>
+      Variant of the Nunsofit with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_4p0.svg" width="160" alt="nunsofit_4p0">
+    </td>
+    <td>
+      <a name="nunsofit_4p0"></a>
+      <strong>nunsofit_4p0</strong><br>
+      Variant of the Nunsofit with four tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_w300.svg" width="160" alt="nunsofit_w300">
+    </td>
+    <td>
+      <a name="nunsofit_w300"></a>
+      <strong>nunsofit_w300</strong><br>
+      Wrapped variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_we300.svg" width="160" alt="nunsofit_we300">
+    </td>
+    <td>
+      <a name="nunsofit_we300"></a>
+      <strong>nunsofit_we300</strong><br>
+      Wrapped, elongated variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
+
