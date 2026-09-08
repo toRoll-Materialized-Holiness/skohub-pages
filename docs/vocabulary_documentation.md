@@ -6530,3 +6530,531 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
   </tr>
 
 </table>
+
+## Vav
+The naming scheme consists of:
+* letter with separator: `vav_`
+* global prefix: optional, possible value `e`
+* position-bound phenomena: optional, possible values `b`, `p`
+* three-digit number: e.g. `001`
+Vav has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_001.svg" width="160" alt="vav_001">
+    </td>
+    <td>
+      <a name="vav_001"></a>
+      <strong>vav_001</strong><br>
+      Variant of the Vav with one tag at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_00p.svg" width="160" alt="vav_00p">
+    </td>
+    <td>
+      <a name="vav_00p"></a>
+      <strong>vav_00p</strong><br>
+      Variant of the Vav with one pretzel at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0b0.svg" width="160" alt="vav_0b0">
+    </td>
+    <td>
+      <a name="vav_0b0"></a>
+      <strong>vav_0b0</strong><br>
+      Variant of the Vav with one bow at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0bb.svg" width="160" alt="vav_0bb">
+    </td>
+    <td>
+      <a name="vav_0bb"></a>
+      <strong>vav_0bb</strong><br>
+      Variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0pp.svg" width="160" alt="vav_0pp">
+    </td>
+    <td>
+      <a name="vav_0pp"></a>
+      <strong>vav_0pp</strong><br>
+      Variant of the Vav with one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_100.svg" width="160" alt="vav_100">
+    </td>
+    <td>
+      <a name="vav_100"></a>
+      <strong>vav_100</strong><br>
+      Variant of the Vav with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_101.svg" width="160" alt="vav_101">
+    </td>
+    <td>
+      <a name="vav_101"></a>
+      <strong>vav_101</strong><br>
+      Variant of the Vav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_10p.svg" width="160" alt="vav_10p">
+    </td>
+    <td>
+      <a name="vav_10p"></a>
+      <strong>vav_10p</strong><br>
+      Variant of the Vav with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1b0.svg" width="160" alt="vav_1b0">
+    </td>
+    <td>
+      <a name="vav_1b0"></a>
+      <strong>vav_1b0</strong><br>
+      Variant of the Vav with one tag at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1b1.svg" width="160" alt="vav_1b1">
+    </td>
+    <td>
+      <a name="vav_1b1"></a>
+      <strong>vav_1b1</strong><br>
+      Variant of the Vav with one tag at the first position, one bow at the second position, and one tag at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1bb.svg" width="160" alt="vav_1bb">
+    </td>
+    <td>
+      <a name="vav_1bb"></a>
+      <strong>vav_1bb</strong><br>
+      Variant of the Vav with one tag at the first position, one bow at the second position, and one bow at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1pp.svg" width="160" alt="vav_1pp">
+    </td>
+    <td>
+      <a name="vav_1pp"></a>
+      <strong>vav_1pp</strong><br>
+      Variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_200.svg" width="160" alt="vav_200">
+    </td>
+    <td>
+      <a name="vav_200"></a>
+      <strong>vav_200</strong><br>
+      Variant of the Vav with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0b0.svg" width="160" alt="vav_e0b0">
+    </td>
+    <td>
+      <a name="vav_e0b0"></a>
+      <strong>vav_e0b0</strong><br>
+      Elongated variant of the Vav with one bow at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0bb.svg" width="160" alt="vav_e0bb">
+    </td>
+    <td>
+      <a name="vav_e0bb"></a>
+      <strong>vav_e0bb</strong><br>
+      Elongated variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0bp.svg" width="160" alt="vav_e0bp">
+    </td>
+    <td>
+      <a name="vav_e0bp"></a>
+      <strong>vav_e0bp</strong><br>
+      Elongated variant of the Vav with one bow at the second position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0p0.svg" width="160" alt="vav_e0p0">
+    </td>
+    <td>
+      <a name="vav_e0p0"></a>
+      <strong>vav_e0p0</strong><br>
+      Elongated variant of the Vav with one pretzel at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e100.svg" width="160" alt="vav_e100">
+    </td>
+    <td>
+      <a name="vav_e100"></a>
+      <strong>vav_e100</strong><br>
+      Elongated variant of the Vav with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1bp.svg" width="160" alt="vav_e1bp">
+    </td>
+    <td>
+      <a name="vav_e1bp"></a>
+      <strong>vav_e1bp</strong><br>
+      Elongated variant of the Vav with one tag at the first position, one bow at the second position, and one pretzel at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1p0.svg" width="160" alt="vav_e1p0">
+    </td>
+    <td>
+      <a name="vav_e1p0"></a>
+      <strong>vav_e1p0</strong><br>
+      Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and no tagin at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1pp.svg" width="160" alt="vav_e1pp">
+    </td>
+    <td>
+      <a name="vav_e1pp"></a>
+      <strong>vav_e1pp</strong><br>
+      Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position.
+    </td>
+  </tr>
+
+</table>
+
+## Yod
+The naming scheme consists of:
+* letter with separator: `yod_`
+* global prefixes: optional, possible values `e`, `s`
+* position-bound phenomena: optional, possible value `p`
+* two-digit number: e.g. `01`
+Yod has two possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is elongated, an additional `e` for *elongated* is inserted as the first entry. If the letter is struck through, `s` for *struckthrough* is used. A position-bound phenomenon may be a pretzel, denoted by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_001.svg" width="160" alt="yod_001">
+    </td>
+    <td>
+      <a name="yod_001"></a>
+      <strong>yod_001</strong><br>
+      Variant of the Yod with one tag at the third position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_0p0.svg" width="160" alt="yod_0p0">
+    </td>
+    <td>
+      <a name="yod_0p0"></a>
+      <strong>yod_0p0</strong><br>
+      Variant of the Yod with one pretzel at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_100.svg" width="160" alt="yod_100">
+    </td>
+    <td>
+      <a name="yod_100"></a>
+      <strong>yod_100</strong><br>
+      Variant of the Yod with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_101.svg" width="160" alt="yod_101">
+    </td>
+    <td>
+      <a name="yod_101"></a>
+      <strong>yod_101</strong><br>
+      Variant of the Yod with one tag at the first position, one tag at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_10p.svg" width="160" alt="yod_10p">
+    </td>
+    <td>
+      <a name="yod_10p"></a>
+      <strong>yod_10p</strong><br>
+      Variant of the Yod with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_1p0.svg" width="160" alt="yod_1p0">
+    </td>
+    <td>
+      <a name="yod_1p0"></a>
+      <strong>yod_1p0</strong><br>
+      Variant of the Yod with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_200.svg" width="160" alt="yod_200">
+    </td>
+    <td>
+      <a name="yod_200"></a>
+      <strong>yod_200</strong><br>
+      Variant of the Yod with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_300.svg" width="160" alt="yod_300">
+    </td>
+    <td>
+      <a name="yod_300"></a>
+      <strong>yod_300</strong><br>
+      Variant of the Yod with three tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_e000.svg" width="160" alt="yod_e000">
+    </td>
+    <td>
+      <a name="yod_e000"></a>
+      <strong>yod_e000</strong><br>
+      Elongated variant of the Yod with no tagin at any of the positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_s000.svg" width="160" alt="yod_s000">
+    </td>
+    <td>
+      <a name="yod_s000"></a>
+      <strong>yod_s000</strong><br>
+      Struckthrough variant of the Yod with no tagin at any of the positions.
+    </td>
+  </tr>
+
+</table>
+
+## Zayin
+The naming scheme consists of:
+* letter with separator: `zayin_`
+* global prefix: optional, possible value `w`
+* position-bound phenomena: optional, possible values `b`, `p`
+* three-digit number: e.g. `100`
+Zayin has three possible positions for decorations. The tagin are counted per position and written in ascending positional order. If the letter is wrapped, an additional `w` for *wrapped* is inserted as the first entry. Position-bound phenomena may include a bow or a pretzel. The bow is denoted by `b` for *bow* and the pretzel by `p` for *pretzel*.
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_0b0.svg" width="160" alt="zayin_0b0">
+    </td>
+    <td>
+      <a name="zayin_0b0"></a>
+      <strong>zayin_0b0</strong><br>
+      Variant of the Zayin with one bow at the second position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_100.svg" width="160" alt="zayin_100">
+    </td>
+    <td>
+      <a name="zayin_100"></a>
+      <strong>zayin_100</strong><br>
+      Variant of the Zayin with one tag at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1b0.svg" width="160" alt="zayin_1b0">
+    </td>
+    <td>
+      <a name="zayin_1b0"></a>
+      <strong>zayin_1b0</strong><br>
+      Variant of the Zayin with one tag at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1bb.svg" width="160" alt="zayin_1bb">
+    </td>
+    <td>
+      <a name="zayin_1bb"></a>
+      <strong>zayin_1bb</strong><br>
+      Variant of the Zayin with one tag at the first position, one bow at the second position, and one bow at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1p0.svg" width="160" alt="zayin_1p0">
+    </td>
+    <td>
+      <a name="zayin_1p0"></a>
+      <strong>zayin_1p0</strong><br>
+      Variant of the Zayin with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_200.svg" width="160" alt="zayin_200">
+    </td>
+    <td>
+      <a name="zayin_200"></a>
+      <strong>zayin_200</strong><br>
+      Variant of the Zayin with two tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_2b0.svg" width="160" alt="zayin_2b0">
+    </td>
+    <td>
+      <a name="zayin_2b0"></a>
+      <strong>zayin_2b0</strong><br>
+      Variant of the Zayin with two tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_3b0.svg" width="160" alt="zayin_3b0">
+    </td>
+    <td>
+      <a name="zayin_3b0"></a>
+      <strong>zayin_3b0</strong><br>
+      Variant of the Zayin with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_3bb.svg" width="160" alt="zayin_3bb">
+    </td>
+    <td>
+      <a name="zayin_3bb"></a>
+      <strong>zayin_3bb</strong><br>
+      Variant of the Zayin with three tagin at the first position, one bow at the second position, and one bow at the third position.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_4b0.svg" width="160" alt="zayin_4b0">
+    </td>
+    <td>
+      <a name="zayin_4b0"></a>
+      <strong>zayin_4b0</strong><br>
+      Variant of the Zayin with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_5b0.svg" width="160" alt="zayin_5b0">
+    </td>
+    <td>
+      <a name="zayin_5b0"></a>
+      <strong>zayin_5b0</strong><br>
+      Variant of the Zayin with five tagin at the first position, one bow at the second position, and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_b00.svg" width="160" alt="zayin_b00">
+    </td>
+    <td>
+      <a name="zayin_b00"></a>
+      <strong>zayin_b00</strong><br>
+      Variant of the Zayin with one bow at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_p00.svg" width="160" alt="zayin_p00">
+    </td>
+    <td>
+      <a name="zayin_p00"></a>
+      <strong>zayin_p00</strong><br>
+      Variant of the Zayin with one pretzel at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_w400.svg" width="160" alt="zayin_w400">
+    </td>
+    <td>
+      <a name="zayin_w400"></a>
+      <strong>zayin_w400</strong><br>
+      Wrapped variant of the Zayin with four tagin at the first position and no tagin at the remaining positions.
+    </td>
+  </tr>
+
+</table>
