@@ -11,7 +11,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_0001.svg" width="160" alt="alef_0001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_0001.svg" width="160" alt="alef_0001">
     </td>
     <td>
       <a name="alef_0001"></a>
@@ -22,7 +22,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_0002.svg" width="160" alt="alef_0002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_0002.svg" width="160" alt="alef_0002">
     </td>
     <td>
       <a name="alef_0002"></a>
@@ -33,7 +33,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_0100.svg" width="160" alt="alef_0100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_0100.svg" width="160" alt="alef_0100">
     </td>
     <td>
       <a name="alef_0100"></a>
@@ -44,7 +44,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_0200.svg" width="160" alt="alef_0200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_0200.svg" width="160" alt="alef_0200">
     </td>
     <td>
       <a name="alef_0200"></a>
@@ -55,7 +55,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_0302.svg" width="160" alt="alef_0302">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_0302.svg" width="160" alt="alef_0302">
     </td>
     <td>
       <a name="alef_0302"></a>
@@ -66,7 +66,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1000.svg" width="160" alt="alef_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1000.svg" width="160" alt="alef_1000">
     </td>
     <td>
       <a name="alef_1000"></a>
@@ -77,7 +77,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1100.svg" width="160" alt="alef_1100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1100.svg" width="160" alt="alef_1100">
     </td>
     <td>
       <a name="alef_1100"></a>
@@ -88,7 +88,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1102.svg" width="160" alt="alef_1102">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1102.svg" width="160" alt="alef_1102">
     </td>
     <td>
       <a name="alef_1102"></a>
@@ -99,7 +99,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1202.svg" width="160" alt="alef_1202">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1202.svg" width="160" alt="alef_1202">
     </td>
     <td>
       <a name="alef_1202"></a>
@@ -110,7 +110,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1203.svg" width="160" alt="alef_1203">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1203.svg" width="160" alt="alef_1203">
     </td>
     <td>
       <a name="alef_1203"></a>
@@ -121,7 +121,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1300.svg" width="160" alt="alef_1300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1300.svg" width="160" alt="alef_1300">
     </td>
     <td>
       <a name="alef_1300"></a>
@@ -132,7 +132,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_1301.svg" width="160" alt="alef_1301">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_1301.svg" width="160" alt="alef_1301">
     </td>
     <td>
       <a name="alef_1301"></a>
@@ -143,7 +143,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2000.svg" width="160" alt="alef_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2000.svg" width="160" alt="alef_2000">
     </td>
     <td>
       <a name="alef_2000"></a>
@@ -154,7 +154,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2100.svg" width="160" alt="alef_2100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2100.svg" width="160" alt="alef_2100">
     </td>
     <td>
       <a name="alef_2100"></a>
@@ -165,7 +165,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2102.svg" width="160" alt="alef_2102">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2102.svg" width="160" alt="alef_2102">
     </td>
     <td>
       <a name="alef_2102"></a>
@@ -176,7 +176,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2112.svg" width="160" alt="alef_2112">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2112.svg" width="160" alt="alef_2112">
     </td>
     <td>
       <a name="alef_2112"></a>
@@ -187,7 +187,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2200.svg" width="160" alt="alef_2200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2200.svg" width="160" alt="alef_2200">
     </td>
     <td>
       <a name="alef_2200"></a>
@@ -198,7 +198,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2202.svg" width="160" alt="alef_2202">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2202.svg" width="160" alt="alef_2202">
     </td>
     <td>
       <a name="alef_2202"></a>
@@ -209,7 +209,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2212.svg" width="160" alt="alef_2212">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2212.svg" width="160" alt="alef_2212">
     </td>
     <td>
       <a name="alef_2212"></a>
@@ -220,7 +220,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2300.svg" width="160" alt="alef_2300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2300.svg" width="160" alt="alef_2300">
     </td>
     <td>
       <a name="alef_2300"></a>
@@ -231,7 +231,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_2302.svg" width="160" alt="alef_2302">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_2302.svg" width="160" alt="alef_2302">
     </td>
     <td>
       <a name="alef_2302"></a>
@@ -242,7 +242,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3000.svg" width="160" alt="alef_3000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3000.svg" width="160" alt="alef_3000">
     </td>
     <td>
       <a name="alef_3000"></a>
@@ -253,7 +253,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3100.svg" width="160" alt="alef_3100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3100.svg" width="160" alt="alef_3100">
     </td>
     <td>
       <a name="alef_3100"></a>
@@ -264,7 +264,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3102.svg" width="160" alt="alef_3102">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3102.svg" width="160" alt="alef_3102">
     </td>
     <td>
       <a name="alef_3102"></a>
@@ -275,7 +275,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3200.svg" width="160" alt="alef_3200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3200.svg" width="160" alt="alef_3200">
     </td>
     <td>
       <a name="alef_3200"></a>
@@ -286,7 +286,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3202.svg" width="160" alt="alef_3202">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3202.svg" width="160" alt="alef_3202">
     </td>
     <td>
       <a name="alef_3202"></a>
@@ -297,7 +297,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3220.svg" width="160" alt="alef_3220">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3220.svg" width="160" alt="alef_3220">
     </td>
     <td>
       <a name="alef_3220"></a>
@@ -308,7 +308,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3222.svg" width="160" alt="alef_3222">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3222.svg" width="160" alt="alef_3222">
     </td>
     <td>
       <a name="alef_3222"></a>
@@ -319,7 +319,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3300.svg" width="160" alt="alef_3300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3300.svg" width="160" alt="alef_3300">
     </td>
     <td>
       <a name="alef_3300"></a>
@@ -330,7 +330,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3302.svg" width="160" alt="alef_3302">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3302.svg" width="160" alt="alef_3302">
     </td>
     <td>
       <a name="alef_3302"></a>
@@ -341,7 +341,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_3312.svg" width="160" alt="alef_3312">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_3312.svg" width="160" alt="alef_3312">
     </td>
     <td>
       <a name="alef_3312"></a>
@@ -352,7 +352,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_4200.svg" width="160" alt="alef_4200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_4200.svg" width="160" alt="alef_4200">
     </td>
     <td>
       <a name="alef_4200"></a>
@@ -363,7 +363,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_4300.svg" width="160" alt="alef_4300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_4300.svg" width="160" alt="alef_4300">
     </td>
     <td>
       <a name="alef_4300"></a>
@@ -374,7 +374,7 @@ Alef has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/alef_e0000.svg" width="160" alt="alef_e0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/alef_e0000.svg" width="160" alt="alef_e0000">
     </td>
     <td>
       <a name="alef_e0000"></a>
@@ -399,7 +399,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_00b0.svg" width="160" alt="ayin_00b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_00b0.svg" width="160" alt="ayin_00b0">
     </td>
     <td>
       <a name="ayin_00b0"></a>
@@ -410,7 +410,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_00p0.svg" width="160" alt="ayin_00p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_00p0.svg" width="160" alt="ayin_00p0">
     </td>
     <td>
       <a name="ayin_00p0"></a>
@@ -421,7 +421,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_01b0.svg" width="160" alt="ayin_01b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_01b0.svg" width="160" alt="ayin_01b0">
     </td>
     <td>
       <a name="ayin_01b0"></a>
@@ -432,7 +432,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_01p0.svg" width="160" alt="ayin_01p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_01p0.svg" width="160" alt="ayin_01p0">
     </td>
     <td>
       <a name="ayin_01p0"></a>
@@ -443,7 +443,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_0200.svg" width="160" alt="ayin_0200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_0200.svg" width="160" alt="ayin_0200">
     </td>
     <td>
       <a name="ayin_0200"></a>
@@ -454,7 +454,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_02p0.svg" width="160" alt="ayin_02p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_02p0.svg" width="160" alt="ayin_02p0">
     </td>
     <td>
       <a name="ayin_02p0"></a>
@@ -465,7 +465,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_0300.svg" width="160" alt="ayin_0300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_0300.svg" width="160" alt="ayin_0300">
     </td>
     <td>
       <a name="ayin_0300"></a>
@@ -476,7 +476,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_0bb0.svg" width="160" alt="ayin_0bb0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_0bb0.svg" width="160" alt="ayin_0bb0">
     </td>
     <td>
       <a name="ayin_0bb0"></a>
@@ -487,7 +487,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_0p00.svg" width="160" alt="ayin_0p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_0p00.svg" width="160" alt="ayin_0p00">
     </td>
     <td>
       <a name="ayin_0p00"></a>
@@ -498,7 +498,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_0pp0.svg" width="160" alt="ayin_0pp0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_0pp0.svg" width="160" alt="ayin_0pp0">
     </td>
     <td>
       <a name="ayin_0pp0"></a>
@@ -509,7 +509,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_1000.svg" width="160" alt="ayin_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_1000.svg" width="160" alt="ayin_1000">
     </td>
     <td>
       <a name="ayin_1000"></a>
@@ -520,7 +520,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_10b0.svg" width="160" alt="ayin_10b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_10b0.svg" width="160" alt="ayin_10b0">
     </td>
     <td>
       <a name="ayin_10b0"></a>
@@ -531,7 +531,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_1100.svg" width="160" alt="ayin_1100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_1100.svg" width="160" alt="ayin_1100">
     </td>
     <td>
       <a name="ayin_1100"></a>
@@ -542,7 +542,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_11b0.svg" width="160" alt="ayin_11b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_11b0.svg" width="160" alt="ayin_11b0">
     </td>
     <td>
       <a name="ayin_11b0"></a>
@@ -553,7 +553,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_11p0.svg" width="160" alt="ayin_11p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_11p0.svg" width="160" alt="ayin_11p0">
     </td>
     <td>
       <a name="ayin_11p0"></a>
@@ -564,7 +564,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_1200.svg" width="160" alt="ayin_1200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_1200.svg" width="160" alt="ayin_1200">
     </td>
     <td>
       <a name="ayin_1200"></a>
@@ -575,7 +575,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_2000.svg" width="160" alt="ayin_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_2000.svg" width="160" alt="ayin_2000">
     </td>
     <td>
       <a name="ayin_2000"></a>
@@ -586,7 +586,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_2100.svg" width="160" alt="ayin_2100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_2100.svg" width="160" alt="ayin_2100">
     </td>
     <td>
       <a name="ayin_2100"></a>
@@ -597,7 +597,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3010.svg" width="160" alt="ayin_3010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3010.svg" width="160" alt="ayin_3010">
     </td>
     <td>
       <a name="ayin_3010"></a>
@@ -608,7 +608,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_30b0.svg" width="160" alt="ayin_30b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_30b0.svg" width="160" alt="ayin_30b0">
     </td>
     <td>
       <a name="ayin_30b0"></a>
@@ -619,7 +619,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_30p0.svg" width="160" alt="ayin_30p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_30p0.svg" width="160" alt="ayin_30p0">
     </td>
     <td>
       <a name="ayin_30p0"></a>
@@ -630,7 +630,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3100.svg" width="160" alt="ayin_3100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3100.svg" width="160" alt="ayin_3100">
     </td>
     <td>
       <a name="ayin_3100"></a>
@@ -641,7 +641,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3200.svg" width="160" alt="ayin_3200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3200.svg" width="160" alt="ayin_3200">
     </td>
     <td>
       <a name="ayin_3200"></a>
@@ -652,7 +652,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3f00.svg" width="160" alt="ayin_3f00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3f00.svg" width="160" alt="ayin_3f00">
     </td>
     <td>
       <a name="ayin_3f00"></a>
@@ -663,7 +663,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3p00.svg" width="160" alt="ayin_3p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3p00.svg" width="160" alt="ayin_3p00">
     </td>
     <td>
       <a name="ayin_3p00"></a>
@@ -674,7 +674,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_3pp0.svg" width="160" alt="ayin_3pp0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_3pp0.svg" width="160" alt="ayin_3pp0">
     </td>
     <td>
       <a name="ayin_3pp0"></a>
@@ -685,7 +685,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_4000.svg" width="160" alt="ayin_4000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_4000.svg" width="160" alt="ayin_4000">
     </td>
     <td>
       <a name="ayin_4000"></a>
@@ -696,7 +696,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e0000.svg" width="160" alt="ayin_e0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e0000.svg" width="160" alt="ayin_e0000">
     </td>
     <td>
       <a name="ayin_e0000"></a>
@@ -707,7 +707,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e00b0.svg" width="160" alt="ayin_e00b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e00b0.svg" width="160" alt="ayin_e00b0">
     </td>
     <td>
       <a name="ayin_e00b0"></a>
@@ -718,7 +718,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e0300.svg" width="160" alt="ayin_e0300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e0300.svg" width="160" alt="ayin_e0300">
     </td>
     <td>
       <a name="ayin_e0300"></a>
@@ -729,7 +729,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e0b00.svg" width="160" alt="ayin_e0b00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e0b00.svg" width="160" alt="ayin_e0b00">
     </td>
     <td>
       <a name="ayin_e0b00"></a>
@@ -740,7 +740,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e1000.svg" width="160" alt="ayin_e1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e1000.svg" width="160" alt="ayin_e1000">
     </td>
     <td>
       <a name="ayin_e1000"></a>
@@ -751,7 +751,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e10p0.svg" width="160" alt="ayin_e10p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e10p0.svg" width="160" alt="ayin_e10p0">
     </td>
     <td>
       <a name="ayin_e10p0"></a>
@@ -762,7 +762,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e3000.svg" width="160" alt="ayin_e3000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e3000.svg" width="160" alt="ayin_e3000">
     </td>
     <td>
       <a name="ayin_e3000"></a>
@@ -773,7 +773,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e30b0.svg" width="160" alt="ayin_e30b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e30b0.svg" width="160" alt="ayin_e30b0">
     </td>
     <td>
       <a name="ayin_e30b0"></a>
@@ -784,7 +784,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e3bb0.svg" width="160" alt="ayin_e3bb0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e3bb0.svg" width="160" alt="ayin_e3bb0">
     </td>
     <td>
       <a name="ayin_e3bb0"></a>
@@ -795,7 +795,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e3fb0.svg" width="160" alt="ayin_e3fb0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e3fb0.svg" width="160" alt="ayin_e3fb0">
     </td>
     <td>
       <a name="ayin_e3fb0"></a>
@@ -806,7 +806,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_e3p00.svg" width="160" alt="ayin_e3p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_e3p00.svg" width="160" alt="ayin_e3p00">
     </td>
     <td>
       <a name="ayin_e3p00"></a>
@@ -817,7 +817,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_ep000.svg" width="160" alt="ayin_ep000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_ep000.svg" width="160" alt="ayin_ep000">
     </td>
     <td>
       <a name="ayin_ep000"></a>
@@ -828,7 +828,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_p000.svg" width="160" alt="ayin_p000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_p000.svg" width="160" alt="ayin_p000">
     </td>
     <td>
       <a name="ayin_p000"></a>
@@ -839,7 +839,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_p0p0.svg" width="160" alt="ayin_p0p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_p0p0.svg" width="160" alt="ayin_p0p0">
     </td>
     <td>
       <a name="ayin_p0p0"></a>
@@ -850,7 +850,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_p220.svg" width="160" alt="ayin_p220">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_p220.svg" width="160" alt="ayin_p220">
     </td>
     <td>
       <a name="ayin_p220"></a>
@@ -861,7 +861,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_pp00.svg" width="160" alt="ayin_pp00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_pp00.svg" width="160" alt="ayin_pp00">
     </td>
     <td>
       <a name="ayin_pp00"></a>
@@ -872,7 +872,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_ppp0.svg" width="160" alt="ayin_ppp0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_ppp0.svg" width="160" alt="ayin_ppp0">
     </td>
     <td>
       <a name="ayin_ppp0"></a>
@@ -883,7 +883,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_w0000.svg" width="160" alt="ayin_w0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_w0000.svg" width="160" alt="ayin_w0000">
     </td>
     <td>
       <a name="ayin_w0000"></a>
@@ -894,7 +894,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_w02b0.svg" width="160" alt="ayin_w02b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_w02b0.svg" width="160" alt="ayin_w02b0">
     </td>
     <td>
       <a name="ayin_w02b0"></a>
@@ -905,7 +905,7 @@ Ayin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/ayin_we0000.svg" width="160" alt="ayin_we0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/ayin_we0000.svg" width="160" alt="ayin_we0000">
     </td>
     <td>
       <a name="ayin_we0000"></a>
@@ -929,7 +929,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0000010.svg" width="160" alt="beit_0000010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0000010.svg" width="160" alt="beit_0000010">
     </td>
     <td>
       <a name="beit_0000010"></a>
@@ -940,7 +940,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_00000b0.svg" width="160" alt="beit_00000b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_00000b0.svg" width="160" alt="beit_00000b0">
     </td>
     <td>
       <a name="beit_00000b0"></a>
@@ -951,7 +951,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0001000.svg" width="160" alt="beit_0001000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0001000.svg" width="160" alt="beit_0001000">
     </td>
     <td>
       <a name="beit_0001000"></a>
@@ -962,7 +962,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0010000.svg" width="160" alt="beit_0010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0010000.svg" width="160" alt="beit_0010000">
     </td>
     <td>
       <a name="beit_0010000"></a>
@@ -973,7 +973,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_00f0000.svg" width="160" alt="beit_00f0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_00f0000.svg" width="160" alt="beit_00f0000">
     </td>
     <td>
       <a name="beit_00f0000"></a>
@@ -984,7 +984,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0100000.svg" width="160" alt="beit_0100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0100000.svg" width="160" alt="beit_0100000">
     </td>
     <td>
       <a name="beit_0100000"></a>
@@ -995,7 +995,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0110000.svg" width="160" alt="beit_0110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0110000.svg" width="160" alt="beit_0110000">
     </td>
     <td>
       <a name="beit_0110000"></a>
@@ -1006,7 +1006,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_0200000.svg" width="160" alt="beit_0200000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_0200000.svg" width="160" alt="beit_0200000">
     </td>
     <td>
       <a name="beit_0200000"></a>
@@ -1017,7 +1017,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1000000.svg" width="160" alt="beit_1000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1000000.svg" width="160" alt="beit_1000000">
     </td>
     <td>
       <a name="beit_1000000"></a>
@@ -1028,7 +1028,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1010000.svg" width="160" alt="beit_1010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1010000.svg" width="160" alt="beit_1010000">
     </td>
     <td>
       <a name="beit_1010000"></a>
@@ -1039,7 +1039,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1010001.svg" width="160" alt="beit_1010001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1010001.svg" width="160" alt="beit_1010001">
     </td>
     <td>
       <a name="beit_1010001"></a>
@@ -1050,7 +1050,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1011010.svg" width="160" alt="beit_1011010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1011010.svg" width="160" alt="beit_1011010">
     </td>
     <td>
       <a name="beit_1011010"></a>
@@ -1061,7 +1061,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1100000.svg" width="160" alt="beit_1100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1100000.svg" width="160" alt="beit_1100000">
     </td>
     <td>
       <a name="beit_1100000"></a>
@@ -1072,7 +1072,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1110000.svg" width="160" alt="beit_1110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1110000.svg" width="160" alt="beit_1110000">
     </td>
     <td>
       <a name="beit_1110000"></a>
@@ -1083,7 +1083,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_1210000.svg" width="160" alt="beit_1210000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_1210000.svg" width="160" alt="beit_1210000">
     </td>
     <td>
       <a name="beit_1210000"></a>
@@ -1094,7 +1094,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_2000001.svg" width="160" alt="beit_2000001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_2000001.svg" width="160" alt="beit_2000001">
     </td>
     <td>
       <a name="beit_2000001"></a>
@@ -1105,7 +1105,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_2300000.svg" width="160" alt="beit_2300000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_2300000.svg" width="160" alt="beit_2300000">
     </td>
     <td>
       <a name="beit_2300000"></a>
@@ -1116,7 +1116,7 @@ Beit has seven possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/beit_3000000.svg" width="160" alt="beit_3000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/beit_3000000.svg" width="160" alt="beit_3000000">
     </td>
     <td>
       <a name="beit_3000000"></a>
@@ -1139,7 +1139,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_0001.svg" width="160" alt="dalet_0001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_0001.svg" width="160" alt="dalet_0001">
     </td>
     <td>
       <a name="dalet_0001"></a>
@@ -1150,7 +1150,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_0100.svg" width="160" alt="dalet_0100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_0100.svg" width="160" alt="dalet_0100">
     </td>
     <td>
       <a name="dalet_0100"></a>
@@ -1161,7 +1161,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_0110.svg" width="160" alt="dalet_0110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_0110.svg" width="160" alt="dalet_0110">
     </td>
     <td>
       <a name="dalet_0110"></a>
@@ -1172,7 +1172,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_0200.svg" width="160" alt="dalet_0200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_0200.svg" width="160" alt="dalet_0200">
     </td>
     <td>
       <a name="dalet_0200"></a>
@@ -1183,7 +1183,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1000.svg" width="160" alt="dalet_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1000.svg" width="160" alt="dalet_1000">
     </td>
     <td>
       <a name="dalet_1000"></a>
@@ -1194,7 +1194,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1010.svg" width="160" alt="dalet_1010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1010.svg" width="160" alt="dalet_1010">
     </td>
     <td>
       <a name="dalet_1010"></a>
@@ -1205,7 +1205,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1021.svg" width="160" alt="dalet_1021">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1021.svg" width="160" alt="dalet_1021">
     </td>
     <td>
       <a name="dalet_1021"></a>
@@ -1216,7 +1216,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1110.svg" width="160" alt="dalet_1110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1110.svg" width="160" alt="dalet_1110">
     </td>
     <td>
       <a name="dalet_1110"></a>
@@ -1227,7 +1227,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1111.svg" width="160" alt="dalet_1111">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1111.svg" width="160" alt="dalet_1111">
     </td>
     <td>
       <a name="dalet_1111"></a>
@@ -1238,7 +1238,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1112.svg" width="160" alt="dalet_1112">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1112.svg" width="160" alt="dalet_1112">
     </td>
     <td>
       <a name="dalet_1112"></a>
@@ -1249,7 +1249,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1201.svg" width="160" alt="dalet_1201">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1201.svg" width="160" alt="dalet_1201">
     </td>
     <td>
       <a name="dalet_1201"></a>
@@ -1260,7 +1260,7 @@ Dalet has four possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/dalet_1210.svg" width="160" alt="dalet_1210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/dalet_1210.svg" width="160" alt="dalet_1210">
     </td>
     <td>
       <a name="dalet_1210"></a>
@@ -1284,7 +1284,7 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/gimel_0b.svg" width="160" alt="gimel_0b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/gimel_0b.svg" width="160" alt="gimel_0b">
     </td>
     <td>
       <a name="gimel_0b"></a>
@@ -1295,7 +1295,7 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/gimel_20.svg" width="160" alt="gimel_20">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/gimel_20.svg" width="160" alt="gimel_20">
     </td>
     <td>
       <a name="gimel_20"></a>
@@ -1306,7 +1306,7 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/gimel_31.svg" width="160" alt="gimel_31">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/gimel_31.svg" width="160" alt="gimel_31">
     </td>
     <td>
       <a name="gimel_31"></a>
@@ -1317,7 +1317,7 @@ Gimel has two possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/gimel_40.svg" width="160" alt="gimel_40">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/gimel_40.svg" width="160" alt="gimel_40">
     </td>
     <td>
       <a name="gimel_40"></a>
@@ -1342,7 +1342,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0001.svg" width="160" alt="he_0001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0001.svg" width="160" alt="he_0001">
     </td>
     <td>
       <a name="he_0001"></a>
@@ -1353,7 +1353,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0010.svg" width="160" alt="he_0010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0010.svg" width="160" alt="he_0010">
     </td>
     <td>
       <a name="he_0010"></a>
@@ -1364,7 +1364,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0020.svg" width="160" alt="he_0020">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0020.svg" width="160" alt="he_0020">
     </td>
     <td>
       <a name="he_0020"></a>
@@ -1375,7 +1375,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0100.svg" width="160" alt="he_0100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0100.svg" width="160" alt="he_0100">
     </td>
     <td>
       <a name="he_0100"></a>
@@ -1386,7 +1386,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0110.svg" width="160" alt="he_0110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0110.svg" width="160" alt="he_0110">
     </td>
     <td>
       <a name="he_0110"></a>
@@ -1397,7 +1397,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0120.svg" width="160" alt="he_0120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0120.svg" width="160" alt="he_0120">
     </td>
     <td>
       <a name="he_0120"></a>
@@ -1408,7 +1408,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0200.svg" width="160" alt="he_0200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0200.svg" width="160" alt="he_0200">
     </td>
     <td>
       <a name="he_0200"></a>
@@ -1419,7 +1419,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0201.svg" width="160" alt="he_0201">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0201.svg" width="160" alt="he_0201">
     </td>
     <td>
       <a name="he_0201"></a>
@@ -1430,7 +1430,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0210.svg" width="160" alt="he_0210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0210.svg" width="160" alt="he_0210">
     </td>
     <td>
       <a name="he_0210"></a>
@@ -1441,7 +1441,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0300.svg" width="160" alt="he_0300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0300.svg" width="160" alt="he_0300">
     </td>
     <td>
       <a name="he_0300"></a>
@@ -1452,7 +1452,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_0301.svg" width="160" alt="he_0301">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_0301.svg" width="160" alt="he_0301">
     </td>
     <td>
       <a name="he_0301"></a>
@@ -1463,7 +1463,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1000.svg" width="160" alt="he_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1000.svg" width="160" alt="he_1000">
     </td>
     <td>
       <a name="he_1000"></a>
@@ -1474,7 +1474,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1001.svg" width="160" alt="he_1001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1001.svg" width="160" alt="he_1001">
     </td>
     <td>
       <a name="he_1001"></a>
@@ -1485,7 +1485,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1010.svg" width="160" alt="he_1010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1010.svg" width="160" alt="he_1010">
     </td>
     <td>
       <a name="he_1010"></a>
@@ -1496,7 +1496,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1011.svg" width="160" alt="he_1011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1011.svg" width="160" alt="he_1011">
     </td>
     <td>
       <a name="he_1011"></a>
@@ -1507,7 +1507,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1020.svg" width="160" alt="he_1020">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1020.svg" width="160" alt="he_1020">
     </td>
     <td>
       <a name="he_1020"></a>
@@ -1518,7 +1518,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1100.svg" width="160" alt="he_1100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1100.svg" width="160" alt="he_1100">
     </td>
     <td>
       <a name="he_1100"></a>
@@ -1529,7 +1529,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1110.svg" width="160" alt="he_1110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1110.svg" width="160" alt="he_1110">
     </td>
     <td>
       <a name="he_1110"></a>
@@ -1540,7 +1540,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1111.svg" width="160" alt="he_1111">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1111.svg" width="160" alt="he_1111">
     </td>
     <td>
       <a name="he_1111"></a>
@@ -1551,7 +1551,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1120.svg" width="160" alt="he_1120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1120.svg" width="160" alt="he_1120">
     </td>
     <td>
       <a name="he_1120"></a>
@@ -1562,7 +1562,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1200.svg" width="160" alt="he_1200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1200.svg" width="160" alt="he_1200">
     </td>
     <td>
       <a name="he_1200"></a>
@@ -1573,7 +1573,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1201.svg" width="160" alt="he_1201">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1201.svg" width="160" alt="he_1201">
     </td>
     <td>
       <a name="he_1201"></a>
@@ -1584,7 +1584,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_1210.svg" width="160" alt="he_1210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_1210.svg" width="160" alt="he_1210">
     </td>
     <td>
       <a name="he_1210"></a>
@@ -1595,7 +1595,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2000.svg" width="160" alt="he_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2000.svg" width="160" alt="he_2000">
     </td>
     <td>
       <a name="he_2000"></a>
@@ -1606,7 +1606,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2001.svg" width="160" alt="he_2001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2001.svg" width="160" alt="he_2001">
     </td>
     <td>
       <a name="he_2001"></a>
@@ -1617,7 +1617,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2010.svg" width="160" alt="he_2010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2010.svg" width="160" alt="he_2010">
     </td>
     <td>
       <a name="he_2010"></a>
@@ -1628,7 +1628,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2020.svg" width="160" alt="he_2020">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2020.svg" width="160" alt="he_2020">
     </td>
     <td>
       <a name="he_2020"></a>
@@ -1639,7 +1639,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2100.svg" width="160" alt="he_2100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2100.svg" width="160" alt="he_2100">
     </td>
     <td>
       <a name="he_2100"></a>
@@ -1650,7 +1650,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_2300.svg" width="160" alt="he_2300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_2300.svg" width="160" alt="he_2300">
     </td>
     <td>
       <a name="he_2300"></a>
@@ -1661,7 +1661,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3000.svg" width="160" alt="he_3000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_3000.svg" width="160" alt="he_3000">
     </td>
     <td>
       <a name="he_3000"></a>
@@ -1672,7 +1672,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3001.svg" width="160" alt="he_3001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_3001.svg" width="160" alt="he_3001">
     </td>
     <td>
       <a name="he_3001"></a>
@@ -1683,7 +1683,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_3021.svg" width="160" alt="he_3021">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_3021.svg" width="160" alt="he_3021">
     </td>
     <td>
       <a name="he_3021"></a>
@@ -1694,7 +1694,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_b000.svg" width="160" alt="he_b000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_b000.svg" width="160" alt="he_b000">
     </td>
     <td>
       <a name="he_b000"></a>
@@ -1705,7 +1705,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_e0000.svg" width="160" alt="he_e0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_e0000.svg" width="160" alt="he_e0000">
     </td>
     <td>
       <a name="he_e0000"></a>
@@ -1716,7 +1716,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_f000.svg" width="160" alt="he_f000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_f000.svg" width="160" alt="he_f000">
     </td>
     <td>
       <a name="he_f000"></a>
@@ -1727,7 +1727,7 @@ He has four possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/he_f001.svg" width="160" alt="he_f001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/he_f001.svg" width="160" alt="he_f001">
     </td>
     <td>
       <a name="he_f001"></a>
@@ -1752,7 +1752,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0000b.svg" width="160" alt="het_0000b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_0000b.svg" width="160" alt="het_0000b">
     </td>
     <td>
       <a name="het_0000b"></a>
@@ -1763,7 +1763,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_000bb.svg" width="160" alt="het_000bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_000bb.svg" width="160" alt="het_000bb">
     </td>
     <td>
       <a name="het_000bb"></a>
@@ -1774,7 +1774,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_01000.svg" width="160" alt="het_01000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_01000.svg" width="160" alt="het_01000">
     </td>
     <td>
       <a name="het_01000"></a>
@@ -1785,7 +1785,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0100b.svg" width="160" alt="het_0100b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_0100b.svg" width="160" alt="het_0100b">
     </td>
     <td>
       <a name="het_0100b"></a>
@@ -1796,7 +1796,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_010bb.svg" width="160" alt="het_010bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_010bb.svg" width="160" alt="het_010bb">
     </td>
     <td>
       <a name="het_010bb"></a>
@@ -1807,7 +1807,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_01100.svg" width="160" alt="het_01100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_01100.svg" width="160" alt="het_01100">
     </td>
     <td>
       <a name="het_01100"></a>
@@ -1818,7 +1818,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0110b.svg" width="160" alt="het_0110b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_0110b.svg" width="160" alt="het_0110b">
     </td>
     <td>
       <a name="het_0110b"></a>
@@ -1829,7 +1829,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_02000.svg" width="160" alt="het_02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_02000.svg" width="160" alt="het_02000">
     </td>
     <td>
       <a name="het_02000"></a>
@@ -1840,7 +1840,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_0f000.svg" width="160" alt="het_0f000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_0f000.svg" width="160" alt="het_0f000">
     </td>
     <td>
       <a name="het_0f000"></a>
@@ -1851,7 +1851,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10000.svg" width="160" alt="het_10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_10000.svg" width="160" alt="het_10000">
     </td>
     <td>
       <a name="het_10000"></a>
@@ -1862,7 +1862,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_1000b.svg" width="160" alt="het_1000b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_1000b.svg" width="160" alt="het_1000b">
     </td>
     <td>
       <a name="het_1000b"></a>
@@ -1873,7 +1873,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10100.svg" width="160" alt="het_10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_10100.svg" width="160" alt="het_10100">
     </td>
     <td>
       <a name="het_10100"></a>
@@ -1884,7 +1884,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_1010b.svg" width="160" alt="het_1010b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_1010b.svg" width="160" alt="het_1010b">
     </td>
     <td>
       <a name="het_1010b"></a>
@@ -1895,7 +1895,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_101bb.svg" width="160" alt="het_101bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_101bb.svg" width="160" alt="het_101bb">
     </td>
     <td>
       <a name="het_101bb"></a>
@@ -1906,7 +1906,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_10200.svg" width="160" alt="het_10200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_10200.svg" width="160" alt="het_10200">
     </td>
     <td>
       <a name="het_10200"></a>
@@ -1917,7 +1917,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11000.svg" width="160" alt="het_11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_11000.svg" width="160" alt="het_11000">
     </td>
     <td>
       <a name="het_11000"></a>
@@ -1928,7 +1928,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11001.svg" width="160" alt="het_11001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_11001.svg" width="160" alt="het_11001">
     </td>
     <td>
       <a name="het_11001"></a>
@@ -1939,7 +1939,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_110bb.svg" width="160" alt="het_110bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_110bb.svg" width="160" alt="het_110bb">
     </td>
     <td>
       <a name="het_110bb"></a>
@@ -1950,7 +1950,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_11100.svg" width="160" alt="het_11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_11100.svg" width="160" alt="het_11100">
     </td>
     <td>
       <a name="het_11100"></a>
@@ -1961,7 +1961,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_12000.svg" width="160" alt="het_12000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_12000.svg" width="160" alt="het_12000">
     </td>
     <td>
       <a name="het_12000"></a>
@@ -1972,7 +1972,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_20001.svg" width="160" alt="het_20001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_20001.svg" width="160" alt="het_20001">
     </td>
     <td>
       <a name="het_20001"></a>
@@ -1983,7 +1983,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_21000.svg" width="160" alt="het_21000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_21000.svg" width="160" alt="het_21000">
     </td>
     <td>
       <a name="het_21000"></a>
@@ -1994,7 +1994,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_30000.svg" width="160" alt="het_30000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_30000.svg" width="160" alt="het_30000">
     </td>
     <td>
       <a name="het_30000"></a>
@@ -2005,7 +2005,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_c00000.svg" width="160" alt="het_c00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_c00000.svg" width="160" alt="het_c00000">
     </td>
     <td>
       <a name="het_c00000"></a>
@@ -2016,7 +2016,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e0100b.svg" width="160" alt="het_e0100b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e0100b.svg" width="160" alt="het_e0100b">
     </td>
     <td>
       <a name="het_e0100b"></a>
@@ -2027,7 +2027,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e010bb.svg" width="160" alt="het_e010bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e010bb.svg" width="160" alt="het_e010bb">
     </td>
     <td>
       <a name="het_e010bb"></a>
@@ -2038,7 +2038,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e010pp.svg" width="160" alt="het_e010pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e010pp.svg" width="160" alt="het_e010pp">
     </td>
     <td>
       <a name="het_e010pp"></a>
@@ -2049,7 +2049,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e011bb.svg" width="160" alt="het_e011bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e011bb.svg" width="160" alt="het_e011bb">
     </td>
     <td>
       <a name="het_e011bb"></a>
@@ -2060,7 +2060,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e02000.svg" width="160" alt="het_e02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e02000.svg" width="160" alt="het_e02000">
     </td>
     <td>
       <a name="het_e02000"></a>
@@ -2071,7 +2071,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e10000.svg" width="160" alt="het_e10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e10000.svg" width="160" alt="het_e10000">
     </td>
     <td>
       <a name="het_e10000"></a>
@@ -2082,7 +2082,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e1000b.svg" width="160" alt="het_e1000b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e1000b.svg" width="160" alt="het_e1000b">
     </td>
     <td>
       <a name="het_e1000b"></a>
@@ -2093,7 +2093,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e100bb.svg" width="160" alt="het_e100bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e100bb.svg" width="160" alt="het_e100bb">
     </td>
     <td>
       <a name="het_e100bb"></a>
@@ -2104,7 +2104,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e10100.svg" width="160" alt="het_e10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e10100.svg" width="160" alt="het_e10100">
     </td>
     <td>
       <a name="het_e10100"></a>
@@ -2115,7 +2115,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e1010b.svg" width="160" alt="het_e1010b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e1010b.svg" width="160" alt="het_e1010b">
     </td>
     <td>
       <a name="het_e1010b"></a>
@@ -2126,7 +2126,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_e11000.svg" width="160" alt="het_e11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_e11000.svg" width="160" alt="het_e11000">
     </td>
     <td>
       <a name="het_e11000"></a>
@@ -2137,7 +2137,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_eb000b.svg" width="160" alt="het_eb000b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_eb000b.svg" width="160" alt="het_eb000b">
     </td>
     <td>
       <a name="het_eb000b"></a>
@@ -2148,7 +2148,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er00000.svg" width="160" alt="het_er00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er00000.svg" width="160" alt="het_er00000">
     </td>
     <td>
       <a name="het_er00000"></a>
@@ -2159,7 +2159,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er0000p.svg" width="160" alt="het_er0000p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er0000p.svg" width="160" alt="het_er0000p">
     </td>
     <td>
       <a name="het_er0000p"></a>
@@ -2170,7 +2170,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er000bb.svg" width="160" alt="het_er000bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er000bb.svg" width="160" alt="het_er000bb">
     </td>
     <td>
       <a name="het_er000bb"></a>
@@ -2181,7 +2181,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er000pp.svg" width="160" alt="het_er000pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er000pp.svg" width="160" alt="het_er000pp">
     </td>
     <td>
       <a name="het_er000pp"></a>
@@ -2192,7 +2192,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er10000.svg" width="160" alt="het_er10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er10000.svg" width="160" alt="het_er10000">
     </td>
     <td>
       <a name="het_er10000"></a>
@@ -2203,7 +2203,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er10100.svg" width="160" alt="het_er10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er10100.svg" width="160" alt="het_er10100">
     </td>
     <td>
       <a name="het_er10100"></a>
@@ -2214,7 +2214,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_er20000.svg" width="160" alt="het_er20000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_er20000.svg" width="160" alt="het_er20000">
     </td>
     <td>
       <a name="het_er20000"></a>
@@ -2225,7 +2225,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r00000.svg" width="160" alt="het_r00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r00000.svg" width="160" alt="het_r00000">
     </td>
     <td>
       <a name="het_r00000"></a>
@@ -2236,7 +2236,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r10000.svg" width="160" alt="het_r10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r10000.svg" width="160" alt="het_r10000">
     </td>
     <td>
       <a name="het_r10000"></a>
@@ -2247,7 +2247,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r10100.svg" width="160" alt="het_r10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r10100.svg" width="160" alt="het_r10100">
     </td>
     <td>
       <a name="het_r10100"></a>
@@ -2258,7 +2258,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r1010b.svg" width="160" alt="het_r1010b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r1010b.svg" width="160" alt="het_r1010b">
     </td>
     <td>
       <a name="het_r1010b"></a>
@@ -2269,7 +2269,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r101bb.svg" width="160" alt="het_r101bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r101bb.svg" width="160" alt="het_r101bb">
     </td>
     <td>
       <a name="het_r101bb"></a>
@@ -2280,7 +2280,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_r101pp.svg" width="160" alt="het_r101pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_r101pp.svg" width="160" alt="het_r101pp">
     </td>
     <td>
       <a name="het_r101pp"></a>
@@ -2291,7 +2291,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_rb020b.svg" width="160" alt="het_rb020b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_rb020b.svg" width="160" alt="het_rb020b">
     </td>
     <td>
       <a name="het_rb020b"></a>
@@ -2302,7 +2302,7 @@ Het has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/het_s00000.svg" width="160" alt="het_s00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/het_s00000.svg" width="160" alt="het_s00000">
     </td>
     <td>
       <a name="het_s00000"></a>
@@ -2326,7 +2326,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_000010.svg" width="160" alt="kaf_000010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_000010.svg" width="160" alt="kaf_000010">
     </td>
     <td>
       <a name="kaf_000010"></a>
@@ -2337,7 +2337,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_0000b0.svg" width="160" alt="kaf_0000b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_0000b0.svg" width="160" alt="kaf_0000b0">
     </td>
     <td>
       <a name="kaf_0000b0"></a>
@@ -2348,7 +2348,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_002000.svg" width="160" alt="kaf_002000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_002000.svg" width="160" alt="kaf_002000">
     </td>
     <td>
       <a name="kaf_002000"></a>
@@ -2359,7 +2359,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_010000.svg" width="160" alt="kaf_010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_010000.svg" width="160" alt="kaf_010000">
     </td>
     <td>
       <a name="kaf_010000"></a>
@@ -2370,7 +2370,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_011000.svg" width="160" alt="kaf_011000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_011000.svg" width="160" alt="kaf_011000">
     </td>
     <td>
       <a name="kaf_011000"></a>
@@ -2381,7 +2381,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_011010.svg" width="160" alt="kaf_011010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_011010.svg" width="160" alt="kaf_011010">
     </td>
     <td>
       <a name="kaf_011010"></a>
@@ -2392,7 +2392,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_020000.svg" width="160" alt="kaf_020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_020000.svg" width="160" alt="kaf_020000">
     </td>
     <td>
       <a name="kaf_020000"></a>
@@ -2403,7 +2403,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_030000.svg" width="160" alt="kaf_030000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_030000.svg" width="160" alt="kaf_030000">
     </td>
     <td>
       <a name="kaf_030000"></a>
@@ -2414,7 +2414,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_100000.svg" width="160" alt="kaf_100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_100000.svg" width="160" alt="kaf_100000">
     </td>
     <td>
       <a name="kaf_100000"></a>
@@ -2425,7 +2425,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101000.svg" width="160" alt="kaf_101000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_101000.svg" width="160" alt="kaf_101000">
     </td>
     <td>
       <a name="kaf_101000"></a>
@@ -2436,7 +2436,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101001.svg" width="160" alt="kaf_101001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_101001.svg" width="160" alt="kaf_101001">
     </td>
     <td>
       <a name="kaf_101001"></a>
@@ -2447,7 +2447,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101010.svg" width="160" alt="kaf_101010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_101010.svg" width="160" alt="kaf_101010">
     </td>
     <td>
       <a name="kaf_101010"></a>
@@ -2458,7 +2458,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_1010b0.svg" width="160" alt="kaf_1010b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_1010b0.svg" width="160" alt="kaf_1010b0">
     </td>
     <td>
       <a name="kaf_1010b0"></a>
@@ -2469,7 +2469,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_101b00.svg" width="160" alt="kaf_101b00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_101b00.svg" width="160" alt="kaf_101b00">
     </td>
     <td>
       <a name="kaf_101b00"></a>
@@ -2480,7 +2480,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_110000.svg" width="160" alt="kaf_110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_110000.svg" width="160" alt="kaf_110000">
     </td>
     <td>
       <a name="kaf_110000"></a>
@@ -2491,7 +2491,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_110001.svg" width="160" alt="kaf_110001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_110001.svg" width="160" alt="kaf_110001">
     </td>
     <td>
       <a name="kaf_110001"></a>
@@ -2502,7 +2502,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_111000.svg" width="160" alt="kaf_111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_111000.svg" width="160" alt="kaf_111000">
     </td>
     <td>
       <a name="kaf_111000"></a>
@@ -2513,7 +2513,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_11100b.svg" width="160" alt="kaf_11100b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_11100b.svg" width="160" alt="kaf_11100b">
     </td>
     <td>
       <a name="kaf_11100b"></a>
@@ -2524,7 +2524,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_200001.svg" width="160" alt="kaf_200001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_200001.svg" width="160" alt="kaf_200001">
     </td>
     <td>
       <a name="kaf_200001"></a>
@@ -2535,7 +2535,7 @@ Kaf has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kaf_b00000.svg" width="160" alt="kaf_b00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kaf_b00000.svg" width="160" alt="kaf_b00000">
     </td>
     <td>
       <a name="kaf_b00000"></a>
@@ -2560,7 +2560,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_0000p.svg" width="160" alt="kafsofit_0000p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_0000p.svg" width="160" alt="kafsofit_0000p">
     </td>
     <td>
       <a name="kafsofit_0000p"></a>
@@ -2571,7 +2571,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_00100.svg" width="160" alt="kafsofit_00100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_00100.svg" width="160" alt="kafsofit_00100">
     </td>
     <td>
       <a name="kafsofit_00100"></a>
@@ -2582,7 +2582,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_00200.svg" width="160" alt="kafsofit_00200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_00200.svg" width="160" alt="kafsofit_00200">
     </td>
     <td>
       <a name="kafsofit_00200"></a>
@@ -2593,7 +2593,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_01000.svg" width="160" alt="kafsofit_01000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_01000.svg" width="160" alt="kafsofit_01000">
     </td>
     <td>
       <a name="kafsofit_01000"></a>
@@ -2604,7 +2604,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_010p0.svg" width="160" alt="kafsofit_010p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_010p0.svg" width="160" alt="kafsofit_010p0">
     </td>
     <td>
       <a name="kafsofit_010p0"></a>
@@ -2615,7 +2615,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_01100.svg" width="160" alt="kafsofit_01100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_01100.svg" width="160" alt="kafsofit_01100">
     </td>
     <td>
       <a name="kafsofit_01100"></a>
@@ -2626,7 +2626,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02000.svg" width="160" alt="kafsofit_02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_02000.svg" width="160" alt="kafsofit_02000">
     </td>
     <td>
       <a name="kafsofit_02000"></a>
@@ -2637,7 +2637,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02001.svg" width="160" alt="kafsofit_02001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_02001.svg" width="160" alt="kafsofit_02001">
     </td>
     <td>
       <a name="kafsofit_02001"></a>
@@ -2648,7 +2648,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_0200p.svg" width="160" alt="kafsofit_0200p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_0200p.svg" width="160" alt="kafsofit_0200p">
     </td>
     <td>
       <a name="kafsofit_0200p"></a>
@@ -2659,7 +2659,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_020p0.svg" width="160" alt="kafsofit_020p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_020p0.svg" width="160" alt="kafsofit_020p0">
     </td>
     <td>
       <a name="kafsofit_020p0"></a>
@@ -2670,7 +2670,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_02100.svg" width="160" alt="kafsofit_02100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_02100.svg" width="160" alt="kafsofit_02100">
     </td>
     <td>
       <a name="kafsofit_02100"></a>
@@ -2681,7 +2681,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10000.svg" width="160" alt="kafsofit_10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_10000.svg" width="160" alt="kafsofit_10000">
     </td>
     <td>
       <a name="kafsofit_10000"></a>
@@ -2692,7 +2692,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10100.svg" width="160" alt="kafsofit_10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_10100.svg" width="160" alt="kafsofit_10100">
     </td>
     <td>
       <a name="kafsofit_10100"></a>
@@ -2703,7 +2703,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10101.svg" width="160" alt="kafsofit_10101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_10101.svg" width="160" alt="kafsofit_10101">
     </td>
     <td>
       <a name="kafsofit_10101"></a>
@@ -2714,7 +2714,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_10200.svg" width="160" alt="kafsofit_10200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_10200.svg" width="160" alt="kafsofit_10200">
     </td>
     <td>
       <a name="kafsofit_10200"></a>
@@ -2725,7 +2725,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11000.svg" width="160" alt="kafsofit_11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_11000.svg" width="160" alt="kafsofit_11000">
     </td>
     <td>
       <a name="kafsofit_11000"></a>
@@ -2736,7 +2736,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11100.svg" width="160" alt="kafsofit_11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_11100.svg" width="160" alt="kafsofit_11100">
     </td>
     <td>
       <a name="kafsofit_11100"></a>
@@ -2747,7 +2747,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_11101.svg" width="160" alt="kafsofit_11101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_11101.svg" width="160" alt="kafsofit_11101">
     </td>
     <td>
       <a name="kafsofit_11101"></a>
@@ -2758,7 +2758,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_1110p.svg" width="160" alt="kafsofit_1110p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_1110p.svg" width="160" alt="kafsofit_1110p">
     </td>
     <td>
       <a name="kafsofit_1110p"></a>
@@ -2769,7 +2769,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_12001.svg" width="160" alt="kafsofit_12001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_12001.svg" width="160" alt="kafsofit_12001">
     </td>
     <td>
       <a name="kafsofit_12001"></a>
@@ -2780,7 +2780,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_120p1.svg" width="160" alt="kafsofit_120p1">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_120p1.svg" width="160" alt="kafsofit_120p1">
     </td>
     <td>
       <a name="kafsofit_120p1"></a>
@@ -2791,7 +2791,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_12100.svg" width="160" alt="kafsofit_12100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_12100.svg" width="160" alt="kafsofit_12100">
     </td>
     <td>
       <a name="kafsofit_12100"></a>
@@ -2802,7 +2802,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_130z1.svg" width="160" alt="kafsofit_130z1">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_130z1.svg" width="160" alt="kafsofit_130z1">
     </td>
     <td>
       <a name="kafsofit_130z1"></a>
@@ -2813,7 +2813,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_20200.svg" width="160" alt="kafsofit_20200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_20200.svg" width="160" alt="kafsofit_20200">
     </td>
     <td>
       <a name="kafsofit_20200"></a>
@@ -2824,7 +2824,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_21001.svg" width="160" alt="kafsofit_21001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_21001.svg" width="160" alt="kafsofit_21001">
     </td>
     <td>
       <a name="kafsofit_21001"></a>
@@ -2835,7 +2835,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_30001.svg" width="160" alt="kafsofit_30001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_30001.svg" width="160" alt="kafsofit_30001">
     </td>
     <td>
       <a name="kafsofit_30001"></a>
@@ -2846,7 +2846,7 @@ Kaf sofit has five possible positions for decorations. The tagin are counted per
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/kafsofit_e0200f.svg" width="160" alt="kafsofit_e0200f">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/kafsofit_e0200f.svg" width="160" alt="kafsofit_e0200f">
     </td>
     <td>
       <a name="kafsofit_e0200f"></a>
@@ -2870,7 +2870,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_002.svg" width="160" alt="lamed_002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_002.svg" width="160" alt="lamed_002">
     </td>
     <td>
       <a name="lamed_002"></a>
@@ -2881,7 +2881,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_00p.svg" width="160" alt="lamed_00p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_00p.svg" width="160" alt="lamed_00p">
     </td>
     <td>
       <a name="lamed_00p"></a>
@@ -2892,7 +2892,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_010.svg" width="160" alt="lamed_010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_010.svg" width="160" alt="lamed_010">
     </td>
     <td>
       <a name="lamed_010"></a>
@@ -2903,7 +2903,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_0f0.svg" width="160" alt="lamed_0f0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_0f0.svg" width="160" alt="lamed_0f0">
     </td>
     <td>
       <a name="lamed_0f0"></a>
@@ -2914,7 +2914,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_1f0.svg" width="160" alt="lamed_1f0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_1f0.svg" width="160" alt="lamed_1f0">
     </td>
     <td>
       <a name="lamed_1f0"></a>
@@ -2925,7 +2925,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_2f0.svg" width="160" alt="lamed_2f0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_2f0.svg" width="160" alt="lamed_2f0">
     </td>
     <td>
       <a name="lamed_2f0"></a>
@@ -2936,7 +2936,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_b00.svg" width="160" alt="lamed_b00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_b00.svg" width="160" alt="lamed_b00">
     </td>
     <td>
       <a name="lamed_b00"></a>
@@ -2947,7 +2947,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_b02.svg" width="160" alt="lamed_b02">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_b02.svg" width="160" alt="lamed_b02">
     </td>
     <td>
       <a name="lamed_b02"></a>
@@ -2958,7 +2958,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_f00.svg" width="160" alt="lamed_f00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_f00.svg" width="160" alt="lamed_f00">
     </td>
     <td>
       <a name="lamed_f00"></a>
@@ -2969,7 +2969,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_f20.svg" width="160" alt="lamed_f20">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_f20.svg" width="160" alt="lamed_f20">
     </td>
     <td>
       <a name="lamed_f20"></a>
@@ -2980,7 +2980,7 @@ Lamed has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/lamed_p00.svg" width="160" alt="lamed_p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/lamed_p00.svg" width="160" alt="lamed_p00">
     </td>
     <td>
       <a name="lamed_p00"></a>
@@ -3005,7 +3005,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_000p0.svg" width="160" alt="mem_000p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_000p0.svg" width="160" alt="mem_000p0">
     </td>
     <td>
       <a name="mem_000p0"></a>
@@ -3016,7 +3016,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_00200.svg" width="160" alt="mem_00200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_00200.svg" width="160" alt="mem_00200">
     </td>
     <td>
       <a name="mem_00200"></a>
@@ -3027,7 +3027,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01000.svg" width="160" alt="mem_01000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_01000.svg" width="160" alt="mem_01000">
     </td>
     <td>
       <a name="mem_01000"></a>
@@ -3038,7 +3038,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01100.svg" width="160" alt="mem_01100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_01100.svg" width="160" alt="mem_01100">
     </td>
     <td>
       <a name="mem_01100"></a>
@@ -3049,7 +3049,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_01200.svg" width="160" alt="mem_01200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_01200.svg" width="160" alt="mem_01200">
     </td>
     <td>
       <a name="mem_01200"></a>
@@ -3060,7 +3060,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_02000.svg" width="160" alt="mem_02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_02000.svg" width="160" alt="mem_02000">
     </td>
     <td>
       <a name="mem_02000"></a>
@@ -3071,7 +3071,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_02100.svg" width="160" alt="mem_02100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_02100.svg" width="160" alt="mem_02100">
     </td>
     <td>
       <a name="mem_02100"></a>
@@ -3082,7 +3082,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_03000.svg" width="160" alt="mem_03000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_03000.svg" width="160" alt="mem_03000">
     </td>
     <td>
       <a name="mem_03000"></a>
@@ -3093,7 +3093,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10000.svg" width="160" alt="mem_10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_10000.svg" width="160" alt="mem_10000">
     </td>
     <td>
       <a name="mem_10000"></a>
@@ -3104,7 +3104,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10100.svg" width="160" alt="mem_10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_10100.svg" width="160" alt="mem_10100">
     </td>
     <td>
       <a name="mem_10100"></a>
@@ -3115,7 +3115,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_10101.svg" width="160" alt="mem_10101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_10101.svg" width="160" alt="mem_10101">
     </td>
     <td>
       <a name="mem_10101"></a>
@@ -3126,7 +3126,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11000.svg" width="160" alt="mem_11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_11000.svg" width="160" alt="mem_11000">
     </td>
     <td>
       <a name="mem_11000"></a>
@@ -3137,7 +3137,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11001.svg" width="160" alt="mem_11001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_11001.svg" width="160" alt="mem_11001">
     </td>
     <td>
       <a name="mem_11001"></a>
@@ -3148,7 +3148,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_11100.svg" width="160" alt="mem_11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_11100.svg" width="160" alt="mem_11100">
     </td>
     <td>
       <a name="mem_11100"></a>
@@ -3159,7 +3159,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_12100.svg" width="160" alt="mem_12100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_12100.svg" width="160" alt="mem_12100">
     </td>
     <td>
       <a name="mem_12100"></a>
@@ -3170,7 +3170,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_20100.svg" width="160" alt="mem_20100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_20100.svg" width="160" alt="mem_20100">
     </td>
     <td>
       <a name="mem_20100"></a>
@@ -3181,7 +3181,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_20200.svg" width="160" alt="mem_20200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_20200.svg" width="160" alt="mem_20200">
     </td>
     <td>
       <a name="mem_20200"></a>
@@ -3192,7 +3192,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_31000.svg" width="160" alt="mem_31000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_31000.svg" width="160" alt="mem_31000">
     </td>
     <td>
       <a name="mem_31000"></a>
@@ -3203,7 +3203,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_b0000.svg" width="160" alt="mem_b0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_b0000.svg" width="160" alt="mem_b0000">
     </td>
     <td>
       <a name="mem_b0000"></a>
@@ -3214,7 +3214,7 @@ Mem has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/mem_e00000.svg" width="160" alt="mem_e00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/mem_e00000.svg" width="160" alt="mem_e00000">
     </td>
     <td>
       <a name="mem_e00000"></a>
@@ -3237,7 +3237,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_000001.svg" width="160" alt="memsofit_000001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_000001.svg" width="160" alt="memsofit_000001">
     </td>
     <td>
       <a name="memsofit_000001"></a>
@@ -3248,7 +3248,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_002000.svg" width="160" alt="memsofit_002000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_002000.svg" width="160" alt="memsofit_002000">
     </td>
     <td>
       <a name="memsofit_002000"></a>
@@ -3259,7 +3259,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_003000.svg" width="160" alt="memsofit_003000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_003000.svg" width="160" alt="memsofit_003000">
     </td>
     <td>
       <a name="memsofit_003000"></a>
@@ -3270,7 +3270,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_011000.svg" width="160" alt="memsofit_011000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_011000.svg" width="160" alt="memsofit_011000">
     </td>
     <td>
       <a name="memsofit_011000"></a>
@@ -3281,7 +3281,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_011001.svg" width="160" alt="memsofit_011001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_011001.svg" width="160" alt="memsofit_011001">
     </td>
     <td>
       <a name="memsofit_011001"></a>
@@ -3292,7 +3292,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_020000.svg" width="160" alt="memsofit_020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_020000.svg" width="160" alt="memsofit_020000">
     </td>
     <td>
       <a name="memsofit_020000"></a>
@@ -3303,7 +3303,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_100000.svg" width="160" alt="memsofit_100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_100000.svg" width="160" alt="memsofit_100000">
     </td>
     <td>
       <a name="memsofit_100000"></a>
@@ -3314,7 +3314,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_100001.svg" width="160" alt="memsofit_100001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_100001.svg" width="160" alt="memsofit_100001">
     </td>
     <td>
       <a name="memsofit_100001"></a>
@@ -3325,7 +3325,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101000.svg" width="160" alt="memsofit_101000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101000.svg" width="160" alt="memsofit_101000">
     </td>
     <td>
       <a name="memsofit_101000"></a>
@@ -3336,7 +3336,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101001.svg" width="160" alt="memsofit_101001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101001.svg" width="160" alt="memsofit_101001">
     </td>
     <td>
       <a name="memsofit_101001"></a>
@@ -3347,7 +3347,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101010.svg" width="160" alt="memsofit_101010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101010.svg" width="160" alt="memsofit_101010">
     </td>
     <td>
       <a name="memsofit_101010"></a>
@@ -3358,7 +3358,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101011.svg" width="160" alt="memsofit_101011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101011.svg" width="160" alt="memsofit_101011">
     </td>
     <td>
       <a name="memsofit_101011"></a>
@@ -3369,7 +3369,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101100.svg" width="160" alt="memsofit_101100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101100.svg" width="160" alt="memsofit_101100">
     </td>
     <td>
       <a name="memsofit_101100"></a>
@@ -3380,7 +3380,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_101110.svg" width="160" alt="memsofit_101110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_101110.svg" width="160" alt="memsofit_101110">
     </td>
     <td>
       <a name="memsofit_101110"></a>
@@ -3391,7 +3391,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102000.svg" width="160" alt="memsofit_102000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_102000.svg" width="160" alt="memsofit_102000">
     </td>
     <td>
       <a name="memsofit_102000"></a>
@@ -3402,7 +3402,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102001.svg" width="160" alt="memsofit_102001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_102001.svg" width="160" alt="memsofit_102001">
     </td>
     <td>
       <a name="memsofit_102001"></a>
@@ -3413,7 +3413,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_102110.svg" width="160" alt="memsofit_102110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_102110.svg" width="160" alt="memsofit_102110">
     </td>
     <td>
       <a name="memsofit_102110"></a>
@@ -3424,7 +3424,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_110000.svg" width="160" alt="memsofit_110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_110000.svg" width="160" alt="memsofit_110000">
     </td>
     <td>
       <a name="memsofit_110000"></a>
@@ -3435,7 +3435,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_110001.svg" width="160" alt="memsofit_110001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_110001.svg" width="160" alt="memsofit_110001">
     </td>
     <td>
       <a name="memsofit_110001"></a>
@@ -3446,7 +3446,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_111000.svg" width="160" alt="memsofit_111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_111000.svg" width="160" alt="memsofit_111000">
     </td>
     <td>
       <a name="memsofit_111000"></a>
@@ -3457,7 +3457,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_112000.svg" width="160" alt="memsofit_112000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_112000.svg" width="160" alt="memsofit_112000">
     </td>
     <td>
       <a name="memsofit_112000"></a>
@@ -3468,7 +3468,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_120001.svg" width="160" alt="memsofit_120001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_120001.svg" width="160" alt="memsofit_120001">
     </td>
     <td>
       <a name="memsofit_120001"></a>
@@ -3479,7 +3479,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_121111.svg" width="160" alt="memsofit_121111">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_121111.svg" width="160" alt="memsofit_121111">
     </td>
     <td>
       <a name="memsofit_121111"></a>
@@ -3490,7 +3490,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_200000.svg" width="160" alt="memsofit_200000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_200000.svg" width="160" alt="memsofit_200000">
     </td>
     <td>
       <a name="memsofit_200000"></a>
@@ -3501,7 +3501,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_200001.svg" width="160" alt="memsofit_200001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_200001.svg" width="160" alt="memsofit_200001">
     </td>
     <td>
       <a name="memsofit_200001"></a>
@@ -3512,7 +3512,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_210000.svg" width="160" alt="memsofit_210000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_210000.svg" width="160" alt="memsofit_210000">
     </td>
     <td>
       <a name="memsofit_210000"></a>
@@ -3523,7 +3523,7 @@ Mem sofit has six possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/memsofit_300000.svg" width="160" alt="memsofit_300000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/memsofit_300000.svg" width="160" alt="memsofit_300000">
     </td>
     <td>
       <a name="memsofit_300000"></a>
@@ -3548,7 +3548,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_00b.svg" width="160" alt="nun_00b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_00b.svg" width="160" alt="nun_00b">
     </td>
     <td>
       <a name="nun_00b"></a>
@@ -3559,7 +3559,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_00p.svg" width="160" alt="nun_00p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_00p.svg" width="160" alt="nun_00p">
     </td>
     <td>
       <a name="nun_00p"></a>
@@ -3570,7 +3570,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_10b.svg" width="160" alt="nun_10b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_10b.svg" width="160" alt="nun_10b">
     </td>
     <td>
       <a name="nun_10b"></a>
@@ -3581,7 +3581,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_10p.svg" width="160" alt="nun_10p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_10p.svg" width="160" alt="nun_10p">
     </td>
     <td>
       <a name="nun_10p"></a>
@@ -3592,7 +3592,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_200.svg" width="160" alt="nun_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_200.svg" width="160" alt="nun_200">
     </td>
     <td>
       <a name="nun_200"></a>
@@ -3603,7 +3603,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30b.svg" width="160" alt="nun_30b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_30b.svg" width="160" alt="nun_30b">
     </td>
     <td>
       <a name="nun_30b"></a>
@@ -3614,7 +3614,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30f.svg" width="160" alt="nun_30f">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_30f.svg" width="160" alt="nun_30f">
     </td>
     <td>
       <a name="nun_30f"></a>
@@ -3625,7 +3625,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_30p.svg" width="160" alt="nun_30p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_30p.svg" width="160" alt="nun_30p">
     </td>
     <td>
       <a name="nun_30p"></a>
@@ -3636,7 +3636,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3b0.svg" width="160" alt="nun_3b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_3b0.svg" width="160" alt="nun_3b0">
     </td>
     <td>
       <a name="nun_3b0"></a>
@@ -3647,7 +3647,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3p0.svg" width="160" alt="nun_3p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_3p0.svg" width="160" alt="nun_3p0">
     </td>
     <td>
       <a name="nun_3p0"></a>
@@ -3658,7 +3658,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_3pp.svg" width="160" alt="nun_3pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_3pp.svg" width="160" alt="nun_3pp">
     </td>
     <td>
       <a name="nun_3pp"></a>
@@ -3669,7 +3669,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_e300.svg" width="160" alt="nun_e300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_e300.svg" width="160" alt="nun_e300">
     </td>
     <td>
       <a name="nun_e300"></a>
@@ -3680,7 +3680,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_i000.svg" width="160" alt="nun_i000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_i000.svg" width="160" alt="nun_i000">
     </td>
     <td>
       <a name="nun_i000"></a>
@@ -3691,7 +3691,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_i300.svg" width="160" alt="nun_i300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_i300.svg" width="160" alt="nun_i300">
     </td>
     <td>
       <a name="nun_i300"></a>
@@ -3702,7 +3702,7 @@ Nun has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nun_p0p.svg" width="160" alt="nun_p0p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nun_p0p.svg" width="160" alt="nun_p0p">
     </td>
     <td>
       <a name="nun_p0p"></a>
@@ -3727,7 +3727,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_00p.svg" width="160" alt="nunsofit_00p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_00p.svg" width="160" alt="nunsofit_00p">
     </td>
     <td>
       <a name="nunsofit_00p"></a>
@@ -3738,7 +3738,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_0b0.svg" width="160" alt="nunsofit_0b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_0b0.svg" width="160" alt="nunsofit_0b0">
     </td>
     <td>
       <a name="nunsofit_0b0"></a>
@@ -3749,7 +3749,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_0p0.svg" width="160" alt="nunsofit_0p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_0p0.svg" width="160" alt="nunsofit_0p0">
     </td>
     <td>
       <a name="nunsofit_0p0"></a>
@@ -3760,7 +3760,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_100.svg" width="160" alt="nunsofit_100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_100.svg" width="160" alt="nunsofit_100">
     </td>
     <td>
       <a name="nunsofit_100"></a>
@@ -3771,7 +3771,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_10p.svg" width="160" alt="nunsofit_10p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_10p.svg" width="160" alt="nunsofit_10p">
     </td>
     <td>
       <a name="nunsofit_10p"></a>
@@ -3782,7 +3782,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_110.svg" width="160" alt="nunsofit_110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_110.svg" width="160" alt="nunsofit_110">
     </td>
     <td>
       <a name="nunsofit_110"></a>
@@ -3793,7 +3793,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_1p0.svg" width="160" alt="nunsofit_1p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_1p0.svg" width="160" alt="nunsofit_1p0">
     </td>
     <td>
       <a name="nunsofit_1p0"></a>
@@ -3804,7 +3804,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_200.svg" width="160" alt="nunsofit_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_200.svg" width="160" alt="nunsofit_200">
     </td>
     <td>
       <a name="nunsofit_200"></a>
@@ -3815,7 +3815,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_3b0.svg" width="160" alt="nunsofit_3b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_3b0.svg" width="160" alt="nunsofit_3b0">
     </td>
     <td>
       <a name="nunsofit_3b0"></a>
@@ -3826,7 +3826,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_3bp.svg" width="160" alt="nunsofit_3bp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_3bp.svg" width="160" alt="nunsofit_3bp">
     </td>
     <td>
       <a name="nunsofit_3bp"></a>
@@ -3837,7 +3837,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_4b0.svg" width="160" alt="nunsofit_4b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_4b0.svg" width="160" alt="nunsofit_4b0">
     </td>
     <td>
       <a name="nunsofit_4b0"></a>
@@ -3848,7 +3848,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_4p0.svg" width="160" alt="nunsofit_4p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_4p0.svg" width="160" alt="nunsofit_4p0">
     </td>
     <td>
       <a name="nunsofit_4p0"></a>
@@ -3859,7 +3859,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_w300.svg" width="160" alt="nunsofit_w300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_w300.svg" width="160" alt="nunsofit_w300">
     </td>
     <td>
       <a name="nunsofit_w300"></a>
@@ -3870,7 +3870,7 @@ Nun sofit has three possible positions for decorations. The tagin are counted pe
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/nunsofit_we300.svg" width="160" alt="nunsofit_we300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/nunsofit_we300.svg" width="160" alt="nunsofit_we300">
     </td>
     <td>
       <a name="nunsofit_we300"></a>
@@ -3895,7 +3895,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_0000002.svg" width="160" alt="pe_0000002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_0000002.svg" width="160" alt="pe_0000002">
     </td>
     <td>
       <a name="pe_0000002"></a>
@@ -3906,7 +3906,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_0000010.svg" width="160" alt="pe_0000010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_0000010.svg" width="160" alt="pe_0000010">
     </td>
     <td>
       <a name="pe_0000010"></a>
@@ -3917,7 +3917,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_00b0000.svg" width="160" alt="pe_00b0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_00b0000.svg" width="160" alt="pe_00b0000">
     </td>
     <td>
       <a name="pe_00b0000"></a>
@@ -3928,7 +3928,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_0100000.svg" width="160" alt="pe_0100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_0100000.svg" width="160" alt="pe_0100000">
     </td>
     <td>
       <a name="pe_0100000"></a>
@@ -3939,7 +3939,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_0110000.svg" width="160" alt="pe_0110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_0110000.svg" width="160" alt="pe_0110000">
     </td>
     <td>
       <a name="pe_0110000"></a>
@@ -3950,7 +3950,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_0200000.svg" width="160" alt="pe_0200000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_0200000.svg" width="160" alt="pe_0200000">
     </td>
     <td>
       <a name="pe_0200000"></a>
@@ -3961,7 +3961,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1000000.svg" width="160" alt="pe_1000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1000000.svg" width="160" alt="pe_1000000">
     </td>
     <td>
       <a name="pe_1000000"></a>
@@ -3972,7 +3972,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1000001.svg" width="160" alt="pe_1000001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1000001.svg" width="160" alt="pe_1000001">
     </td>
     <td>
       <a name="pe_1000001"></a>
@@ -3983,7 +3983,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1001000.svg" width="160" alt="pe_1001000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1001000.svg" width="160" alt="pe_1001000">
     </td>
     <td>
       <a name="pe_1001000"></a>
@@ -3994,7 +3994,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010000.svg" width="160" alt="pe_1010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010000.svg" width="160" alt="pe_1010000">
     </td>
     <td>
       <a name="pe_1010000"></a>
@@ -4005,7 +4005,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010001.svg" width="160" alt="pe_1010001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010001.svg" width="160" alt="pe_1010001">
     </td>
     <td>
       <a name="pe_1010001"></a>
@@ -4016,7 +4016,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010002.svg" width="160" alt="pe_1010002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010002.svg" width="160" alt="pe_1010002">
     </td>
     <td>
       <a name="pe_1010002"></a>
@@ -4027,7 +4027,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010010.svg" width="160" alt="pe_1010010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010010.svg" width="160" alt="pe_1010010">
     </td>
     <td>
       <a name="pe_1010010"></a>
@@ -4038,7 +4038,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010011.svg" width="160" alt="pe_1010011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010011.svg" width="160" alt="pe_1010011">
     </td>
     <td>
       <a name="pe_1010011"></a>
@@ -4049,7 +4049,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010021.svg" width="160" alt="pe_1010021">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010021.svg" width="160" alt="pe_1010021">
     </td>
     <td>
       <a name="pe_1010021"></a>
@@ -4060,7 +4060,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1010022.svg" width="160" alt="pe_1010022">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1010022.svg" width="160" alt="pe_1010022">
     </td>
     <td>
       <a name="pe_1010022"></a>
@@ -4071,7 +4071,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1011000.svg" width="160" alt="pe_1011000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1011000.svg" width="160" alt="pe_1011000">
     </td>
     <td>
       <a name="pe_1011000"></a>
@@ -4082,7 +4082,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1011002.svg" width="160" alt="pe_1011002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1011002.svg" width="160" alt="pe_1011002">
     </td>
     <td>
       <a name="pe_1011002"></a>
@@ -4093,7 +4093,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1011010.svg" width="160" alt="pe_1011010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1011010.svg" width="160" alt="pe_1011010">
     </td>
     <td>
       <a name="pe_1011010"></a>
@@ -4104,7 +4104,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1011011.svg" width="160" alt="pe_1011011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1011011.svg" width="160" alt="pe_1011011">
     </td>
     <td>
       <a name="pe_1011011"></a>
@@ -4115,7 +4115,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_101b000.svg" width="160" alt="pe_101b000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_101b000.svg" width="160" alt="pe_101b000">
     </td>
     <td>
       <a name="pe_101b000"></a>
@@ -4126,7 +4126,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1020000.svg" width="160" alt="pe_1020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1020000.svg" width="160" alt="pe_1020000">
     </td>
     <td>
       <a name="pe_1020000"></a>
@@ -4137,7 +4137,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1100000.svg" width="160" alt="pe_1100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1100000.svg" width="160" alt="pe_1100000">
     </td>
     <td>
       <a name="pe_1100000"></a>
@@ -4148,7 +4148,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1100001.svg" width="160" alt="pe_1100001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1100001.svg" width="160" alt="pe_1100001">
     </td>
     <td>
       <a name="pe_1100001"></a>
@@ -4159,7 +4159,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1110000.svg" width="160" alt="pe_1110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1110000.svg" width="160" alt="pe_1110000">
     </td>
     <td>
       <a name="pe_1110000"></a>
@@ -4170,7 +4170,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1111000.svg" width="160" alt="pe_1111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1111000.svg" width="160" alt="pe_1111000">
     </td>
     <td>
       <a name="pe_1111000"></a>
@@ -4181,7 +4181,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1111010.svg" width="160" alt="pe_1111010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1111010.svg" width="160" alt="pe_1111010">
     </td>
     <td>
       <a name="pe_1111010"></a>
@@ -4192,7 +4192,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1111100.svg" width="160" alt="pe_1111100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1111100.svg" width="160" alt="pe_1111100">
     </td>
     <td>
       <a name="pe_1111100"></a>
@@ -4203,7 +4203,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1200002.svg" width="160" alt="pe_1200002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1200002.svg" width="160" alt="pe_1200002">
     </td>
     <td>
       <a name="pe_1200002"></a>
@@ -4214,7 +4214,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_1210000.svg" width="160" alt="pe_1210000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_1210000.svg" width="160" alt="pe_1210000">
     </td>
     <td>
       <a name="pe_1210000"></a>
@@ -4225,7 +4225,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_2000000.svg" width="160" alt="pe_2000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_2000000.svg" width="160" alt="pe_2000000">
     </td>
     <td>
       <a name="pe_2000000"></a>
@@ -4236,7 +4236,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_2100000.svg" width="160" alt="pe_2100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_2100000.svg" width="160" alt="pe_2100000">
     </td>
     <td>
       <a name="pe_2100000"></a>
@@ -4247,7 +4247,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_2100001.svg" width="160" alt="pe_2100001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_2100001.svg" width="160" alt="pe_2100001">
     </td>
     <td>
       <a name="pe_2100001"></a>
@@ -4258,7 +4258,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_3000000.svg" width="160" alt="pe_3000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_3000000.svg" width="160" alt="pe_3000000">
     </td>
     <td>
       <a name="pe_3000000"></a>
@@ -4269,7 +4269,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w0000000.svg" width="160" alt="pe_w0000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w0000000.svg" width="160" alt="pe_w0000000">
     </td>
     <td>
       <a name="pe_w0000000"></a>
@@ -4280,7 +4280,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w0020000.svg" width="160" alt="pe_w0020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w0020000.svg" width="160" alt="pe_w0020000">
     </td>
     <td>
       <a name="pe_w0020000"></a>
@@ -4291,7 +4291,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w0100000.svg" width="160" alt="pe_w0100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w0100000.svg" width="160" alt="pe_w0100000">
     </td>
     <td>
       <a name="pe_w0100000"></a>
@@ -4302,7 +4302,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w01100b0.svg" width="160" alt="pe_w01100b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w01100b0.svg" width="160" alt="pe_w01100b0">
     </td>
     <td>
       <a name="pe_w01100b0"></a>
@@ -4313,7 +4313,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w0111000.svg" width="160" alt="pe_w0111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w0111000.svg" width="160" alt="pe_w0111000">
     </td>
     <td>
       <a name="pe_w0111000"></a>
@@ -4324,7 +4324,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1000000.svg" width="160" alt="pe_w1000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1000000.svg" width="160" alt="pe_w1000000">
     </td>
     <td>
       <a name="pe_w1000000"></a>
@@ -4335,7 +4335,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1000001.svg" width="160" alt="pe_w1000001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1000001.svg" width="160" alt="pe_w1000001">
     </td>
     <td>
       <a name="pe_w1000001"></a>
@@ -4346,7 +4346,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w10000p0.svg" width="160" alt="pe_w10000p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w10000p0.svg" width="160" alt="pe_w10000p0">
     </td>
     <td>
       <a name="pe_w10000p0"></a>
@@ -4357,7 +4357,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1010000.svg" width="160" alt="pe_w1010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1010000.svg" width="160" alt="pe_w1010000">
     </td>
     <td>
       <a name="pe_w1010000"></a>
@@ -4368,7 +4368,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1011010.svg" width="160" alt="pe_w1011010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1011010.svg" width="160" alt="pe_w1011010">
     </td>
     <td>
       <a name="pe_w1011010"></a>
@@ -4379,7 +4379,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1100000.svg" width="160" alt="pe_w1100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1100000.svg" width="160" alt="pe_w1100000">
     </td>
     <td>
       <a name="pe_w1100000"></a>
@@ -4390,7 +4390,7 @@ Pe has seven possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pe_w1110000.svg" width="160" alt="pe_w1110000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pe_w1110000.svg" width="160" alt="pe_w1110000">
     </td>
     <td>
       <a name="pe_w1110000"></a>
@@ -4415,7 +4415,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_00001.svg" width="160" alt="pesofit_00001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_00001.svg" width="160" alt="pesofit_00001">
     </td>
     <td>
       <a name="pesofit_00001"></a>
@@ -4426,7 +4426,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_00002.svg" width="160" alt="pesofit_00002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_00002.svg" width="160" alt="pesofit_00002">
     </td>
     <td>
       <a name="pesofit_00002"></a>
@@ -4437,7 +4437,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_01100.svg" width="160" alt="pesofit_01100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_01100.svg" width="160" alt="pesofit_01100">
     </td>
     <td>
       <a name="pesofit_01100"></a>
@@ -4448,7 +4448,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_01101.svg" width="160" alt="pesofit_01101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_01101.svg" width="160" alt="pesofit_01101">
     </td>
     <td>
       <a name="pesofit_01101"></a>
@@ -4459,7 +4459,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_01102.svg" width="160" alt="pesofit_01102">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_01102.svg" width="160" alt="pesofit_01102">
     </td>
     <td>
       <a name="pesofit_01102"></a>
@@ -4470,7 +4470,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_02001.svg" width="160" alt="pesofit_02001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_02001.svg" width="160" alt="pesofit_02001">
     </td>
     <td>
       <a name="pesofit_02001"></a>
@@ -4481,7 +4481,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10000.svg" width="160" alt="pesofit_10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10000.svg" width="160" alt="pesofit_10000">
     </td>
     <td>
       <a name="pesofit_10000"></a>
@@ -4492,7 +4492,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10002.svg" width="160" alt="pesofit_10002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10002.svg" width="160" alt="pesofit_10002">
     </td>
     <td>
       <a name="pesofit_10002"></a>
@@ -4503,7 +4503,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10021.svg" width="160" alt="pesofit_10021">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10021.svg" width="160" alt="pesofit_10021">
     </td>
     <td>
       <a name="pesofit_10021"></a>
@@ -4514,7 +4514,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_100p0.svg" width="160" alt="pesofit_100p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_100p0.svg" width="160" alt="pesofit_100p0">
     </td>
     <td>
       <a name="pesofit_100p0"></a>
@@ -4525,7 +4525,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10100.svg" width="160" alt="pesofit_10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10100.svg" width="160" alt="pesofit_10100">
     </td>
     <td>
       <a name="pesofit_10100"></a>
@@ -4536,7 +4536,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10101.svg" width="160" alt="pesofit_10101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10101.svg" width="160" alt="pesofit_10101">
     </td>
     <td>
       <a name="pesofit_10101"></a>
@@ -4547,7 +4547,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_10102.svg" width="160" alt="pesofit_10102">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_10102.svg" width="160" alt="pesofit_10102">
     </td>
     <td>
       <a name="pesofit_10102"></a>
@@ -4558,7 +4558,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_11000.svg" width="160" alt="pesofit_11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_11000.svg" width="160" alt="pesofit_11000">
     </td>
     <td>
       <a name="pesofit_11000"></a>
@@ -4569,7 +4569,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_11001.svg" width="160" alt="pesofit_11001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_11001.svg" width="160" alt="pesofit_11001">
     </td>
     <td>
       <a name="pesofit_11001"></a>
@@ -4580,7 +4580,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_11002.svg" width="160" alt="pesofit_11002">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_11002.svg" width="160" alt="pesofit_11002">
     </td>
     <td>
       <a name="pesofit_11002"></a>
@@ -4591,7 +4591,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_11100.svg" width="160" alt="pesofit_11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_11100.svg" width="160" alt="pesofit_11100">
     </td>
     <td>
       <a name="pesofit_11100"></a>
@@ -4602,7 +4602,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_20001.svg" width="160" alt="pesofit_20001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_20001.svg" width="160" alt="pesofit_20001">
     </td>
     <td>
       <a name="pesofit_20001"></a>
@@ -4613,7 +4613,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_w00000.svg" width="160" alt="pesofit_w00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_w00000.svg" width="160" alt="pesofit_w00000">
     </td>
     <td>
       <a name="pesofit_w00000"></a>
@@ -4624,7 +4624,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_w10000.svg" width="160" alt="pesofit_w10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_w10000.svg" width="160" alt="pesofit_w10000">
     </td>
     <td>
       <a name="pesofit_w10000"></a>
@@ -4635,7 +4635,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_w10100.svg" width="160" alt="pesofit_w10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_w10100.svg" width="160" alt="pesofit_w10100">
     </td>
     <td>
       <a name="pesofit_w10100"></a>
@@ -4646,7 +4646,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_w11000.svg" width="160" alt="pesofit_w11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_w11000.svg" width="160" alt="pesofit_w11000">
     </td>
     <td>
       <a name="pesofit_w11000"></a>
@@ -4657,7 +4657,7 @@ Pe sofit has five possible positions for decorations. The tagin are counted per 
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/pesofit_w11100.svg" width="160" alt="pesofit_w11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/pesofit_w11100.svg" width="160" alt="pesofit_w11100">
     </td>
     <td>
       <a name="pesofit_w11100"></a>
@@ -4682,7 +4682,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_00100.svg" width="160" alt="qof_00100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_00100.svg" width="160" alt="qof_00100">
     </td>
     <td>
       <a name="qof_00100"></a>
@@ -4693,7 +4693,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_00200.svg" width="160" alt="qof_00200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_00200.svg" width="160" alt="qof_00200">
     </td>
     <td>
       <a name="qof_00200"></a>
@@ -4704,7 +4704,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_00p00.svg" width="160" alt="qof_00p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_00p00.svg" width="160" alt="qof_00p00">
     </td>
     <td>
       <a name="qof_00p00"></a>
@@ -4715,7 +4715,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_01000.svg" width="160" alt="qof_01000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_01000.svg" width="160" alt="qof_01000">
     </td>
     <td>
       <a name="qof_01000"></a>
@@ -4726,7 +4726,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_01100.svg" width="160" alt="qof_01100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_01100.svg" width="160" alt="qof_01100">
     </td>
     <td>
       <a name="qof_01100"></a>
@@ -4737,7 +4737,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_01101.svg" width="160" alt="qof_01101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_01101.svg" width="160" alt="qof_01101">
     </td>
     <td>
       <a name="qof_01101"></a>
@@ -4748,7 +4748,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_02000.svg" width="160" alt="qof_02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_02000.svg" width="160" alt="qof_02000">
     </td>
     <td>
       <a name="qof_02000"></a>
@@ -4759,7 +4759,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_02100.svg" width="160" alt="qof_02100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_02100.svg" width="160" alt="qof_02100">
     </td>
     <td>
       <a name="qof_02100"></a>
@@ -4770,7 +4770,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_03000.svg" width="160" alt="qof_03000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_03000.svg" width="160" alt="qof_03000">
     </td>
     <td>
       <a name="qof_03000"></a>
@@ -4781,7 +4781,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_10000.svg" width="160" alt="qof_10000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_10000.svg" width="160" alt="qof_10000">
     </td>
     <td>
       <a name="qof_10000"></a>
@@ -4792,7 +4792,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_10100.svg" width="160" alt="qof_10100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_10100.svg" width="160" alt="qof_10100">
     </td>
     <td>
       <a name="qof_10100"></a>
@@ -4803,7 +4803,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_10101.svg" width="160" alt="qof_10101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_10101.svg" width="160" alt="qof_10101">
     </td>
     <td>
       <a name="qof_10101"></a>
@@ -4814,7 +4814,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_101p0.svg" width="160" alt="qof_101p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_101p0.svg" width="160" alt="qof_101p0">
     </td>
     <td>
       <a name="qof_101p0"></a>
@@ -4825,7 +4825,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_10200.svg" width="160" alt="qof_10200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_10200.svg" width="160" alt="qof_10200">
     </td>
     <td>
       <a name="qof_10200"></a>
@@ -4836,7 +4836,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_11000.svg" width="160" alt="qof_11000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_11000.svg" width="160" alt="qof_11000">
     </td>
     <td>
       <a name="qof_11000"></a>
@@ -4847,7 +4847,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_11001.svg" width="160" alt="qof_11001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_11001.svg" width="160" alt="qof_11001">
     </td>
     <td>
       <a name="qof_11001"></a>
@@ -4858,7 +4858,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_11100.svg" width="160" alt="qof_11100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_11100.svg" width="160" alt="qof_11100">
     </td>
     <td>
       <a name="qof_11100"></a>
@@ -4869,7 +4869,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_11101.svg" width="160" alt="qof_11101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_11101.svg" width="160" alt="qof_11101">
     </td>
     <td>
       <a name="qof_11101"></a>
@@ -4880,7 +4880,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_12001.svg" width="160" alt="qof_12001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_12001.svg" width="160" alt="qof_12001">
     </td>
     <td>
       <a name="qof_12001"></a>
@@ -4891,7 +4891,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_20000.svg" width="160" alt="qof_20000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_20000.svg" width="160" alt="qof_20000">
     </td>
     <td>
       <a name="qof_20000"></a>
@@ -4902,7 +4902,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_20001.svg" width="160" alt="qof_20001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_20001.svg" width="160" alt="qof_20001">
     </td>
     <td>
       <a name="qof_20001"></a>
@@ -4913,7 +4913,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_200p1.svg" width="160" alt="qof_200p1">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_200p1.svg" width="160" alt="qof_200p1">
     </td>
     <td>
       <a name="qof_200p1"></a>
@@ -4924,7 +4924,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_b1100.svg" width="160" alt="qof_b1100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_b1100.svg" width="160" alt="qof_b1100">
     </td>
     <td>
       <a name="qof_b1100"></a>
@@ -4935,7 +4935,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_c00000.svg" width="160" alt="qof_c00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_c00000.svg" width="160" alt="qof_c00000">
     </td>
     <td>
       <a name="qof_c00000"></a>
@@ -4946,7 +4946,7 @@ Qof has five possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/qof_f0001.svg" width="160" alt="qof_f0001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/qof_f0001.svg" width="160" alt="qof_f0001">
     </td>
     <td>
       <a name="qof_f0001"></a>
@@ -4971,7 +4971,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0001.svg" width="160" alt="resh_0001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0001.svg" width="160" alt="resh_0001">
     </td>
     <td>
       <a name="resh_0001"></a>
@@ -4982,7 +4982,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0010.svg" width="160" alt="resh_0010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0010.svg" width="160" alt="resh_0010">
     </td>
     <td>
       <a name="resh_0010"></a>
@@ -4993,7 +4993,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0011.svg" width="160" alt="resh_0011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0011.svg" width="160" alt="resh_0011">
     </td>
     <td>
       <a name="resh_0011"></a>
@@ -5004,7 +5004,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0100.svg" width="160" alt="resh_0100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0100.svg" width="160" alt="resh_0100">
     </td>
     <td>
       <a name="resh_0100"></a>
@@ -5015,7 +5015,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0101.svg" width="160" alt="resh_0101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0101.svg" width="160" alt="resh_0101">
     </td>
     <td>
       <a name="resh_0101"></a>
@@ -5026,7 +5026,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0110.svg" width="160" alt="resh_0110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0110.svg" width="160" alt="resh_0110">
     </td>
     <td>
       <a name="resh_0110"></a>
@@ -5037,7 +5037,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_0200.svg" width="160" alt="resh_0200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_0200.svg" width="160" alt="resh_0200">
     </td>
     <td>
       <a name="resh_0200"></a>
@@ -5048,7 +5048,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1000.svg" width="160" alt="resh_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1000.svg" width="160" alt="resh_1000">
     </td>
     <td>
       <a name="resh_1000"></a>
@@ -5059,7 +5059,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1001.svg" width="160" alt="resh_1001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1001.svg" width="160" alt="resh_1001">
     </td>
     <td>
       <a name="resh_1001"></a>
@@ -5070,7 +5070,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1010.svg" width="160" alt="resh_1010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1010.svg" width="160" alt="resh_1010">
     </td>
     <td>
       <a name="resh_1010"></a>
@@ -5081,7 +5081,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1011.svg" width="160" alt="resh_1011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1011.svg" width="160" alt="resh_1011">
     </td>
     <td>
       <a name="resh_1011"></a>
@@ -5092,7 +5092,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1100.svg" width="160" alt="resh_1100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1100.svg" width="160" alt="resh_1100">
     </td>
     <td>
       <a name="resh_1100"></a>
@@ -5103,7 +5103,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1101.svg" width="160" alt="resh_1101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1101.svg" width="160" alt="resh_1101">
     </td>
     <td>
       <a name="resh_1101"></a>
@@ -5114,7 +5114,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_1110.svg" width="160" alt="resh_1110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_1110.svg" width="160" alt="resh_1110">
     </td>
     <td>
       <a name="resh_1110"></a>
@@ -5125,7 +5125,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_2000.svg" width="160" alt="resh_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_2000.svg" width="160" alt="resh_2000">
     </td>
     <td>
       <a name="resh_2000"></a>
@@ -5136,7 +5136,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_b000.svg" width="160" alt="resh_b000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_b000.svg" width="160" alt="resh_b000">
     </td>
     <td>
       <a name="resh_b000"></a>
@@ -5147,7 +5147,7 @@ Resh has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/resh_e0000.svg" width="160" alt="resh_e0000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/resh_e0000.svg" width="160" alt="resh_e0000">
     </td>
     <td>
       <a name="resh_e0000"></a>
@@ -5171,7 +5171,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_000010.svg" width="160" alt="samekh_000010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_000010.svg" width="160" alt="samekh_000010">
     </td>
     <td>
       <a name="samekh_000010"></a>
@@ -5182,7 +5182,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_002000.svg" width="160" alt="samekh_002000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_002000.svg" width="160" alt="samekh_002000">
     </td>
     <td>
       <a name="samekh_002000"></a>
@@ -5193,7 +5193,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_011000.svg" width="160" alt="samekh_011000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_011000.svg" width="160" alt="samekh_011000">
     </td>
     <td>
       <a name="samekh_011000"></a>
@@ -5204,7 +5204,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_011010.svg" width="160" alt="samekh_011010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_011010.svg" width="160" alt="samekh_011010">
     </td>
     <td>
       <a name="samekh_011010"></a>
@@ -5215,7 +5215,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_020000.svg" width="160" alt="samekh_020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_020000.svg" width="160" alt="samekh_020000">
     </td>
     <td>
       <a name="samekh_020000"></a>
@@ -5226,7 +5226,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_020010.svg" width="160" alt="samekh_020010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_020010.svg" width="160" alt="samekh_020010">
     </td>
     <td>
       <a name="samekh_020010"></a>
@@ -5237,7 +5237,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_030010.svg" width="160" alt="samekh_030010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_030010.svg" width="160" alt="samekh_030010">
     </td>
     <td>
       <a name="samekh_030010"></a>
@@ -5248,7 +5248,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_100000.svg" width="160" alt="samekh_100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_100000.svg" width="160" alt="samekh_100000">
     </td>
     <td>
       <a name="samekh_100000"></a>
@@ -5259,7 +5259,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_101000.svg" width="160" alt="samekh_101000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_101000.svg" width="160" alt="samekh_101000">
     </td>
     <td>
       <a name="samekh_101000"></a>
@@ -5270,7 +5270,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_101001.svg" width="160" alt="samekh_101001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_101001.svg" width="160" alt="samekh_101001">
     </td>
     <td>
       <a name="samekh_101001"></a>
@@ -5281,7 +5281,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_101010.svg" width="160" alt="samekh_101010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_101010.svg" width="160" alt="samekh_101010">
     </td>
     <td>
       <a name="samekh_101010"></a>
@@ -5292,7 +5292,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_101011.svg" width="160" alt="samekh_101011">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_101011.svg" width="160" alt="samekh_101011">
     </td>
     <td>
       <a name="samekh_101011"></a>
@@ -5303,7 +5303,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_101100.svg" width="160" alt="samekh_101100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_101100.svg" width="160" alt="samekh_101100">
     </td>
     <td>
       <a name="samekh_101100"></a>
@@ -5314,7 +5314,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_102000.svg" width="160" alt="samekh_102000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_102000.svg" width="160" alt="samekh_102000">
     </td>
     <td>
       <a name="samekh_102000"></a>
@@ -5325,7 +5325,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_110010.svg" width="160" alt="samekh_110010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_110010.svg" width="160" alt="samekh_110010">
     </td>
     <td>
       <a name="samekh_110010"></a>
@@ -5336,7 +5336,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_111000.svg" width="160" alt="samekh_111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_111000.svg" width="160" alt="samekh_111000">
     </td>
     <td>
       <a name="samekh_111000"></a>
@@ -5347,7 +5347,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_111010.svg" width="160" alt="samekh_111010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_111010.svg" width="160" alt="samekh_111010">
     </td>
     <td>
       <a name="samekh_111010"></a>
@@ -5358,7 +5358,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_120000.svg" width="160" alt="samekh_120000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_120000.svg" width="160" alt="samekh_120000">
     </td>
     <td>
       <a name="samekh_120000"></a>
@@ -5369,7 +5369,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_120001.svg" width="160" alt="samekh_120001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_120001.svg" width="160" alt="samekh_120001">
     </td>
     <td>
       <a name="samekh_120001"></a>
@@ -5380,7 +5380,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_120010.svg" width="160" alt="samekh_120010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_120010.svg" width="160" alt="samekh_120010">
     </td>
     <td>
       <a name="samekh_120010"></a>
@@ -5391,7 +5391,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_130000.svg" width="160" alt="samekh_130000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_130000.svg" width="160" alt="samekh_130000">
     </td>
     <td>
       <a name="samekh_130000"></a>
@@ -5402,7 +5402,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_210001.svg" width="160" alt="samekh_210001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_210001.svg" width="160" alt="samekh_210001">
     </td>
     <td>
       <a name="samekh_210001"></a>
@@ -5413,7 +5413,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_210010.svg" width="160" alt="samekh_210010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_210010.svg" width="160" alt="samekh_210010">
     </td>
     <td>
       <a name="samekh_210010"></a>
@@ -5424,7 +5424,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_220000.svg" width="160" alt="samekh_220000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_220000.svg" width="160" alt="samekh_220000">
     </td>
     <td>
       <a name="samekh_220000"></a>
@@ -5435,7 +5435,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_300000.svg" width="160" alt="samekh_300000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_300000.svg" width="160" alt="samekh_300000">
     </td>
     <td>
       <a name="samekh_300000"></a>
@@ -5446,7 +5446,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_300001.svg" width="160" alt="samekh_300001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_300001.svg" width="160" alt="samekh_300001">
     </td>
     <td>
       <a name="samekh_300001"></a>
@@ -5457,7 +5457,7 @@ Samekh has six possible positions for decorations. The tagin are counted per pos
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/samekh_f00000.svg" width="160" alt="samekh_f00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/samekh_f00000.svg" width="160" alt="samekh_f00000">
     </td>
     <td>
       <a name="samekh_f00000"></a>
@@ -5481,7 +5481,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_0010.svg" width="160" alt="shin_0010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_0010.svg" width="160" alt="shin_0010">
     </td>
     <td>
       <a name="shin_0010"></a>
@@ -5492,7 +5492,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_0210.svg" width="160" alt="shin_0210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_0210.svg" width="160" alt="shin_0210">
     </td>
     <td>
       <a name="shin_0210"></a>
@@ -5503,7 +5503,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_0300.svg" width="160" alt="shin_0300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_0300.svg" width="160" alt="shin_0300">
     </td>
     <td>
       <a name="shin_0300"></a>
@@ -5514,7 +5514,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_1000.svg" width="160" alt="shin_1000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_1000.svg" width="160" alt="shin_1000">
     </td>
     <td>
       <a name="shin_1000"></a>
@@ -5525,7 +5525,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_1110.svg" width="160" alt="shin_1110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_1110.svg" width="160" alt="shin_1110">
     </td>
     <td>
       <a name="shin_1110"></a>
@@ -5536,7 +5536,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_1200.svg" width="160" alt="shin_1200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_1200.svg" width="160" alt="shin_1200">
     </td>
     <td>
       <a name="shin_1200"></a>
@@ -5547,7 +5547,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_1230.svg" width="160" alt="shin_1230">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_1230.svg" width="160" alt="shin_1230">
     </td>
     <td>
       <a name="shin_1230"></a>
@@ -5558,7 +5558,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2000.svg" width="160" alt="shin_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2000.svg" width="160" alt="shin_2000">
     </td>
     <td>
       <a name="shin_2000"></a>
@@ -5569,7 +5569,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2010.svg" width="160" alt="shin_2010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2010.svg" width="160" alt="shin_2010">
     </td>
     <td>
       <a name="shin_2010"></a>
@@ -5580,7 +5580,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2100.svg" width="160" alt="shin_2100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2100.svg" width="160" alt="shin_2100">
     </td>
     <td>
       <a name="shin_2100"></a>
@@ -5591,7 +5591,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2120.svg" width="160" alt="shin_2120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2120.svg" width="160" alt="shin_2120">
     </td>
     <td>
       <a name="shin_2120"></a>
@@ -5602,7 +5602,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2130.svg" width="160" alt="shin_2130">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2130.svg" width="160" alt="shin_2130">
     </td>
     <td>
       <a name="shin_2130"></a>
@@ -5613,7 +5613,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2210.svg" width="160" alt="shin_2210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2210.svg" width="160" alt="shin_2210">
     </td>
     <td>
       <a name="shin_2210"></a>
@@ -5624,7 +5624,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2220.svg" width="160" alt="shin_2220">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2220.svg" width="160" alt="shin_2220">
     </td>
     <td>
       <a name="shin_2220"></a>
@@ -5635,7 +5635,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2230.svg" width="160" alt="shin_2230">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2230.svg" width="160" alt="shin_2230">
     </td>
     <td>
       <a name="shin_2230"></a>
@@ -5646,7 +5646,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_2320.svg" width="160" alt="shin_2320">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_2320.svg" width="160" alt="shin_2320">
     </td>
     <td>
       <a name="shin_2320"></a>
@@ -5657,7 +5657,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3010.svg" width="160" alt="shin_3010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3010.svg" width="160" alt="shin_3010">
     </td>
     <td>
       <a name="shin_3010"></a>
@@ -5668,7 +5668,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3020.svg" width="160" alt="shin_3020">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3020.svg" width="160" alt="shin_3020">
     </td>
     <td>
       <a name="shin_3020"></a>
@@ -5679,7 +5679,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3100.svg" width="160" alt="shin_3100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3100.svg" width="160" alt="shin_3100">
     </td>
     <td>
       <a name="shin_3100"></a>
@@ -5690,7 +5690,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3110.svg" width="160" alt="shin_3110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3110.svg" width="160" alt="shin_3110">
     </td>
     <td>
       <a name="shin_3110"></a>
@@ -5701,7 +5701,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3120.svg" width="160" alt="shin_3120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3120.svg" width="160" alt="shin_3120">
     </td>
     <td>
       <a name="shin_3120"></a>
@@ -5712,7 +5712,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3130.svg" width="160" alt="shin_3130">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3130.svg" width="160" alt="shin_3130">
     </td>
     <td>
       <a name="shin_3130"></a>
@@ -5723,7 +5723,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3210.svg" width="160" alt="shin_3210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3210.svg" width="160" alt="shin_3210">
     </td>
     <td>
       <a name="shin_3210"></a>
@@ -5734,7 +5734,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3220.svg" width="160" alt="shin_3220">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3220.svg" width="160" alt="shin_3220">
     </td>
     <td>
       <a name="shin_3220"></a>
@@ -5745,7 +5745,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3230.svg" width="160" alt="shin_3230">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3230.svg" width="160" alt="shin_3230">
     </td>
     <td>
       <a name="shin_3230"></a>
@@ -5756,7 +5756,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3300.svg" width="160" alt="shin_3300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3300.svg" width="160" alt="shin_3300">
     </td>
     <td>
       <a name="shin_3300"></a>
@@ -5767,7 +5767,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3320.svg" width="160" alt="shin_3320">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3320.svg" width="160" alt="shin_3320">
     </td>
     <td>
       <a name="shin_3320"></a>
@@ -5778,7 +5778,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_3330.svg" width="160" alt="shin_3330">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_3330.svg" width="160" alt="shin_3330">
     </td>
     <td>
       <a name="shin_3330"></a>
@@ -5789,7 +5789,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_4000.svg" width="160" alt="shin_4000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_4000.svg" width="160" alt="shin_4000">
     </td>
     <td>
       <a name="shin_4000"></a>
@@ -5800,7 +5800,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_e3000.svg" width="160" alt="shin_e3000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_e3000.svg" width="160" alt="shin_e3000">
     </td>
     <td>
       <a name="shin_e3000"></a>
@@ -5811,7 +5811,7 @@ Shin has four possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/shin_e3001.svg" width="160" alt="shin_e3001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/shin_e3001.svg" width="160" alt="shin_e3001">
     </td>
     <td>
       <a name="shin_e3001"></a>
@@ -5836,7 +5836,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_000010.svg" width="160" alt="tav_000010">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_000010.svg" width="160" alt="tav_000010">
     </td>
     <td>
       <a name="tav_000010"></a>
@@ -5847,7 +5847,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_0000b0.svg" width="160" alt="tav_0000b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_0000b0.svg" width="160" alt="tav_0000b0">
     </td>
     <td>
       <a name="tav_0000b0"></a>
@@ -5858,7 +5858,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_000p00.svg" width="160" alt="tav_000p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_000p00.svg" width="160" alt="tav_000p00">
     </td>
     <td>
       <a name="tav_000p00"></a>
@@ -5869,7 +5869,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_010000.svg" width="160" alt="tav_010000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_010000.svg" width="160" alt="tav_010000">
     </td>
     <td>
       <a name="tav_010000"></a>
@@ -5880,7 +5880,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_011000.svg" width="160" alt="tav_011000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_011000.svg" width="160" alt="tav_011000">
     </td>
     <td>
       <a name="tav_011000"></a>
@@ -5891,7 +5891,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_02000.svg" width="160" alt="tav_02000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_02000.svg" width="160" alt="tav_02000">
     </td>
     <td>
       <a name="tav_02000"></a>
@@ -5902,7 +5902,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_020000.svg" width="160" alt="tav_020000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_020000.svg" width="160" alt="tav_020000">
     </td>
     <td>
       <a name="tav_020000"></a>
@@ -5913,7 +5913,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_100000.svg" width="160" alt="tav_100000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_100000.svg" width="160" alt="tav_100000">
     </td>
     <td>
       <a name="tav_100000"></a>
@@ -5924,7 +5924,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_100001.svg" width="160" alt="tav_100001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_100001.svg" width="160" alt="tav_100001">
     </td>
     <td>
       <a name="tav_100001"></a>
@@ -5935,7 +5935,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_101000.svg" width="160" alt="tav_101000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_101000.svg" width="160" alt="tav_101000">
     </td>
     <td>
       <a name="tav_101000"></a>
@@ -5946,7 +5946,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_111000.svg" width="160" alt="tav_111000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_111000.svg" width="160" alt="tav_111000">
     </td>
     <td>
       <a name="tav_111000"></a>
@@ -5957,7 +5957,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_200000.svg" width="160" alt="tav_200000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_200000.svg" width="160" alt="tav_200000">
     </td>
     <td>
       <a name="tav_200000"></a>
@@ -5968,7 +5968,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_e000000.svg" width="160" alt="tav_e000000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_e000000.svg" width="160" alt="tav_e000000">
     </td>
     <td>
       <a name="tav_e000000"></a>
@@ -5979,7 +5979,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_e000001.svg" width="160" alt="tav_e000001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_e000001.svg" width="160" alt="tav_e000001">
     </td>
     <td>
       <a name="tav_e000001"></a>
@@ -5990,7 +5990,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_f00000.svg" width="160" alt="tav_f00000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_f00000.svg" width="160" alt="tav_f00000">
     </td>
     <td>
       <a name="tav_f00000"></a>
@@ -6001,7 +6001,7 @@ Tav has six possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tav_f00b00.svg" width="160" alt="tav_f00b00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tav_f00b00.svg" width="160" alt="tav_f00b00">
     </td>
     <td>
       <a name="tav_f00b00"></a>
@@ -6025,7 +6025,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_02.svg" width="160" alt="teth_02">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_02.svg" width="160" alt="teth_02">
     </td>
     <td>
       <a name="teth_02"></a>
@@ -6036,7 +6036,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_10.svg" width="160" alt="teth_10">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_10.svg" width="160" alt="teth_10">
     </td>
     <td>
       <a name="teth_10"></a>
@@ -6047,7 +6047,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_11.svg" width="160" alt="teth_11">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_11.svg" width="160" alt="teth_11">
     </td>
     <td>
       <a name="teth_11"></a>
@@ -6058,7 +6058,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_12.svg" width="160" alt="teth_12">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_12.svg" width="160" alt="teth_12">
     </td>
     <td>
       <a name="teth_12"></a>
@@ -6069,7 +6069,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_20.svg" width="160" alt="teth_20">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_20.svg" width="160" alt="teth_20">
     </td>
     <td>
       <a name="teth_20"></a>
@@ -6080,7 +6080,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_21.svg" width="160" alt="teth_21">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_21.svg" width="160" alt="teth_21">
     </td>
     <td>
       <a name="teth_21"></a>
@@ -6091,7 +6091,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_22.svg" width="160" alt="teth_22">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_22.svg" width="160" alt="teth_22">
     </td>
     <td>
       <a name="teth_22"></a>
@@ -6102,7 +6102,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_31.svg" width="160" alt="teth_31">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_31.svg" width="160" alt="teth_31">
     </td>
     <td>
       <a name="teth_31"></a>
@@ -6113,7 +6113,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_32.svg" width="160" alt="teth_32">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_32.svg" width="160" alt="teth_32">
     </td>
     <td>
       <a name="teth_32"></a>
@@ -6124,7 +6124,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_40.svg" width="160" alt="teth_40">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_40.svg" width="160" alt="teth_40">
     </td>
     <td>
       <a name="teth_40"></a>
@@ -6135,7 +6135,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_41.svg" width="160" alt="teth_41">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_41.svg" width="160" alt="teth_41">
     </td>
     <td>
       <a name="teth_41"></a>
@@ -6146,7 +6146,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_42.svg" width="160" alt="teth_42">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_42.svg" width="160" alt="teth_42">
     </td>
     <td>
       <a name="teth_42"></a>
@@ -6157,7 +6157,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_e30.svg" width="160" alt="teth_e30">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_e30.svg" width="160" alt="teth_e30">
     </td>
     <td>
       <a name="teth_e30"></a>
@@ -6168,7 +6168,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w00.svg" width="160" alt="teth_w00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w00.svg" width="160" alt="teth_w00">
     </td>
     <td>
       <a name="teth_w00"></a>
@@ -6179,7 +6179,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w10.svg" width="160" alt="teth_w10">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w10.svg" width="160" alt="teth_w10">
     </td>
     <td>
       <a name="teth_w10"></a>
@@ -6190,7 +6190,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w11.svg" width="160" alt="teth_w11">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w11.svg" width="160" alt="teth_w11">
     </td>
     <td>
       <a name="teth_w11"></a>
@@ -6201,7 +6201,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w21.svg" width="160" alt="teth_w21">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w21.svg" width="160" alt="teth_w21">
     </td>
     <td>
       <a name="teth_w21"></a>
@@ -6212,7 +6212,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w23.svg" width="160" alt="teth_w23">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w23.svg" width="160" alt="teth_w23">
     </td>
     <td>
       <a name="teth_w23"></a>
@@ -6223,7 +6223,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w30.svg" width="160" alt="teth_w30">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w30.svg" width="160" alt="teth_w30">
     </td>
     <td>
       <a name="teth_w30"></a>
@@ -6234,7 +6234,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w31.svg" width="160" alt="teth_w31">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w31.svg" width="160" alt="teth_w31">
     </td>
     <td>
       <a name="teth_w31"></a>
@@ -6245,7 +6245,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w32.svg" width="160" alt="teth_w32">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w32.svg" width="160" alt="teth_w32">
     </td>
     <td>
       <a name="teth_w32"></a>
@@ -6256,7 +6256,7 @@ Teth has two possible positions for decorations. The tagin are counted per posit
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/teth_w33.svg" width="160" alt="teth_w33">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/teth_w33.svg" width="160" alt="teth_w33">
     </td>
     <td>
       <a name="teth_w33"></a>
@@ -6281,7 +6281,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_020.svg" width="160" alt="tsade_020">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_020.svg" width="160" alt="tsade_020">
     </td>
     <td>
       <a name="tsade_020"></a>
@@ -6292,7 +6292,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_100.svg" width="160" alt="tsade_100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_100.svg" width="160" alt="tsade_100">
     </td>
     <td>
       <a name="tsade_100"></a>
@@ -6303,7 +6303,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_110.svg" width="160" alt="tsade_110">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_110.svg" width="160" alt="tsade_110">
     </td>
     <td>
       <a name="tsade_110"></a>
@@ -6314,7 +6314,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_111.svg" width="160" alt="tsade_111">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_111.svg" width="160" alt="tsade_111">
     </td>
     <td>
       <a name="tsade_111"></a>
@@ -6325,7 +6325,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_120.svg" width="160" alt="tsade_120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_120.svg" width="160" alt="tsade_120">
     </td>
     <td>
       <a name="tsade_120"></a>
@@ -6336,7 +6336,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_200.svg" width="160" alt="tsade_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_200.svg" width="160" alt="tsade_200">
     </td>
     <td>
       <a name="tsade_200"></a>
@@ -6347,7 +6347,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_210.svg" width="160" alt="tsade_210">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_210.svg" width="160" alt="tsade_210">
     </td>
     <td>
       <a name="tsade_210"></a>
@@ -6358,7 +6358,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_230.svg" width="160" alt="tsade_230">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_230.svg" width="160" alt="tsade_230">
     </td>
     <td>
       <a name="tsade_230"></a>
@@ -6369,7 +6369,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_301.svg" width="160" alt="tsade_301">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_301.svg" width="160" alt="tsade_301">
     </td>
     <td>
       <a name="tsade_301"></a>
@@ -6380,7 +6380,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_310.svg" width="160" alt="tsade_310">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_310.svg" width="160" alt="tsade_310">
     </td>
     <td>
       <a name="tsade_310"></a>
@@ -6391,7 +6391,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_320.svg" width="160" alt="tsade_320">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_320.svg" width="160" alt="tsade_320">
     </td>
     <td>
       <a name="tsade_320"></a>
@@ -6402,7 +6402,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_32p.svg" width="160" alt="tsade_32p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_32p.svg" width="160" alt="tsade_32p">
     </td>
     <td>
       <a name="tsade_32p"></a>
@@ -6413,7 +6413,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_330.svg" width="160" alt="tsade_330">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_330.svg" width="160" alt="tsade_330">
     </td>
     <td>
       <a name="tsade_330"></a>
@@ -6424,7 +6424,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_410.svg" width="160" alt="tsade_410">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_410.svg" width="160" alt="tsade_410">
     </td>
     <td>
       <a name="tsade_410"></a>
@@ -6435,7 +6435,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_420.svg" width="160" alt="tsade_420">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_420.svg" width="160" alt="tsade_420">
     </td>
     <td>
       <a name="tsade_420"></a>
@@ -6446,7 +6446,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_b0b.svg" width="160" alt="tsade_b0b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_b0b.svg" width="160" alt="tsade_b0b">
     </td>
     <td>
       <a name="tsade_b0b"></a>
@@ -6457,7 +6457,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_e00b.svg" width="160" alt="tsade_e00b">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_e00b.svg" width="160" alt="tsade_e00b">
     </td>
     <td>
       <a name="tsade_e00b"></a>
@@ -6468,7 +6468,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_e00p.svg" width="160" alt="tsade_e00p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_e00p.svg" width="160" alt="tsade_e00p">
     </td>
     <td>
       <a name="tsade_e00p"></a>
@@ -6479,7 +6479,7 @@ Tsade has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsade_e300.svg" width="160" alt="tsade_e300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsade_e300.svg" width="160" alt="tsade_e300">
     </td>
     <td>
       <a name="tsade_e300"></a>
@@ -6503,7 +6503,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_0100.svg" width="160" alt="tsadesofit_0100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_0100.svg" width="160" alt="tsadesofit_0100">
     </td>
     <td>
       <a name="tsadesofit_0100"></a>
@@ -6514,7 +6514,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_1120.svg" width="160" alt="tsadesofit_1120">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_1120.svg" width="160" alt="tsadesofit_1120">
     </td>
     <td>
       <a name="tsadesofit_1120"></a>
@@ -6525,7 +6525,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_1200.svg" width="160" alt="tsadesofit_1200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_1200.svg" width="160" alt="tsadesofit_1200">
     </td>
     <td>
       <a name="tsadesofit_1200"></a>
@@ -6536,7 +6536,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_2000.svg" width="160" alt="tsadesofit_2000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_2000.svg" width="160" alt="tsadesofit_2000">
     </td>
     <td>
       <a name="tsadesofit_2000"></a>
@@ -6547,7 +6547,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_2100.svg" width="160" alt="tsadesofit_2100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_2100.svg" width="160" alt="tsadesofit_2100">
     </td>
     <td>
       <a name="tsadesofit_2100"></a>
@@ -6558,7 +6558,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_3100.svg" width="160" alt="tsadesofit_3100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_3100.svg" width="160" alt="tsadesofit_3100">
     </td>
     <td>
       <a name="tsadesofit_3100"></a>
@@ -6569,7 +6569,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_3200.svg" width="160" alt="tsadesofit_3200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_3200.svg" width="160" alt="tsadesofit_3200">
     </td>
     <td>
       <a name="tsadesofit_3200"></a>
@@ -6580,7 +6580,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_3300.svg" width="160" alt="tsadesofit_3300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_3300.svg" width="160" alt="tsadesofit_3300">
     </td>
     <td>
       <a name="tsadesofit_3300"></a>
@@ -6591,7 +6591,7 @@ Tsade sofit has four possible positions for decorations. The tagin are counted p
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/tsadesofit_e3000.svg" width="160" alt="tsadesofit_e3000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/tsadesofit_e3000.svg" width="160" alt="tsadesofit_e3000">
     </td>
     <td>
       <a name="tsadesofit_e3000"></a>
@@ -6616,7 +6616,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_001.svg" width="160" alt="vav_001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_001.svg" width="160" alt="vav_001">
     </td>
     <td>
       <a name="vav_001"></a>
@@ -6627,7 +6627,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_00p.svg" width="160" alt="vav_00p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_00p.svg" width="160" alt="vav_00p">
     </td>
     <td>
       <a name="vav_00p"></a>
@@ -6638,7 +6638,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0b0.svg" width="160" alt="vav_0b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_0b0.svg" width="160" alt="vav_0b0">
     </td>
     <td>
       <a name="vav_0b0"></a>
@@ -6649,7 +6649,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0bb.svg" width="160" alt="vav_0bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_0bb.svg" width="160" alt="vav_0bb">
     </td>
     <td>
       <a name="vav_0bb"></a>
@@ -6660,7 +6660,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_0pp.svg" width="160" alt="vav_0pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_0pp.svg" width="160" alt="vav_0pp">
     </td>
     <td>
       <a name="vav_0pp"></a>
@@ -6671,7 +6671,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_100.svg" width="160" alt="vav_100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_100.svg" width="160" alt="vav_100">
     </td>
     <td>
       <a name="vav_100"></a>
@@ -6682,7 +6682,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_101.svg" width="160" alt="vav_101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_101.svg" width="160" alt="vav_101">
     </td>
     <td>
       <a name="vav_101"></a>
@@ -6693,7 +6693,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_10p.svg" width="160" alt="vav_10p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_10p.svg" width="160" alt="vav_10p">
     </td>
     <td>
       <a name="vav_10p"></a>
@@ -6704,7 +6704,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1b0.svg" width="160" alt="vav_1b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_1b0.svg" width="160" alt="vav_1b0">
     </td>
     <td>
       <a name="vav_1b0"></a>
@@ -6715,7 +6715,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1b1.svg" width="160" alt="vav_1b1">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_1b1.svg" width="160" alt="vav_1b1">
     </td>
     <td>
       <a name="vav_1b1"></a>
@@ -6726,7 +6726,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1bb.svg" width="160" alt="vav_1bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_1bb.svg" width="160" alt="vav_1bb">
     </td>
     <td>
       <a name="vav_1bb"></a>
@@ -6737,7 +6737,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_1pp.svg" width="160" alt="vav_1pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_1pp.svg" width="160" alt="vav_1pp">
     </td>
     <td>
       <a name="vav_1pp"></a>
@@ -6748,7 +6748,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_200.svg" width="160" alt="vav_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_200.svg" width="160" alt="vav_200">
     </td>
     <td>
       <a name="vav_200"></a>
@@ -6759,7 +6759,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0b0.svg" width="160" alt="vav_e0b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e0b0.svg" width="160" alt="vav_e0b0">
     </td>
     <td>
       <a name="vav_e0b0"></a>
@@ -6770,7 +6770,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0bb.svg" width="160" alt="vav_e0bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e0bb.svg" width="160" alt="vav_e0bb">
     </td>
     <td>
       <a name="vav_e0bb"></a>
@@ -6781,7 +6781,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0bp.svg" width="160" alt="vav_e0bp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e0bp.svg" width="160" alt="vav_e0bp">
     </td>
     <td>
       <a name="vav_e0bp"></a>
@@ -6792,7 +6792,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e0p0.svg" width="160" alt="vav_e0p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e0p0.svg" width="160" alt="vav_e0p0">
     </td>
     <td>
       <a name="vav_e0p0"></a>
@@ -6803,7 +6803,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e100.svg" width="160" alt="vav_e100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e100.svg" width="160" alt="vav_e100">
     </td>
     <td>
       <a name="vav_e100"></a>
@@ -6814,7 +6814,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1bp.svg" width="160" alt="vav_e1bp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e1bp.svg" width="160" alt="vav_e1bp">
     </td>
     <td>
       <a name="vav_e1bp"></a>
@@ -6825,7 +6825,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1p0.svg" width="160" alt="vav_e1p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e1p0.svg" width="160" alt="vav_e1p0">
     </td>
     <td>
       <a name="vav_e1p0"></a>
@@ -6836,7 +6836,7 @@ Vav has three possible positions for decorations. The tagin are counted per posi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/vav_e1pp.svg" width="160" alt="vav_e1pp">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/vav_e1pp.svg" width="160" alt="vav_e1pp">
     </td>
     <td>
       <a name="vav_e1pp"></a>
@@ -6861,7 +6861,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_001.svg" width="160" alt="yod_001">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_001.svg" width="160" alt="yod_001">
     </td>
     <td>
       <a name="yod_001"></a>
@@ -6872,7 +6872,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_0p0.svg" width="160" alt="yod_0p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_0p0.svg" width="160" alt="yod_0p0">
     </td>
     <td>
       <a name="yod_0p0"></a>
@@ -6883,7 +6883,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_100.svg" width="160" alt="yod_100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_100.svg" width="160" alt="yod_100">
     </td>
     <td>
       <a name="yod_100"></a>
@@ -6894,7 +6894,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_101.svg" width="160" alt="yod_101">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_101.svg" width="160" alt="yod_101">
     </td>
     <td>
       <a name="yod_101"></a>
@@ -6905,7 +6905,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_10p.svg" width="160" alt="yod_10p">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_10p.svg" width="160" alt="yod_10p">
     </td>
     <td>
       <a name="yod_10p"></a>
@@ -6916,7 +6916,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_1p0.svg" width="160" alt="yod_1p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_1p0.svg" width="160" alt="yod_1p0">
     </td>
     <td>
       <a name="yod_1p0"></a>
@@ -6927,7 +6927,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_200.svg" width="160" alt="yod_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_200.svg" width="160" alt="yod_200">
     </td>
     <td>
       <a name="yod_200"></a>
@@ -6938,7 +6938,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_300.svg" width="160" alt="yod_300">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_300.svg" width="160" alt="yod_300">
     </td>
     <td>
       <a name="yod_300"></a>
@@ -6949,7 +6949,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_e000.svg" width="160" alt="yod_e000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_e000.svg" width="160" alt="yod_e000">
     </td>
     <td>
       <a name="yod_e000"></a>
@@ -6960,7 +6960,7 @@ Yod has two possible positions for decorations. The tagin are counted per positi
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/yod_s000.svg" width="160" alt="yod_s000">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/yod_s000.svg" width="160" alt="yod_s000">
     </td>
     <td>
       <a name="yod_s000"></a>
@@ -6985,7 +6985,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 <table>
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_0b0.svg" width="160" alt="zayin_0b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_0b0.svg" width="160" alt="zayin_0b0">
     </td>
     <td>
       <a name="zayin_0b0"></a>
@@ -6996,7 +6996,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_100.svg" width="160" alt="zayin_100">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_100.svg" width="160" alt="zayin_100">
     </td>
     <td>
       <a name="zayin_100"></a>
@@ -7007,7 +7007,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1b0.svg" width="160" alt="zayin_1b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_1b0.svg" width="160" alt="zayin_1b0">
     </td>
     <td>
       <a name="zayin_1b0"></a>
@@ -7018,7 +7018,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1bb.svg" width="160" alt="zayin_1bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_1bb.svg" width="160" alt="zayin_1bb">
     </td>
     <td>
       <a name="zayin_1bb"></a>
@@ -7029,7 +7029,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_1p0.svg" width="160" alt="zayin_1p0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_1p0.svg" width="160" alt="zayin_1p0">
     </td>
     <td>
       <a name="zayin_1p0"></a>
@@ -7040,7 +7040,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_200.svg" width="160" alt="zayin_200">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_200.svg" width="160" alt="zayin_200">
     </td>
     <td>
       <a name="zayin_200"></a>
@@ -7051,7 +7051,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_2b0.svg" width="160" alt="zayin_2b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_2b0.svg" width="160" alt="zayin_2b0">
     </td>
     <td>
       <a name="zayin_2b0"></a>
@@ -7062,7 +7062,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_3b0.svg" width="160" alt="zayin_3b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_3b0.svg" width="160" alt="zayin_3b0">
     </td>
     <td>
       <a name="zayin_3b0"></a>
@@ -7073,7 +7073,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_3bb.svg" width="160" alt="zayin_3bb">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_3bb.svg" width="160" alt="zayin_3bb">
     </td>
     <td>
       <a name="zayin_3bb"></a>
@@ -7084,7 +7084,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_4b0.svg" width="160" alt="zayin_4b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_4b0.svg" width="160" alt="zayin_4b0">
     </td>
     <td>
       <a name="zayin_4b0"></a>
@@ -7095,7 +7095,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_5b0.svg" width="160" alt="zayin_5b0">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_5b0.svg" width="160" alt="zayin_5b0">
     </td>
     <td>
       <a name="zayin_5b0"></a>
@@ -7106,7 +7106,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_b00.svg" width="160" alt="zayin_b00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_b00.svg" width="160" alt="zayin_b00">
     </td>
     <td>
       <a name="zayin_b00"></a>
@@ -7117,7 +7117,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_p00.svg" width="160" alt="zayin_p00">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_p00.svg" width="160" alt="zayin_p00">
     </td>
     <td>
       <a name="zayin_p00"></a>
@@ -7128,7 +7128,7 @@ Zayin has three possible positions for decorations. The tagin are counted per po
 
   <tr>
     <td>
-      <img src="https://github.com/toRoll-Materialized-Holiness/tagin-icons/blob/master/icons/svg/zayin_w400.svg" width="160" alt="zayin_w400">
+      <img src="https://unpkg.com/@toroll/tagin-icons@latest/icons/svg/zayin_w400.svg" width="160" alt="zayin_w400">
     </td>
     <td>
       <a name="zayin_w400"></a>
