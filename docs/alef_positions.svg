@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     transform="matrix(1.156773,0,0,-1.156773,144.871,868.432)"
+     id="g1">
+    <path
+       d="M 504,-10 Q 503,1 499,13.5 495,26 485.5,41 476,56 456,73 L 96,417 q -26,25 -39,56 -13,31 -13,60 0,27 7.5,53.5 Q 59,613 72,647 h 34 v -16 q 0,-18 9,-39.5 9,-21.5 33,-45.5 L 518,196 Q 533,182 542.5,164.5 552,147 557,128 562,109 562,88 562,59 552.5,36.5 543,14 528,-10 Z M 40,0 v 76 h 17 q 17,0 23,7 6,7 2,23 L 65,174 Q 54,219 62.5,261.5 71,304 99,340 l 50,67 32,-34 -26,-43 Q 134,297 133.5,271 133,245 154,207 l 32,-60 Q 203,117 207.5,81.5 212,46 195,0 Z m 408,260 -51,48 q 0,10 6,26.5 6,16.5 15,35 9,18.5 18,32.5 l 44,74 47,-16 -48,-79 Q 467,361 460,341.5 453,322 450.5,302 448,282 448,260 Z m 112,158 -125,16 q -34,4 -47.5,23 -13.5,19 -13.5,62 0,26 5.5,58.5 Q 385,610 398,647 h 35 v -17 q 0,-17 10,-26.5 10,-9.5 29,-11.5 l 44,-6 q 30,-4 44,-23.5 14,-19.5 14,-55.5 0,-21 -3.5,-41 Q 567,446 560,418 Z"
+       fill="#000000"
+       id="path1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="213.72549"
+     y="96.07843"
+     id="text1"><tspan
+       id="tspan1"
+       x="213.72549"
+       y="96.07843"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="709.8432"
+     y="971.25"
+     id="text2"><tspan
+       id="tspan2"
+       x="709.8432"
+       y="971.25"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="682.35297"
+     y="160.90196"
+     id="text3"><tspan
+       id="tspan3"
+       x="682.35297"
+       y="160.90196"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:96px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="239.29414"
+     y="961.79688"
+     id="text4"><tspan
+       id="tspan4"
+       x="239.29414"
+       y="961.79688"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080">4</tspan></text>
+</svg>
